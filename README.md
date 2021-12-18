@@ -3,7 +3,7 @@ Soc-IoT is proposed as an environment monitoring framework that is a combination
 
 ## Getting Started
 The main source code is available within CoSense Unit folder and exploreR folder. Also, STL files are also provided in case the users want to replicate the design of the CoSense Unit. The design has been tested with several 3D printers using different material (PET, PLA). For best performance, it is recommended to use PLA for 3D printing. 
-Note: As this is a proo-of-concept, the source code, 3D design would be updated on a regular basis. 
+Note: As this is a proof-of-concept, the source code, 3D design would be updated on a regular basis. 
 
 
 ## Issues
