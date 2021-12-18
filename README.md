@@ -1,25 +1,17 @@
 # Soc-IoT
+Soc-IoT is proposed as an environment monitoring framework that is a combination of two components. CoSense Unit, a modular and open-source environment sensing device that can provide consistent and accurate air quality data. The second core component is the framework is the exploreR that is an open-source RShiny-based data analysis and visualization application. The application is designed to reduce the technological barriers especially related to programming and allow citizens as well as experts to analyze and interpret sensor data in a meaningful way. The complete framework is designed to create an innovative ecosystem that enables collaboration, sustainable practices, and inclusion to address the pressing issue of collaborative environmental sensing.
 
-Soc-IoT is an integrated framework for air quality monitoring. 
-Python (>3.7) based desktop application using the PyQt5 library for data processing, visualization and analysis. The toolbox was developed with the aim to equip experts as well as non-experts to process, analyse and visualize sensor data.
+## Getting Started
+The main source code is available within CoSense Unit folder and exploreR folder. Also, STL files are also provided in case the users want to replicate the design of the CoSense Unit. The design has been tested with several 3D printers using different material (PET, PLA). For best performance, it is recommended to use PLA for 3D printing. 
+Note: As this is a proo-of-concept, the source code, 3D design would be updated on a regular basis. 
 
-## Tutorials
-A tutorial is available at the [Wiki Page](https://github.com/sachit27/VAYU/wiki). It provides an easy to follow step by step guide that shows different features of the toolbox as well as the outputs received after implementation of those functions.
 
 ## Issues
 If there are any issues/bugs, please  report them using the GitHub issue functionality.
 
-## Getting Started
-The main application file is availabel in the [src](https://github.com/sachit27/VAYU/tree/main/src) folder. The current version works well for MacOS as well as Windows.
-
 ## Example Dataset
-The [dataset](https://github.com/sachit27/VAYU/tree/main/dataset) folder includes several datasets that have been used for testing the toolbox. The example datasets include data from AirBox sensors, PurpleAir and two custom datasets. The reason behind having custom datasets was to test the toolbox with data in different formats. More datasets are being tested currently that include data from Luftdaten sensors. 
+The [dataset](https://github.com/sachit27/VAYU/tree/main/dataset) folder includes several datasets that have been used for testing the exploreR application. The example datasets include data from AirBox sensors, PurpleAir, CoSense Units and custom datasets. The reason behind having custom datasets was to test the toolbox with data in different formats. More datasets are being tested currently that include data from Luftdaten sensors. 
 
-### Source Code
-To run the application, download the app.py file. You can use the terminal in mac or the command line tool in windows to start the application. It is advisable to create a virtual environment to work with this application.
-
-To start Vayu
-
-            python3 app.py
-            
-Note: All the outputs (data files, figures and plots ) would be saved in the folder where the main python file is stored.
+## Using the exploreR application
+The application can be accessed using this [link](https://sachitmahajan.shinyapps.io/exploreR/). 
+The current version supports a diverse range of functionalities that allows users to perform data processing, analysis, visualization and forecasting.
