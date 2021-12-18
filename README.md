@@ -10,7 +10,7 @@ Note: As this is a proo-of-concept, the source code, 3D design would be updated 
 If there are any issues/bugs, please  report them using the GitHub issue functionality.
 
 ## Example Dataset
-The [dataset](https://github.com/sachit27/VAYU/tree/main/dataset) folder includes several datasets that have been used for testing the exploreR application. The example datasets include data from AirBox sensors, PurpleAir, CoSense Units and custom datasets. The reason behind having custom datasets was to test the toolbox with data in different formats. More datasets are being tested currently that include data from Luftdaten sensors. 
+The [dataset](https://github.com/sachit27/Soc-IoT/tree/main/exploreR/dataset) folder includes several datasets that have been used for testing the exploreR application. The example datasets include data from AirBox sensors, PurpleAir, CoSense Units and custom datasets. The reason behind having custom datasets was to test the toolbox with data in different formats. More datasets are being tested currently that include data from Luftdaten sensors. 
 
 ## Using the exploreR application
 The application can be accessed using this [link](https://sachitmahajan.shinyapps.io/exploreR/). 
