@@ -1,0 +1,3467 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Binsy, MS
+   Sampath, N
+AF Binsy, M. S.
+   Sampath, Nalini
+BE Smys, S
+   Bestak, R
+   Chen, JIZ
+   Kotuliak, I
+TI User Configurable and Portable Air Pollution Monitoring System for Smart
+   Cities Using IoT
+SO INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS AND COMMUNICATION
+   TECHNOLOGIES (ICCNCT 2018)
+SE Lecture Notes on Data Engineering and Communications Technologies
+LA English
+DT Proceedings Paper
+CT International Conference on Computer Networks and Inventive
+   Communication Technologies (ICCNCT)
+CY APR 26-27, 2018
+CL Coimbatore, INDIA
+DE Air pollution monitoring; Raspberry pi 3; GPS; User configurable;
+   Internet of things
+AB Pollution occurs at an unprecedented scale around the globe. Among various types of pollution, air pollution is a major threat to life and ecosystem as a whole. This paper presents the application of the Internet of Things to model a smart environment by developing a user-configurable air pollution monitoring device. This user configurable device monitors air pollution, collects location coordinates and send the collected data along with the location to an online Internet of Things platform called ThingSpeak. The Public can make use of the information in this platform. This device consists of sensors, Raspberry Pi 3, and GPS module. User configurability is achieved by developing a Bluetooth-based Android application thereby making the device more flexible.
+C1 [Binsy, M. S.; Sampath, Nalini] Amrita Vishwa Vidyapeetham, Amrita Sch Engn, Dept Comp Sci & Engn, Bengaluru, India.
+RP Sampath, N (corresponding author), Amrita Vishwa Vidyapeetham, Amrita Sch Engn, Dept Comp Sci & Engn, Bengaluru, India.
+EM binsy.ms@gmail.com; s_nalini@blr.amrita.edu
+NR 9
+TC 1
+Z9 1
+U1 1
+U2 5
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2367-4512
+BN 978-981-10-8681-6; 978-981-10-8680-9
+J9 LECT NOTE DATA ENG
+PY 2019
+VL 15
+BP 345
+EP 359
+DI 10.1007/978-981-10-8681-6_32
+PG 15
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BM1YG
+UT WOS:000460682500031
+DA 2021-12-15
+ER
+
+PT J
+AU Qian, XY
+   Wang, XN
+AF Qian, Xinyan
+   Wang, Xiaonan
+TI Content-Centric IoT-Based Air Pollution Monitoring
+SO WIRELESS PERSONAL COMMUNICATIONS
+LA English
+DT Article; Early Access
+DE Internet of Things; Content-centric; Names; Air pollution monitoring
+ID NDN-BASED IOT; INTERNET; THINGS; NETWORKS
+AB The Internet of Things (IoT) has been attracting a lot of attention due to its extensive applications such as air pollution monitoring. IoT is based on end-to-end communications where each device independently delivers collected data. This leads to a lot of redundant data especially in the air pollution monitoring case where the data collected in a specific area is highly correlated. To suppress data redundancy and alleviate data delivery costs, we propose a Content-centric IoT-based Air pollution Monitoring (CIAM) system. In CIAM, the content-centric mechanism is exploited to perform air pollution data aggregation and delivery. For each type of content, a content-centric backbone is constructed so that the devices involved in the backbone can aggregate the correlated data and lower the data delivery cost and latency. CIAM is quantitatively evaluated, and the results demonstrate that CIAM alleviates the data delivery costs and latency.
+C1 [Qian, Xinyan; Wang, Xiaonan] Changshu Inst Technol, Suzhou, Peoples R China.
+RP Wang, XN (corresponding author), Changshu Inst Technol, Suzhou, Peoples R China.
+EM ninawang9@163.com
+FU CERNET Innovation Project [NGII20170106]
+FX This work is supported by the CERNET Innovation Project(NGII20170106).
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0929-6212
+EI 1572-834X
+J9 WIRELESS PERS COMMUN
+JI Wirel. Pers. Commun.
+DI 10.1007/s11277-021-09284-4
+EA OCT 2021
+PG 10
+WC Telecommunications
+SC Telecommunications
+GA WO5PI
+UT WOS:000712505700002
+DA 2021-12-15
+ER
+
+PT C
+AU Kalajdjieski, J
+   Stojkoska, BR
+   Trivodaliev, K
+AF Kalajdjieski, Jovan
+   Stojkoska, Biljana Risteska
+   Trivodaliev, Kire
+GP IEEE
+TI IoT Based Framework for Air Pollution Monitoring in Smart Cities
+SO 2020 28TH TELECOMMUNICATIONS FORUM (TELFOR)
+LA English
+DT Proceedings Paper
+CT 28th Telecommunications Forum (TELFOR)
+CY NOV 24-25, 2020
+CL Belgrade, SERBIA
+SP Telecommunicat Soc, Univ Belgrade, IEEE Commun Soc, IEEE Reg 8, Telekom Srbija a d, VLATACOM d o o, Univ Belgrade, Sch Elect Engn, IEEE Serbia & Montenegro COM Chapter, Nokia, Roaming Networks, VIP Mobile, Cisco, Telenor, TERI Engn, ERICSSON, Huawei, SBB, IRITEL a d, Inst Mihajlo Pupin
+DE Air Pollution monitoring; Big Data; Internet of Things; Smart City
+ID INTERNET; THINGS
+AB Awareness of air pollution is one of the key aspects of modern smart cities. Policy makers, and other key stakeholders, are often ignorant of pollution in their immediate surrounding and its correlation to local environment and micro-climate when making short- or long-term decisions. The Internet of Things (IoT) paradigm provides a suitable general framework for monitoring air pollution as it incorporates a sensor network containing static and/or mobile sensors for measuring the different pollutants. IoT architectures, although very powerful, have a lot of issues and challenges that need to be addressed and in turn solved. In this paper a comprehensive summary of current trends in air pollution monitoring is presented. Considering the advantages of the existing solutions, a novel holistic air pollution monitoring architecture is proposed. A detailed analysis of its components is provided, including their characteristics, objectives and mechanisms to overcome the major issues and challenges.
+C1 [Kalajdjieski, Jovan; Stojkoska, Biljana Risteska; Trivodaliev, Kire] Fac Comp Sci & Engn, Rugjer Boshkovikj 16, Skopje 1000, North Macedonia.
+RP Kalajdjieski, J (corresponding author), Fac Comp Sci & Engn, Rugjer Boshkovikj 16, Skopje 1000, North Macedonia.
+EM jovan.kalajdzhieski@finki.ukim.mk; biljana.stojkoska@finki.ukim.mk;
+   kire.trivodaliev@finki.ukim.mk
+FU Faculty of Computer Science and Engineering, USCM, Skopje, Macedonia
+FX This was partially financed by Faculty of Computer Science and
+   Engineering, USCM, Skopje, Macedonia.
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-0-7381-4243-2
+PY 2020
+BP 391
+EP 394
+PG 4
+WC Telecommunications
+SC Telecommunications
+GA BR7DM
+UT WOS:000666945500100
+DA 2021-12-15
+ER
+
+PT J
+AU Kaivonen, S
+   Ngai, ECH
+AF Kaivonen, Sami
+   Ngai, Edith C-H
+TI Real-time air pollution monitoring with sensors on city bus
+SO DIGITAL COMMUNICATIONS AND NETWORKS
+LA English
+DT Article
+DE Smart city; Internet-of-Things; Mobile sensor network; Air pollution
+   monitoring
+ID INTERNET; THINGS
+AB This paper presents an experimental study on real-time air pollution monitoring using wireless sensors on public transport vehicles. The study is part of the GreenIoT project in Sweden, which utilizes Internet-of-Things to measure air pollution level in the city center of Uppsala. Through deploying low-cost wireless sensors, it is possible to obtain more fine-grained and real-time air pollution levels at different locations. The sensors on public transport vehicles complement the readings from stationary sensors and the only ground level monitoring station in Uppsala. The paper describes the deployment of wireless sensors on Uppsala buses and the integration of the mobile sensor network with the GreenIoT testbed. Extensive experiments have been conducted to evaluate the communication quality and data quality of the system.
+C1 [Kaivonen, Sami; Ngai, Edith C-H] Uppsala Univ, Dept Informat Technol, Uppsala, Sweden.
+RP Ngai, ECH (corresponding author), Uppsala Univ, Dept Informat Technol, Uppsala, Sweden.
+EM edith.ngai@it.uu.se
+FU VINNOVA, SwedenVinnova [2015-00347]
+FX This work was supported by the GreenIoT project grant (2015-00347) from
+   VINNOVA, Sweden. We would also like to thank Tommy Rydbeck and his
+   colleagues from Gamla Uppsala Buss AB for the technical support and
+   collaboration, which made the experiments in this work possible.
+NR 16
+TC 28
+Z9 28
+U1 7
+U2 13
+PU KEAI PUBLISHING LTD
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING, DONGHENG DISTRICT 100717,
+   PEOPLES R CHINA
+SN 2468-5925
+EI 2352-8648
+J9 DIGIT COMMUN NETW
+JI Digit. Commun. Netw.
+PD FEB
+PY 2020
+VL 6
+IS 1
+BP 23
+EP 30
+DI 10.1016/j.dcan.2019.03.003
+PG 8
+WC Telecommunications
+SC Telecommunications
+GA KQ3LX
+UT WOS:000516829300003
+OA Green Published, gold
+DA 2021-12-15
+ER
+
+PT C
+AU Habibi, R
+   Alesheikh, AA
+AF Habibi, R.
+   Alesheikh, A. A.
+BE Arefi, H
+   Motagh, M
+TI INCORPOARATION OF GEOSENSOR NETWORKS INTO INTERNET OF THINGS FOR
+   ENVIRONMENTAL MONITORING
+SO INTERNATIONAL CONFERENCE ON SENSORS & MODELS IN REMOTE SENSING &
+   PHOTOGRAMMETRY
+SE International Archives of the Photogrammetry Remote Sensing and Spatial
+   Information Sciences
+LA English
+DT Proceedings Paper
+CT International Conference on Sensors and Models in Remote Sensing and
+   Photogrammetry
+CY NOV 23-25, 2015
+CL Kish Island, IRAN
+DE geosensor networks; Internet of Things; SWE; sensor; environmental
+   monitoring; air pollution
+AB Thanks to the recent advances of miniaturization and the falling costs for sensors and also communication technologies, Internet specially, the number of internet-connected things growth tremendously. Moreover, geosensors with capability of generating high spatial and temporal resolution data, measuring a vast diversity of environmental data and automated operations provide powerful abilities to environmental monitoring tasks. Geosensor nodes are intuitively heterogeneous in terms of the hardware capabilities and communication protocols to take part in the Internet of Things scenarios. Therefore, ensuring interoperability is an important step. With this respect, the focus of this paper is particularly on incorporation of geosensor networks into Internet of things through an architecture for monitoring real-time environmental data with use of OGC Sensor Web Enablement standards. This approach and its applicability is discussed in the context of an air pollution monitoring scenario.
+C1 [Habibi, R.; Alesheikh, A. A.] KN Toosi Univ Technol, Fac Geodesy & Geomat Engn, Tehran, Iran.
+RP Habibi, R (corresponding author), KN Toosi Univ Technol, Fac Geodesy & Geomat Engn, Tehran, Iran.
+EM rhabibi@mail.kntu.ac.ir; alesheikh@kntu.ac.ir
+RI Alesheikh, Ali Asghar/Z-4780-2019; Alesheikh, Ali Asghar/AAR-5464-2021
+OI Alesheikh, Ali Asghar/0000-0001-9537-9401
+NR 11
+TC 1
+Z9 2
+U1 0
+U2 1
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLE 1E, GOTTINGEN, 37081, GERMANY
+SN 2194-9034
+J9 INT ARCH PHOTOGRAMM
+PY 2015
+VL 41
+IS W5
+BP 259
+EP 261
+DI 10.5194/isprsarchives-XL-1-W5-259-2015
+PG 3
+WC Geography, Physical; Remote Sensing; Imaging Science & Photographic
+   Technology
+SC Physical Geography; Remote Sensing; Imaging Science & Photographic
+   Technology
+GA BF4CQ
+UT WOS:000380618200046
+OA Green Submitted, gold
+DA 2021-12-15
+ER
+
+PT J
+AU Dhingra, S
+   Madda, RB
+   Gandomi, AH
+   Patan, R
+   Daneshmand, M
+AF Dhingra, Swati
+   Madda, Rajasekhara Babu
+   Gandomi, Amir H.
+   Patan, Rizwan
+   Daneshmand, Mahmoud
+TI Internet of Things Mobile-Air Pollution Monitoring System (IoT-Mobair)
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Air pollution monitoring system; air quality index (AQI); air-pollution
+   safe route; Android; cloud; distributed systems; global positioning
+   system (GPS); sensors
+ID EXPOSURE
+AB Internet of Things (IoT) is a worldwide system of "smart devices" that can sense and connect with their surroundings and interact with users and other systems. Global air pollution is one of the major concerns of our era. Existing monitoring systems have inferior precision, low sensitivity, and require laboratory analysis. Therefore, improved monitoring systems are needed. To overcome the problems of existing systems, we propose a three-phase air pollution monitoring system. An IoT kit was prepared using gas sensors, Arduino integrated development environment (IDE), and a Wi-Fi module. This kit can be physically placed in various cities to monitoring air pollution. The gas sensors gather data from air and forward the data to the Arduino IDE. The Arduino IDE transmits the data to the cloud via the Wi-Fi module. We also developed an Android application termed IoT-Mobair, so that users can access relevant air quality data from the cloud. If a user is traveling to a destination, the pollution level of the entire route is predicted, and a warning is displayed if the pollution level is too high. The proposed system is analogous to Google traffic or the navigation application of Google Maps. Furthermore, air quality data can be used to predict future air quality index (AQI) levels.
+C1 [Dhingra, Swati; Madda, Rajasekhara Babu] Vellore Inst Technol, Sch Comp Sci & Engn, Vellore 632014, Tamil Nadu, India.
+   [Gandomi, Amir H.; Daneshmand, Mahmoud] Stevens Inst Technol, Business Intelligence & Analyt, Hoboken, NJ 07030 USA.
+   [Patan, Rizwan] Galgotias Univ, Sch Comp Sci & Engn, Greater Noida 201307, India.
+RP Gandomi, AH (corresponding author), Stevens Inst Technol, Business Intelligence & Analyt, Hoboken, NJ 07030 USA.
+EM swati.dhingra2015@vit.ac.in; mrajasekharababu@vit.ac.in;
+   a.h.gandomi@stevens.edu; prizwan5@gmail.com;
+   mahmoud.daneshmand@stevens.edu
+RI Gandomi, Amir H/J-7595-2013; PATAN, RIZWAN/C-4451-2017
+OI Gandomi, Amir H/0000-0002-2798-0104; PATAN, RIZWAN/0000-0003-4878-1988
+NR 24
+TC 54
+Z9 56
+U1 5
+U2 26
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD JUN
+PY 2019
+VL 6
+IS 3
+BP 5577
+EP 5584
+DI 10.1109/JIOT.2019.2903821
+PG 8
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA IE8AL
+UT WOS:000472596200135
+DA 2021-12-15
+ER
+
+PT C
+AU Korunoski, M
+   Stojkoska, BR
+   Trivodaliev, K
+AF Korunoski, Mladen
+   Stojkoska, Biljana Risteska
+   Trivodaliev, Kire
+BE Dumnic, B
+   Delimar, M
+   Stefanovic, C
+TI Internet of Things Solution for Intelligent Air Pollution Prediction and
+   Visualization
+SO PROCEEDINGS OF 18TH INTERNATIONAL CONFERENCE ON SMART TECHNOLOGIES (IEEE
+   EUROCON 2019)
+LA English
+DT Proceedings Paper
+CT 18th IEEE International Conference on Smart Technologies (IEEE EUROCON)
+CY JUL 01-04, 2019
+CL Novi Sad, SERBIA
+SP IEEE, IEEE Reg 8, IEEE Serbia & Montenegro Sect, Univ Neoplantensis
+DE Intelligent System; Air Pollution Monitoring; Air Pollution Prediction;
+   Web System
+AB Air pollution monitoring and control is becoming a key priority in urban areas due to its substantial effect on human morbidity and mortality. This paper presents a system architecture for intelligent pollution visualization and future pollution prediction by encompassing pollution measurements and meteorological parameters. First, a pollution model using spatial interpolation is built. By adding meteorological parameters this model is further used to identify the pollution field evolution and the position of potential sources of air pollution. Using deep learning techniques, the system provides predictions for future pollution levels as well as times to reaching alarming thresholds. The whole system is encompassed in a fast, easy to use web service and a client that visually renders the system responses. The system is built and tested on data for the city of Skopje. Although the spatial resolution of the system data is low, the results are satisfactory and promising. Since the system can be seamlessly deployed on an Internet of Things sensing architecture, the improved data spatial resolution will improve performance.
+C1 [Korunoski, Mladen; Stojkoska, Biljana Risteska; Trivodaliev, Kire] Ss Cyril & Methodius Univ, Fac Comp Sci & Engn, Skopje 1000, North Macedonia.
+RP Korunoski, M (corresponding author), Ss Cyril & Methodius Univ, Fac Comp Sci & Engn, Skopje 1000, North Macedonia.
+EM korunoski.mladen@students.finki.ukim.mk;
+   biljana.stojkoska@finki.ukim.mk; kire.trivodaliev@finki.ukim.mk
+FU Faculty of Computer Science and Engineering, University Ss. Cyril and
+   Methodius, Skopje
+FX This work was partially financed by the Faculty of Computer Science and
+   Engineering, University Ss. Cyril and Methodius, Skopje.
+NR 22
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-9301-8
+PY 2019
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BP5KJ
+UT WOS:000556109600030
+DA 2021-12-15
+ER
+
+PT C
+AU Ayele, TW
+   Mehta, R
+AF Ayele, Temesegan Walelign
+   Mehta, Rutvik
+GP IEEE
+TI Air pollution monitoring and prediction using IoT
+SO PROCEEDINGS OF THE 2018 SECOND INTERNATIONAL CONFERENCE ON INVENTIVE
+   COMMUNICATION AND COMPUTATIONAL TECHNOLOGIES (ICICCT)
+LA English
+DT Proceedings Paper
+CT International Conference on Inventive Communication and Computational
+   Technologies (ICICCT)
+CY APR 20-21, 2018
+CL Coimbatore, INDIA
+SP IEEE, Ranganathan Engn Coll
+DE Deep Learning; IoT; LSTM; Real time; RNN
+AB The internet of Things (IoT) is a course of action interrelated computing devices, mechanical and advanced machines, objects, or people that are given unique identifiers and the capability of exchange information over a system without anticipating that human to human or human to machine communication In this work an IoT based air pollution monitoring and prediction system is proposed. This system can be utilized for monitoring air pollutants of a particular area and to air quality analysis as well as forecasting the air quality. The proposed system will focus on the monitoring of air pollutants focus with the combination of IoT with a machine learning algorithm called Recurrent Neural Network more specifically Long Short Term Memory (LSTM).
+C1 [Ayele, Temesegan Walelign; Mehta, Rutvik] Parul Univ, PIET, Dept Informat Technol, Vadodara, India.
+RP Ayele, TW (corresponding author), Parul Univ, PIET, Dept Informat Technol, Vadodara, India.
+EM banchu2003@gmail.com; rutvik.mehta@paruluniversity.ac.in
+NR 14
+TC 8
+Z9 8
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-1974-2
+PY 2018
+BP 1741
+EP 1745
+PG 5
+WC Computer Science, Theory & Methods; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BL8FP
+UT WOS:000456251700346
+DA 2021-12-15
+ER
+
+PT C
+AU Maurya, S
+   Sharma, S
+   Yadav, P
+AF Maurya, Sweta
+   Sharma, Shilpi
+   Yadav, Pranay
+GP IEEE
+TI Internet of Things based Air Pollution Penetrating System using GSM and
+   GPRS
+SO 2018 INTERNATIONAL CONFERENCE ON ADVANCED COMPUTATION AND
+   TELECOMMUNICATION (ICACAT)
+LA English
+DT Proceedings Paper
+CT International Conference on Advanced Computation and Telecommunication
+   (ICACAT)
+CY DEC 28-29, 2018
+CL Bhopal, INDIA
+SP IEEE MP Sub Sect, IEEE Bombay Sect, Laxmi Narain Coll Technol Grp Coll, Natl Board Accrediat
+DE Real-time monitoring; Air pollution; RF; Sensor; Wireless Sensor network
+   and Cloud Servers
+AB In the last decade, level of pollution is indomitable in urban area. Due to this, the quality degrades day by day. Due to this researchers are focused on air pollution monitoring unit with the help of wireless sensor network. These sensor networks give the information of pollution level of the centralized server using internet or telecom network. This paper proposed a reliable and low cost air pollution monitoring system for developing countries. Most of the developing nations where they don't have fourth generation high speed communication network but they require Air pollution monitoring system with the help of proposed monitoring system they could measure the level carbon mono oxide (Co) and other pollution gas level in the form PPM. The proposed system is based on internet of things, global position system (GPS) and general packet radio servers (GPRS). Sensor collection data in the analog form and send microcontroller unit that is converted into an analog information in digital form and send this digital data to cloud server using GPRS system and store the data on cloud servers and then process this data. After the processing of this collected sensor data represented on http link that is based IP address and also create an APK file App presentation of this data. The proposed pollution measurement system shows low cost and better reliability as compared to other measurement devices that is shown in simulation and result.
+C1 [Maurya, Sweta; Sharma, Shilpi] RGPV, BIT, Dept Elect & Commun, Bhopal, MP, India.
+   [Yadav, Pranay] ULT, Dept Res & Dev, Bhopal, MP, India.
+RP Maurya, S (corresponding author), RGPV, BIT, Dept Elect & Commun, Bhopal, MP, India.
+EM swetamaurya095@gmail.com; shilpi2000sharma@gmail.com;
+   pranaymedc@ieee.org
+RI Yadav, Pranay/R-6751-2017
+OI Yadav, Pranay/0000-0002-9368-8398
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-5472-9
+PY 2018
+PG 5
+WC Computer Science, Theory & Methods; Telecommunications
+SC Computer Science; Telecommunications
+GA BO7YH
+UT WOS:000526067100105
+DA 2021-12-15
+ER
+
+PT C
+AU Cao, QH
+   Khan, I
+   Farahbakhsh, R
+   Madhusudan, G
+   Lee, GM
+   Crespi, N
+AF Cao, Quyet H.
+   Khan, Imran
+   Farahbakhsh, Reza
+   Madhusudan, Giyyarpuram
+   Lee, Gyu Myoung
+   Crespi, Noel
+GP IEEE
+TI A Trust Model for Data Sharing in Smart Cities
+SO 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)
+SE IEEE International Conference on Communications
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Communications (ICC)
+CY MAY 23-27, 2016
+CL Kuala Lumpur, MALAYSIA
+SP IEEE, IEEE Commun Soc
+DE Internet of Things; Smart Cities; Trust-based Data Sharing; Data Usage
+   Control; Defeasible Reasoning; and Air Pollution Monitoring
+ID SEMANTIC SENSOR; INTERNET; THINGS; WEB
+AB The data generated by the devices and existing infrastructure in the Internet of Things (IoT) should be shared among applications. However, data sharing in the IoT can only reach its full potential when multiple participants contribute their data, for example when people are able to use their smartphone sensors for this purpose. We believe that each step, from sensing the data to the actionable knowledge, requires trust-enabled mechanisms to facilitate data exchange, such as data perception trust, trustworthy data mining, and reasoning with trust related policies. The absence of trust could affect the acceptance of sharing data in smart cities. In this study, we focus on data usage transparency and accountability and propose a trust model for data sharing in smart cities, including system architecture for trust-based data sharing, data semantic and abstraction models, and a mechanism to enhance transparency and accountability for data usage. We apply semantic technology and defeasible reasoning with trust data usage policies. We built a prototype based on an air pollution monitoring use case and utilized it to evaluate the performance of our solution.
+C1 [Cao, Quyet H.; Madhusudan, Giyyarpuram] Orange Labs, Paris, France.
+   [Khan, Imran] Schneider Elect Ind SAS, 38TEC, F-38050 Grenoble 9, France.
+   [Cao, Quyet H.; Farahbakhsh, Reza; Crespi, Noel] Inst Mines Telecom, Telecom SudParis, CNRS, UMR 5157, Paris, France.
+   [Lee, Gyu Myoung] Liverpool John Moores Univ, Dept Comp Sci, Liverpool L3 5UX, Merseyside, England.
+RP Cao, QH (corresponding author), Orange Labs, Paris, France.; Cao, QH (corresponding author), Inst Mines Telecom, Telecom SudParis, CNRS, UMR 5157, Paris, France.
+EM quyet.caohuu@orange.com; imran@ieee.org;
+   reza.farahbakhsh@it-sudparis.eu; giyyarpuram.madhusudan@orange.com;
+   g.m.lee@ljmu.ac.uk; noel.crespi@it-sudparis.eu
+RI Crespi, Noel/ABE-7052-2020
+OI Crespi, Noel/0000-0003-2962-192X
+NR 21
+TC 14
+Z9 15
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1550-3607
+BN 978-1-4799-6664-6
+J9 IEEE ICC
+PY 2016
+DI 10.1109/ICC.2016.7510834
+PG 7
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BG6YK
+UT WOS:000390993201030
+OA Green Submitted
+DA 2021-12-15
+ER
+
+PT C
+AU Binsy, MS
+   Sampath, N
+AF Binsy, M. S.
+   Sampath, Nalini
+BE Hemanth, J
+   Fernando, X
+   Lafata, P
+   Baig, Z
+TI Self Configurable Air Pollution Monitoring System Using IoT and Data
+   Mining Techniques
+SO INTERNATIONAL CONFERENCE ON INTELLIGENT DATA COMMUNICATION TECHNOLOGIES
+   AND INTERNET OF THINGS, ICICI 2018
+SE Lecture Notes on Data Engineering and Communications Technologies
+LA English
+DT Proceedings Paper
+CT International Conference on Intelligent Data Communication Technologies
+   and Internet of Things (ICICI)
+CY AUG 07-08, 2018
+CL Coimbatore, INDIA
+DE Air pollution prediction; Data mining; Self-configurable; Regression;
+   Internet of things
+AB Air pollution is a perilous threat to living organisms and the whole ecosystem. The purpose of this paper is to develop a self-configurable air pollution monitoring system which can monitor and predict air pollution by applying Internet of Things (IoT) and data mining technologies. Self-configurability of the device is the ability to regulate the frequency of monitoring based on pollutant predictions. Monitoring is done using the system developed in paper [1] which collects concentration of pollutants such as Carbon monoxide, harmful gases, dust level, meteorological parameters such as temperature along with GPS location. This paper deals with using the monitored data for prediction along with humidity information. Data mining technique, Regression is used to predict the level of pollutant. These predicted values in turn decides the mode of operation of the device. The monitored data send to ThingSpeak are further analyzed using MATLAB. Map of the location is updated using red and green markers based on the level of pollution. These data along with predicted pollutant levels in ThingSpeak can be viewed by the public.
+C1 [Binsy, M. S.; Sampath, Nalini] Amrita Vishwa Vidyapeetham, Dept Comp Sci & Engn, Amrita Sch Engn, Bengaluru, India.
+RP Sampath, N (corresponding author), Amrita Vishwa Vidyapeetham, Dept Comp Sci & Engn, Amrita Sch Engn, Bengaluru, India.
+EM binsy.ms@gmail.com; s_nalini@blr.amrita.edu
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2367-4512
+BN 978-3-030-03146-6; 978-3-030-03145-9
+J9 LECT NOTE DATA ENG
+PY 2019
+VL 26
+BP 786
+EP 798
+DI 10.1007/978-3-030-03146-6_90
+PG 13
+WC Telecommunications
+SC Telecommunications
+GA BR9CJ
+UT WOS:000674929900090
+DA 2021-12-15
+ER
+
+PT C
+AU Zimos, E
+   Mota, JFC
+   Rodrigues, MRD
+   Deligiannis, N
+AF Zimos, Evangelos
+   Mota, Joao F. C.
+   Rodrigues, Miguel R. D.
+   Deligiannis, Nikos
+GP IEEE
+TI Internet-of-Things Data Aggregation Using Compressed Sensing with Side
+   Information
+SO 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)
+LA English
+DT Proceedings Paper
+CT 23rd International Conference on Telecommunications (ICT)
+CY MAY 16-18, 2016
+CL Thessaloniki, GREECE
+ID SIGNAL RECOVERY
+AB The Internet-of-Things (IoT) is the key enabling technology for transforming current urban environments into so-called Smart Cities. One of the goals behind making cities smarter is to provide a healthy environment that improves the citizens' quality of life and wellbeing. In this work, we introduce a novel data aggregation mechanism tailored to the application of large-scale air pollution monitoring with IoT devices. Our design exploits the intra-and inter-source correlations among air-pollution data using the framework of compressed sensing with side information. The proposed method delivers significant improvements in the data reconstruction quality with respect to the state of the art, even in the presence of noise when measuring and transmitting the data.
+C1 [Zimos, Evangelos; Deligiannis, Nikos] Vrije Univ Brussel, Dept Elect & Informat, Pl Laan 2, B-1050 Brussels, Belgium.
+   [Mota, Joao F. C.; Rodrigues, Miguel R. D.] UCL, Dept Elect & Elect Engn, London WC1E 7JE, England.
+   [Zimos, Evangelos; Deligiannis, Nikos] iMinds, Gaston Crommenlaan 8 b102, B-9050 Ghent, Belgium.
+RP Zimos, E (corresponding author), Vrije Univ Brussel, Dept Elect & Informat, Pl Laan 2, B-1050 Brussels, Belgium.; Zimos, E (corresponding author), iMinds, Gaston Crommenlaan 8 b102, B-9050 Ghent, Belgium.
+RI Mota, Joao F. C./AAK-8182-2021; Deligiannis, Nikolaos/ABH-2381-2020
+OI Mota, Joao F. C./0000-0001-7263-8255; Deligiannis,
+   Nikolaos/0000-0001-9300-5860
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-1990-8
+PY 2016
+DI 10.1109/ICT.2016.7500418
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BG1KE
+UT WOS:000386851600076
+OA Green Submitted
+DA 2021-12-15
+ER
+
+PT C
+AU Parmar, G
+   Lakhani, S
+   Chattopadhyay, MK
+AF Parmar, Gagan
+   Lakhani, Sagar
+   Chattopadhyay, Manju K.
+GP IEEE
+TI An IoT Based Low Cost Air Pollution Monitoring System
+SO 2017 INTERNATIONAL CONFERENCE ON RECENT INNOVATIONS IN SIGNAL PROCESSING
+   AND EMBEDDED SYSTEMS (RISE)
+LA English
+DT Proceedings Paper
+CT International Conference on Recent Innovations in Signal processing and
+   Embedded Systems (RISE)
+CY NOV 27-29, 2017
+CL Maulana Azad Nat Inst Technol, Dept Electron & Communicat Engn, Bhopal,
+   INDIA
+SP IEEE, ESIEE
+HO Maulana Azad Nat Inst Technol, Dept Electron & Communicat Engn
+DE Internet of Things; Pollution Monitoring; ARM Microcontroller; Nucleo
+   F401RE; Raspberry pi-3; MEAN Stack
+AB A prototype for an Environmental Air Pollution Monitoring System for monitoring the concentrations of major air pollutant gases has been developed. The system uses low cost air-quality monitoring nodes comprises of low cost semiconductor gas sensor with Wi-Fi modules. This system measures concentrations of gases such as CO, CO2, SO2 and NO2 using semiconductor sensors. The sensors will gather the data of various environmental parameters and provide it to raspberry pi which act as a base station. Realization of data gathered by sensors is displayed on Raspberry pi 3 based Webserver. A MEAN stack is developed to display data over website. The fundamental aspect of proposed work is to provide low cost infrastructure to enable the data collection and dissemination to all stakeholders.
+C1 [Parmar, Gagan; Lakhani, Sagar; Chattopadhyay, Manju K.] Devi Ahilya Univ, Sch Elect, Indore, Madhya Pradesh, India.
+RP Parmar, G (corresponding author), Devi Ahilya Univ, Sch Elect, Indore, Madhya Pradesh, India.
+EM gagansp12@gmail.com
+NR 16
+TC 10
+Z9 10
+U1 4
+U2 8
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-4760-4
+PY 2017
+BP 524
+EP 528
+PG 5
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BL7GU
+UT WOS:000455016600097
+DA 2021-12-15
+ER
+
+PT J
+AU Metia, S
+   Nguyen, HAD
+   Ha, QP
+AF Metia, Santanu
+   Nguyen, Huynh A. D.
+   Ha, Quang Phuc
+TI IoT-Enabled Wireless Sensor Networks for Air Pollution Monitoring with
+   Extended Fractional-Order Kalman Filtering
+SO SENSORS
+LA English
+DT Article
+DE extended fractional-order kalman filter; internet of things; air quality
+ID IDENTIFICATION
+AB This paper presents the development of high-performance wireless sensor networks for local monitoring of air pollution. The proposed system, enabled by the Internet of Things (IoT), is based on low-cost sensors collocated in a redundant configuration for collecting and transferring air quality data. Reliability and accuracy of the monitoring system are enhanced by using extended fractional-order Kalman filtering (EFKF) for data assimilation and recovery of the missing information. Its effectiveness is verified through monitoring particulate matters at a suburban site during the wildfire season 2019-2020 and the Coronavirus disease 2019 (COVID-19) lockdown period. The proposed approach is of interest to achieve microclimate responsiveness in a local area.
+C1 [Metia, Santanu; Nguyen, Huynh A. D.; Ha, Quang Phuc] Univ Technol Sydney, Fac Engn & Informat Technol, Sydney, NSW 2007, Australia.
+   [Nguyen, Huynh A. D.] Can Tho Univ, Coll Engn Technol, Can Tho 900000, Vietnam.
+RP Ha, QP (corresponding author), Univ Technol Sydney, Fac Engn & Informat Technol, Sydney, NSW 2007, Australia.
+EM Santanu.Metia@uts.edu.au; Huynhanhduy.Nguyen@student.uts.edu.au;
+   Quang.Ha@uts.edu.au
+RI Liu, Hai-Ying/P-5557-2014; Metia, Santanu/AAY-7588-2021; Ha,
+   Quang/F-8077-2017
+OI Liu, Hai-Ying/0000-0001-8667-3465; Ha, Quang/0000-0003-0978-1758;
+   Nguyen, Huynh Anh Duy/0000-0002-9315-0176; Metia,
+   Santanu/0000-0002-5676-1146
+FU Institute for Sustainable Futures (ISF) [PRO19-7375]
+FX This research was funded, in part, by the Institute for Sustainable
+   Futures (ISF) grant number PRO19-7375.
+NR 36
+TC 0
+Z9 0
+U1 2
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD AUG
+PY 2021
+VL 21
+IS 16
+AR 5313
+DI 10.3390/s21165313
+PG 16
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA UH9GE
+UT WOS:000690228800001
+PM 34450755
+OA Green Published, gold
+DA 2021-12-15
+ER
+
+PT C
+AU Yang, F
+   He, JY
+   An, WP
+   Flanagan, C
+   MacNamee, C
+   McGrath, S
+AF Yang Feng
+   He Junyi
+   An WeiPeng
+   Flanagan, Colin
+   MacNamee, Ciaran
+   McGrath, Sean
+GP IEEE
+TI API Monitor based on Internet of Things technology
+SO 2018 12TH INTERNATIONAL CONFERENCE ON SENSING TECHNOLOGY (ICST)
+SE International Conference on Sensing Technology
+LA English
+DT Proceedings Paper
+CT 12th International Conference on Sensing Technology (ICST)
+CY DEC 04-06, 2018
+CL Univ Limerick, Limerick, IRELAND
+SP Univ Limerick, Dept Elect & Comp Engn
+HO Univ Limerick
+DE IoT; Air Pollution; LPWAN; Sigfox
+AB In many countries, due to the exhaustion of industrial production and the exhaust emissions of a large number of fuel vehicles, air pollution problems are also increasing, which has a negative impact on the ecological environment and people's health. Reducing the impact of air pollution on people and improving air quality are inseparable from the monitoring of air. The following problems are common in previous air monitoring systems: large energy consumption, short-life, limited communication distance, and high maintenance cost. In this paper, an air pollution index (API) monitoring system was built using the Internet of Things technology and Sigfox low-power wide area network (LPWAN) communication technology to solve the above problems, and this air pollution monitoring system was tested at the University of Limerick.
+C1 [Yang Feng; He Junyi; An WeiPeng] Henan Polytech Univ, Sch Comp Sci & Technol, Jiaozuo, Peoples R China.
+   [Flanagan, Colin; MacNamee, Ciaran; McGrath, Sean] Univ Limerick, Dept Elect & Comp Engn, Limerick, Ireland.
+RP Yang, F (corresponding author), Henan Polytech Univ, Sch Comp Sci & Technol, Jiaozuo, Peoples R China.
+EM 211709020010@hpu.edu.cn; hejunyi@hpu.edu.cn; awp@hpu.edu.cn;
+   Colin.Flanagan@ul.ie; Ciaran.MacNamee@ul.ie; Sean.McGrath@ul.ie
+FU University Key Applied Research Program Fund [13150051]; UL(University
+   of Limerick) IoT 2018 summer project;  [6609007023]
+FX This work supported by University Key Applied Research Program Fund
+   (13150051), University doctoral fund (6609007023) and UL(University of
+   Limerick) IoT 2018 summer project. The authors with to thank the
+   reviewers for the careful review and credible suggestions, as well as
+   others who have helped to complete this paper.
+NR 6
+TC 1
+Z9 1
+U1 2
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2156-8065
+BN 978-1-5386-5147-6
+J9 I CONF SENS TECHNOL
+PY 2018
+BP 213
+EP 216
+PG 4
+WC Engineering, Electrical & Electronic; Remote Sensing
+SC Engineering; Remote Sensing
+GA BM0LU
+UT WOS:000458872800039
+DA 2021-12-15
+ER
+
+PT C
+AU Chen, XJ
+   Liu, XP
+   Xu, P
+AF Chen Xiaojun
+   Liu Xianpeng
+   Xu Peng
+GP IEEE
+TI IOT- Based Air Pollution Monitoring and Forecasting System
+SO 2015 INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTATIONAL SCIENCES
+   (ICCCS)
+LA English
+DT Proceedings Paper
+CT Computer and Computational Sciences (ICCCS)
+CY JAN 27-29, 2015
+CL Noida, INDIA
+SP IEEE, ICCCS, ITS Engn Coll, ITS Engn Coll, Comp Sci & Engn Dept
+DE Neural Network; Air Quality Monitoring; Air Pollution Forecast
+AB Using empirical analysis, conventional air automatic monitoring system has high precision, but large bulk, high cost, and single datum class make it impossible for large-scale installation. Based on intriducing Internet of Things(IOT) into the field of environmental protection, this paper puts forward a kind of real-time air pollution monitoring and forecasting system. By using IOT, this system can reduce the hardware cost into 1/10 as before. The system can be laid out in a large number in monitoring area to form monitoring sensor network. Besides the functions of conventional air automatic monitoring system, it also exhibits the function of forecasting development trend of air pollution within a certain time range by analyzing the data obtained by front-end perception system according to neural network technology. Targeted emergency disposal measures can be taken to minimize losses in practical application.
+C1 [Chen Xiaojun; Liu Xianpeng; Xu Peng] Jiangsu City Vocat Coll, Electromech Dept, Nantong Campus,169 Zhongyuan Rd, Nantong, Jiangsu, Peoples R China.
+RP Chen, XJ (corresponding author), Jiangsu City Vocat Coll, Electromech Dept, Nantong Campus,169 Zhongyuan Rd, Nantong, Jiangsu, Peoples R China.
+EM 948735531@qq.com; 31886256@qq.com; 34851799@qq.com
+NR 16
+TC 31
+Z9 31
+U1 2
+U2 6
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-1819-5
+PY 2015
+BP 257
+EP 260
+PG 4
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Electrical & Electronic
+SC Computer Science; Engineering
+GA BF3CY
+UT WOS:000380528400045
+DA 2021-12-15
+ER
+
+PT C
+AU Gupta, K
+   Rakesh, N
+AF Gupta, Karan
+   Rakesh, Nitin
+GP IEEE
+TI IoT Based Automobile Air Pollution Monitoring System
+SO PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE CONFLUENCE 2018 ON CLOUD
+   COMPUTING, DATA SCIENCE AND ENGINEERING
+LA English
+DT Proceedings Paper
+CT 8th IEEE International Conference on Cloud Computing, Data Science and
+   Engineering (Confluence) / Global Technology, Innovation and
+   Enterpreneurship Summit
+CY JAN 11-12, 2018
+CL Amity Sch Engn & Technol, Noida, INDIA
+SP IEEE UP Sect, IEEE, Amity Univ, Amity Sch Engn & Technol, Dept Comp Sci & Engn, Amity Univ, Dell EMC
+HO Amity Sch Engn & Technol
+DE Clean Automobile model; IoT (Internet of Things); ADC (Analog to Digital
+   Converter); Raspberry pi; Arduino
+AB The pollution due to the vehicles has sky-rocketed several risks not only for the organisms but has also disturbed the balance of the environment. In the past decade, the number of vehicles has increased enormously due to which vehicular pollution has only increased. hi most of the cases, the driver does not have the information related to the emission of the vehicle thus making it difficult for the driver to take the particular actions to get the vehicle repaired. So, in order to control the vehicular pollution, the 'Automobile Air Pollution Monitoring' model can be used. The model will help in detecting the vehicles which emit the pollution greater than the standard limit. Moreover, the data will help in analyzing what sort of vehicle type are the major contributor of the pollution and thus making proper strategies to tackle such vehicle problems.
+C1 [Gupta, Karan; Rakesh, Nitin] Amity Univ, ASET, Dept Comp Sci & Engn, Noida, Uttar Pradesh, India.
+RP Gupta, K (corresponding author), Amity Univ, ASET, Dept Comp Sci & Engn, Noida, Uttar Pradesh, India.
+EM reachguptakaran@gmail.com; nitin.rakesh@gmail.com
+NR 24
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-1719-9
+PY 2018
+BP 503
+EP 508
+PG 6
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BP9ZB
+UT WOS:000571162600089
+DA 2021-12-15
+ER
+
+PT J
+AU Idrees, Z
+   Zheng, LR
+AF Idrees, Zeba
+   Zheng, Lirong
+TI Low cost air pollution monitoring systems: A review of protocols and
+   enabling technologies
+SO JOURNAL OF INDUSTRIAL INFORMATION INTEGRATION
+LA English
+DT Review
+DE Pollution monitoring; Electrochemical gas sensors; IoT; Low cost ambient
+   sensors; Particle matter sensors; Sensor calibration
+ID GAS SENSORS; PERFORMANCE; PLATFORM; NETWORK; DESIGN
+AB Air pollution is the foremost concern especially in modern cities, because of its noteworthy influences on the community health, and the global economy. The significance of the air quality statistics makes the highly accurate real-time monitoring systems vital. The partial data access, high cost and the non-scalability of conventional air monitoring system enforce the researchers to develop future air pollution monitoring system employing advance technologies such as internet of things (IoT), wireless sensor network (WSN) and the low-cost ambient sensors. This paper presents a short but comprehensive review of these air pollution monitoring systems (APMS), their enabling technologies and protocols. We categorize the recent work into two main classes as static and mobile air monitoring systems based on the carriers of the sensing node and the deployment strategies. Sub categories include, portable monitoring devices, community supported approaches, WSN based systems, and IoT supported approaches. Broad performance assessments and the comparison among these categories were performed with respect to their architecture and the incorporated tools. Furthermore, the present study explored the issues, groundwork, and the methodology of designing a real-time air pollution monitoring system. Finally, the review deliberated the limits of the existing works and summaries the objectives that need to attain in the future air monitoring systems to make them more accurate and realistic.
+C1 [Idrees, Zeba; Zheng, Lirong] Fudan Univ, Sch Informat Sci & Engn, Shanghai, Peoples R China.
+   [Idrees, Zeba] Univ Engn & Technol Lahore, Lahore, Pakistan.
+RP Idrees, Z (corresponding author), Fudan Univ, Sch Informat Sci & Engn, Shanghai, Peoples R China.
+EM izeba17@fudan.edu.cn
+RI Idrees, Zeba/ABE-2251-2020; ZHENG, Lirong/ABF-9274-2020
+OI ZHENG, Lirong/0000-0001-9588-0239
+NR 78
+TC 19
+Z9 19
+U1 13
+U2 30
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2467-964X
+EI 2452-414X
+J9 J IND INF INTEGR
+JI J. Ind. Inf. Integr.
+PD MAR
+PY 2020
+VL 17
+AR 100123
+DI 10.1016/j.jii.2019.100123
+PG 10
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Industrial
+SC Computer Science; Engineering
+GA KU2YL
+UT WOS:000519573700005
+DA 2021-12-15
+ER
+
+PT C
+AU Zimos, E
+   Mota, JFC
+   Tsiligianni, E
+   Rodrigues, MRD
+   Deligiannis, N
+AF Zimos, Evangelos
+   Mota, Joao F. C.
+   Tsiligianni, Evaggelia
+   Rodrigues, Miguel R. D.
+   Deligiannis, Nikos
+GP IEEE
+TI Data Aggregation and Recovery for the Internet of Things: A Compressive
+   Demixing Approach
+SO 2018 IEEE WIRELESS COMMUNICATIONS AND NETWORKING CONFERENCE (WCNC)
+SE IEEE Wireless Communications and Networking Conference
+LA English
+DT Proceedings Paper
+CT IEEE Wireless Communications and Networking Conference (WCNC)
+CY APR 15-18, 2018
+CL Barcelona, SPAIN
+SP IEEE, IEEE Commun Soc, Natl Instruments, Rohde & Schwarz, Huawei, InterDigital, NEC
+DE Compressive demixing; wireless sensor networks; Internet of things;
+   air-pollution monitoring; smart cities
+ID WIRELESS SENSOR NETWORKS; GEOMETRY; SEPARATION
+AB Large-scale wireless sensor networks (WSNs) and Internet-of-Things (IoT) applications involve diverse sensing devices collecting and transmitting massive amounts of heterogeneous data. In this paper, we propose a novel compressive data aggregation and recovery mechanism that reduces the global communication cost without introducing computational overhead at the network nodes. Following the principles of compressive demixing, each node of the network collects measurement readings from multiple sources and mixes them with readings from other nodes into a single low-dimensional measurement vector, which is then relayed to other nodes; the constituent signals are recovered at the sink using convex optimization. Our design achieves significant reduction in the overall network data rates compared to prior schemes based on (distributed) compressed sensing or compressed sensing with (multiple) side information. Experiments using real large-scale air-quality data demonstrate the superior performance of the proposed framework against state-of-the-art solutions, with and without the presence of measurement and transmission noise.
+C1 [Zimos, Evangelos; Tsiligianni, Evaggelia; Deligiannis, Nikos] Vrije Univ Brussel, Dept Elect & Informat, Brussels, Belgium.
+   [Zimos, Evangelos; Tsiligianni, Evaggelia; Deligiannis, Nikos] IMEC, Kapeldreef 75, B-3001 Leuven, Belgium.
+   [Mota, Joao F. C.] Heriot Watt Univ, Inst Sensors Signals & Syst, Edinburgh, Midlothian, Scotland.
+   [Rodrigues, Miguel R. D.] UCL, Dept Elect & Elect Engn, London, England.
+RP Zimos, E (corresponding author), Vrije Univ Brussel, Dept Elect & Informat, Brussels, Belgium.; Zimos, E (corresponding author), IMEC, Kapeldreef 75, B-3001 Leuven, Belgium.
+EM ezimos@etrovub.be; j.mota@hw.ac.uk; etsiligi@etrovub.be;
+   m.rodrigues@ucl.ac.uk; ndeligia@etrovub.be
+RI Deligiannis, Nikolaos/ABH-2381-2020; Mota, Joao F. C./AAK-8182-2021
+OI Deligiannis, Nikolaos/0000-0001-9300-5860; Mota, Joao F.
+   C./0000-0001-7263-8255
+FU Fonds Wetenschappelijk OnderzoekFWO [G0A2617]; VUB-Duke-UCL-UGent
+   International Joint Research Group on Big Data
+FX We acknowledge the support of the Fonds Wetenschappelijk Onderzoek
+   (project no. G0A2617) and the VUB-Duke-UCL-UGent International Joint
+   Research Group on Big Data.
+NR 27
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1525-3511
+BN 978-1-5386-1734-2
+J9 IEEE WCNC
+PY 2018
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BK3SU
+UT WOS:000435542401084
+DA 2021-12-15
+ER
+
+PT C
+AU Jovanovska, EM
+   Davcev, D
+AF Jovanovska, Elena Mitreska
+   Davcev, Danco
+BE Urien, P
+   Piramuthu, S
+TI No pollution Smart City Sightseeing Based on WSN Monitoring System
+SO 2020 SIXTH INTERNATIONAL CONFERENCE ON MOBILE AND SECURE SERVICES
+   (MOBISECSERV))
+SE Proceedings of the Conference on Mobile and Secure Services
+LA English
+DT Proceedings Paper
+CT 6th International Conference on Mobile And Secure Services (MobiSecServ)
+CY FEB 22-23, 2020
+CL Miami Beach, FL
+SP IEEE, Univ Florida, Telecom Paris, IP Paris
+DE Air Pollution; Air Quality; Internet of Things (IoT); Cloud Computing;
+   Mobile Application; Smart Monitoring System; Smart City; Wireless Sensor
+   Network (WSN)
+AB The 'Smart city' is an emerging concept in the last decade that covers many aspects of progressive city life. Many aspects of the Smart cities are inevitably related to ICT or more precisely to the Internet of Things (IoT). In this paper, we cover a smart environment and smart mobility in cities through a mobile application, sensors and web services that cover these aspects in smart cities. Having this in mind, we propose our IoT/Cloud-based 'Smart city' air pollution monitoring system. As the main contribution of this paper, we have designed and implemented a mobile application for air pollution indicators control and corresponding visualization. Additional novelty is the real time recommendations provided by our mobile application on the basis of air pollution parameters value.
+C1 [Jovanovska, Elena Mitreska; Davcev, Danco] Univ Ss Cyril & Methodius, Fac Comp Sci & Engn, Skopje, North Macedonia.
+RP Jovanovska, EM (corresponding author), Univ Ss Cyril & Methodius, Fac Comp Sci & Engn, Skopje, North Macedonia.
+EM elenamitreska@gmail.com; danco.davcev@finki.ukim.mk
+NR 17
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2640-5598
+BN 978-1-7281-5797-9
+J9 PROC CONF MOBILE SEC
+PY 2020
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BP8NR
+UT WOS:000566184800013
+DA 2021-12-15
+ER
+
+PT C
+AU Spandana, G
+   Shanmughasundram, R
+AF Spandana, G.
+   Shanmughasundram, R.
+GP IEEE
+TI Design and Development of Air Pollution Monitoring System for Smart
+   Cities
+SO PROCEEDINGS OF THE 2018 SECOND INTERNATIONAL CONFERENCE ON INTELLIGENT
+   COMPUTING AND CONTROL SYSTEMS (ICICCS)
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Intelligent Computing and Control
+   Systems (ICICCS)
+CY JUN 14-15, 2018
+CL Vaigai Coll Engn, Madurai, INDIA
+SP IEEE, Electron Devices Soc
+HO Vaigai Coll Engn
+DE Internet of Things; smart cities; esp8266 and thingspeak
+AB Environmental parameter monitoring has become major concern in modern megalopolis due to revolution and advancement. The designed system uses Internet of Things (IOT) which provides an economical and an effective system to monitor air pollution level in particular area. IOT empowers vast scope of entities and physical world to be communicated and monitored in fine details. For bestow fascinating services, to exchange and communicate information, IOT embeds connectivity with decision making capability among devices can be used. The strategy of system defines a customized design of IOT based monitoring devices which determine the levels of toxicity in gases in the atmosphere. Using different sensors and GPS connected to ESP8266 air pollution can be determined. The ESP module bridged to cloud, helps to determine the location and pollution level. This integrated system will help in studying testimony of smart city in order to justify the steps taken to control the pollution level.
+C1 [Spandana, G.; Shanmughasundram, R.] Amrita Vishwa Vidyapeetham, Amrita Sch Engn, Dept Elect & Elect Engn, Coimbatore, Tamil Nadu, India.
+RP Spandana, G (corresponding author), Amrita Vishwa Vidyapeetham, Amrita Sch Engn, Dept Elect & Elect Engn, Coimbatore, Tamil Nadu, India.
+EM spandana.guttula@gmail.com; r_shanmughasundaram@cb.amrita.edu
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-2842-3
+PY 2018
+BP 1640
+EP 1643
+PG 4
+WC Automation & Control Systems; Computer Science, Artificial Intelligence
+SC Automation & Control Systems; Computer Science
+GA BM8AW
+UT WOS:000468730700308
+DA 2021-12-15
+ER
+
+PT C
+AU Gomes, P
+   Cavalcante, E
+   Batista, T
+   Taconet, C
+   Chabridon, S
+   Conan, D
+   Delicato, FC
+   Pires, PF
+AF Gomes, Porfirio
+   Cavalcante, Everton
+   Batista, Thais
+   Taconet, Chantal
+   Chabridon, Sophie
+   Conan, Denis
+   Delicato, Flavia C.
+   Pires, Paulo F.
+BE Garcia, CR
+   CaballeroGil, P
+   Burmester, M
+   QuesadaArencibia, A
+TI A QoC-Aware Discovery Service for the Internet of Things
+SO UBIQUITOUS COMPUTING AND AMBIENT INTELLIGENCE, UCAMI 2016, PT II
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 10th International Conference on Ubiquitous Computing and Ambient
+   Intelligence (UCAmI)
+CY NOV 29-DEC 02, 2016
+CL San Bartolome de Tirajana, SPAIN
+SP Univ Las Palmas Gran Canaria, MAmI Res Grp
+ID CONTEXT MANAGEMENT
+AB The Internet of Things (IoT) is an emergent paradigm characterized by a plethora of smart objects connected to the Internet. An inherent characteristic of IoT is the high heterogeneity and the wide distribution of objects, thereby calling for ways to describe in an unambiguous and machine-interpretable way the resources provided by objects, their properties, and the services they offer. In this context, discovery services play a significant role as they allow clients (middle-ware platforms, end-users, applications) to retrieve available resources based on appropriate search criteria, such as resource type, capabilities, location, and Quality of Context (QoC) parameters. To cope with these concerns, we introduce QoDisco, a QoC-aware discovery service relying on multiple-attribute searches, range queries, and synchronous/asynchronous operations. QoDisco also comprises an ontology-based information model for semantically describing resources, services, and QoC-related information. In this paper, we describe the QoDisco architecture and information model as well as an evaluation of the search procedure in an urban air pollution monitoring scenario.
+C1 [Gomes, Porfirio; Cavalcante, Everton; Batista, Thais] Univ Fed Rio Grande do Norte, DIMAp, Natal, RN, Brazil.
+   [Taconet, Chantal; Chabridon, Sophie; Conan, Denis] Univ Paris Saclay, Telecom SudParis, CNRS, SAMOVAR, Evry, France.
+   [Delicato, Flavia C.; Pires, Paulo F.] Univ Fed Rio de Janeiro, PPGI DCC, Rio De Janeiro, Brazil.
+RP Chabridon, S (corresponding author), Univ Paris Saclay, Telecom SudParis, CNRS, SAMOVAR, Evry, France.
+EM porfiriodantas@gmail.com; everton@dimap.ufrn.br; thais@ufrnet.br;
+   chantal.taconet@telecom-sudparis.eu;
+   sophie.chabridonv@telecom-sudparis.eu; denis.conan@telecom-sudparis.eu;
+   fdelicato@gmail.com; paulo.f.pires@gmail.com
+RI Cavalcante, Everton/Y-7824-2019; Pires, Paulo F/C-2239-2013; Delicato,
+   Flavia/M-6644-2013; Chabridon, Sophie/L-4984-2016; Batista,
+   Thais/L-3935-2013; Pires, Paulo/P-4516-2019
+OI Cavalcante, Everton/0000-0002-2475-5075; Pires, Paulo
+   F/0000-0001-5064-4793; Delicato, Flavia/0000-0001-5334-8279; Chabridon,
+   Sophie/0000-0002-1591-6754; Batista, Thais/0000-0003-3558-1450; Pires,
+   Paulo/0000-0001-5064-4793
+NR 25
+TC 5
+Z9 5
+U1 0
+U2 2
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-48799-1; 978-3-319-48798-4
+J9 LECT NOTES COMPUT SC
+PY 2016
+VL 10070
+BP 344
+EP 355
+DI 10.1007/978-3-319-48799-1_39
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods
+SC Computer Science
+GA BG5IS
+UT WOS:000389507400039
+DA 2021-12-15
+ER
+
+PT J
+AU Tong, YH
+   Tian, LQ
+   Li, J
+AF Tong, Yinghua
+   Tian, Liqin
+   Li, Jing
+TI Novel node deployment scheme and reliability quantitative analysis for
+   an IoT-based monitoring system
+SO TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+LA English
+DT Article
+DE Air pollution monitoring; Internet of things; hexagonal clustering;
+   reliability block diagrams; reliability; mean time to failures
+ID LONG BELT COVERAGE; CONNECTIVITY; PLACEMENT
+AB The Internet of things (IoT) is highly suitable for military, environmental, agricultural, and other remote real-time monitoring applications. A reliable topology ensures a stable and dependable monitoring system. Considering the research of an IoT-based air pollution monitoring system for industrial emissions as background, this study proposes a novel dual redundant node deployment scheme. Specifically, hexagonal clustering is proposed for the internal regions. In addition, relationship and quantification formulas for a monitoring area are presented, and the communication range, total number of layers of the topology, and number of cluster headers are determined Interruptions in a monitoring system may reduce the quality of IoT services. Therefore, sensor nodes are also deployed around the monitoring area (in outer regions). The basic external area is modeled and proposed as a rectangular, 1-covered isosceles triangle deployment plan with the objective of minimizing the number of sensor nodes. A quantitative formula is given using the sensing radius, width of the rectangle, and adjacent distance between nodes. Reliability is a critical index in IoT-based applications. Thus, the reliability of a hexagonal clustering topology is presented using reliability block diagrams. For a reliable remote transmission model, different redundant systems are implemented. Furthermore, the reliability value and mean time to failures are calculated. The results are later compared and analyzed quantitatively. This study presents important theoretical and application-based knowledge that can guarantee reliable service for an IoT-based monitoring system.
+C1 [Tong, Yinghua; Tian, Liqin] Qinghai Normal Univ, Sch Comp Sci, Xining, Qinghai, Peoples R China.
+   [Tian, Liqin; Li, Jing] North China Inst Sci & Technol, Sch Comp Sci, Beijing, Peoples R China.
+RP Tian, LQ (corresponding author), Qinghai Normal Univ, Sch Comp Sci, Xining, Qinghai, Peoples R China.; Tian, LQ (corresponding author), North China Inst Sci & Technol, Sch Comp Sci, Beijing, Peoples R China.
+EM tianliqin@tsinghua.org.cn
+RI li, jing/AAZ-6179-2020
+OI tong, yinghua/0000-0001-5701-820X
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China (NSFC) [61472137, 61862055, 61762075]; Ministry of
+   Education "Spring" Cooperation Project [Z2016083, Z2016109]; Qinghai
+   Provincial Key Research Project [2016-SF-130, 2019-NN-161, 2017-ZJ-752];
+   Hebei IoT Monitoring Engineering Technology Research Center
+   [3142016020]; Qinghai Key Lab of IoT [2017-ZJ-Y21]
+FX This work was supported by the National Natural Science Foundation of
+   China (No. 61472137, 61862055, 61762075), the Ministry of Education
+   "Spring" Cooperation Project (No. Z2016083, Z2016109), the Qinghai
+   Provincial Key Research Project (No. 2016-SF-130, 2019-NN-161,
+   2017-ZJ-752), the Hebei IoT Monitoring Engineering Technology Research
+   Center (3142016020), and the Qinghai Key Lab of IoT (2017-ZJ-Y21).
+NR 12
+TC 2
+Z9 2
+U1 4
+U2 13
+PU TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, ANKARA, 00000, TURKEY
+SN 1300-0632
+EI 1303-6203
+J9 TURK J ELECTR ENG CO
+JI Turk. J. Electr. Eng. Comput. Sci.
+PY 2019
+VL 27
+IS 3
+BP 2052
+EP 2067
+DI 10.3906/elk-1802-61
+PG 16
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA HZ7EQ
+UT WOS:000469016000035
+OA Bronze
+DA 2021-12-15
+ER
+
+PT C
+AU Walling, S
+   Sengupta, J
+   Das Bit, S
+AF Walling, Supongmen
+   Sengupta, Jayasree
+   Das Bit, Sipra
+GP IEEE
+TI A Low-cost Real-time IoT based Air Pollution Monitoring using LoRa
+SO 13TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED NETWORKS AND
+   TELECOMMUNICATION SYSTEMS (IEEE ANTS)
+SE IEEE International Conference on Advanced Networks and Telecommunication
+   Systems
+LA English
+DT Proceedings Paper
+CT 13th IEEE International Conference on Advanced Networks and
+   Telecommunication Systems (IEEE ANTS)
+CY DEC 16-19, 2019
+CL BITS, Pilani K K Birla Goa Campus, INDIA
+SP IEEE, Samsung, IEEE Stand Assoc, UK India Educ & Res Initiat, IEEE Future Networks, Evo Log, CSIR, Lumina Networks, Def R & D Org, IP Junct, OLF Edge, Tektronix, San Instruments, IEEE Commun Soc
+HO BITS, Pilani K K Birla Goa Campus
+AB In the era of industrialization, pollutants in the air are increasing at an alarming rate causing serious threats to mankind. This has raised a need of measuring and recording pollution levels to initiate planned actions so as to protect the environment. Internet of Things (IoT) and cloud computing are two of the emerging technologies with enormous potentials that can be utilized for this purpose. Therefore, in this paper we propose an IoT based Air Pollution Monitoring (APM) system whose components are deployed at all critical locations within the city. An upcoming, long-range communication medium LoRa is used as the backbone of our APM system. Our system not only allows passersby to view pollution status of his/her surrounding through an appropriate Android application but also informs the corresponding authorities in case of an emergency. Through real-time data collection and performance evaluation we show how our proposed system satisfies the necessary criteria. Finally, we also provide a detailed comparison of why we prefer LoRa over WiFi (the traditional medium of wireless communication) and how it is beneficial, cost-effective in case of large deployment areas.
+C1 [Walling, Supongmen; Sengupta, Jayasree; Das Bit, Sipra] Indian Inst Engn Sci & Technol, Howrah, India.
+RP Walling, S (corresponding author), Indian Inst Engn Sci & Technol, Howrah, India.
+EM supongmen@gmail.com; jayasree202@gmail.com; sdasbit@yahoo.co.in
+RI Sengupta, Jayasree/AAR-6424-2020
+OI Sengupta, Jayasree/0000-0001-7519-5293
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2329-7077
+J9 IEEE I C ADV NETW TE
+PY 2019
+AR 1570574204
+PG 6
+WC Telecommunications
+SC Telecommunications
+GA BQ6UR
+UT WOS:000613466700026
+DA 2021-12-15
+ER
+
+PT C
+AU Chaturvedi, A
+   Shrivastava, L
+AF Chaturvedi, Ajay
+   Shrivastava, Laxmi
+BE Tomar, GS
+TI IOT Based Wireless Sensor Network for Air Pollution Monitoring
+SO 2020 IEEE 9TH INTERNATIONAL CONFERENCE ON COMMUNICATION SYSTEMS AND
+   NETWORK TECHNOLOGIES (CSNT 2020)
+SE International Conference on Communication Systems and Network
+   Technologies
+LA English
+DT Proceedings Paper
+CT IEEE 9th International Conference on Communication Systems and Network
+   Technologies (CSNT)
+CY APR 10-12, 2020
+CL SRGIC Banmore, Morena, INDIA
+SP IEEE, IEEE MP Sub Sect, Inst Elect & Telecommunicat Engineers, IEEE Bombay Sect, Machine Intelligence Res Labs
+HO SRGIC Banmore
+DE Internet of Things (IoT); Wireless Sensor Network; sensor node;
+   Environmental monitoring; ZIgbee; Microcontroller; ADC; Transceiver;
+   embedded electronics; IEEE 802.11
+AB Wireless sensor network is one of the important areas where a lot of work is being done. The work is not limited to fire detection and propagation of fire, air pollution, water or gas leakage detection but many more. If WSN is used in conjunction with Internet of Things (IOT), the shared information will be more useful. Internet of things is nothing but a combination of sensor and software with the embedded electronics. The data collected in a local area can he sent at any distance where it can be seen and further controlling action may be initiated if required. The WSN based air monitoring system collects the data from the area where the sensors are deployed and the data can be displayed on the computer screen. The computer data can be sent to any terminal which is connected to Internet. Hence by using IOT, the long distance transmission of the data can be done. The monitoring is limited to area but the information can he forwarded to any control station. Hence by using IOT, the air pollution level of the campus even cities can be monitored and necessary advisory can be issued if required.
+C1 [Chaturvedi, Ajay] Def Res & Dev Estab, DRDE, Drdo Gwalior, MP, India.
+   [Shrivastava, Laxmi] Golaka Mandir, Dept Elect Engn, Gwalior, India.
+RP Chaturvedi, A (corresponding author), Def Res & Dev Estab, DRDE, Drdo Gwalior, MP, India.
+EM Chaturvedi.ajay@drde.drdo.in; lselex@yahoo.com
+RI Shrivastava, Laxmi/AAD-3682-2021
+OI Shrivastava, Laxmi/0000-0003-1189-7995
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN 2329-7182
+BN 978-1-7281-4976-9
+J9 INT CONF COMM SYST
+PY 2020
+BP 78
+EP 81
+DI 10.1109/CSNT.2020.15
+PG 4
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BQ5ZI
+UT WOS:000609773800015
+DA 2021-12-15
+ER
+
+PT C
+AU Fioccola, GB
+   Sommese, R
+   Tufano, I
+   Canonico, R
+   Ventre, G
+AF Fioccola, Giovanni B.
+   Sommese, Raffaele
+   Tufano, Imma
+   Canonico, Roberto
+   Ventre, Giorgio
+GP IEEE
+TI Polluino: An Efficient Cloud-based Management of IoT Devices for Air
+   Quality Monitoring
+SO 2016 IEEE 2ND INTERNATIONAL FORUM ON RESEARCH AND TECHNOLOGIES FOR
+   SOCIETY AND INDUSTRY LEVERAGING A BETTER TOMORROW (RTSI)
+LA English
+DT Proceedings Paper
+CT 2nd IEEE International Forum on Research and Technologies for Society
+   and Industry Leveraging a Better Tomorrow (RTSI)
+CY SEP 07-09, 2016
+CL Bologna, ITALY
+SP IEEE
+DE IoT; cloud computing; air pollution monitoring
+ID INTERNET; THINGS
+AB The Internet of Things paradigm originates from the proliferation of intelligent devices that can sense, compute and communicate data streams in a ubiquitous information and communication network. The great amounts of data coming from these devices introduce some challenges related to the storage and processing capabilities of the information. This strengthens the novel paradigm known as Big Data. In such a complex scenario, the Cloud computing is an efficient solution for the managing of sensor data. This paper presents Polluino, a system for monitoring the air pollution via Arduino. Moreover, a Cloud-based platform that manages data coming from air quality sensors is developed.
+C1 [Fioccola, Giovanni B.; Sommese, Raffaele; Tufano, Imma; Canonico, Roberto; Ventre, Giorgio] Univ Naples Federico II, Dipartimento Ingn Elettr & Tecnol Informaz, Naples, Italy.
+RP Fioccola, GB (corresponding author), Univ Naples Federico II, Dipartimento Ingn Elettr & Tecnol Informaz, Naples, Italy.
+EM giovannibattista.fioccola@unina.it; raffaele.sommese@protonmail.ch;
+   immatufano@yahoo.it; roberto.canonico@unina.it; giorgio.ventre@unina.it
+NR 13
+TC 18
+Z9 18
+U1 0
+U2 6
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-1131-5
+PY 2016
+BP 375
+EP 380
+PG 6
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Multidisciplinary
+SC Computer Science; Engineering
+GA BG8AK
+UT WOS:000392142500073
+DA 2021-12-15
+ER
+
+PT C
+AU Kamble, S
+   Mini, S
+   Panigrahi, T
+AF Kamble, Sneha
+   Mini, S.
+   Panigrahi, Trilochan
+GP IEEE
+TI Monitoring Air Pollution: An IoT Application
+SO 2018 INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, SIGNAL
+   PROCESSING AND NETWORKING (WISPNET)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Wireless Communications, Signal
+   Processing and Networking (IEEE WiSPNET)
+CY MAR 22-24, 2018
+CL SSN Coll Engn, Elect & Commun Engn Dept, Kalavakkam, INDIA
+SP IEEE, IEEE Commun Soc, IEEE Commun Soc, Madras Chapter, Aconf
+HO SSN Coll Engn, Elect & Commun Engn Dept
+AB The recent years have witnessed increase in air pollution levels throughout the world. Long term exposure to pollutants in air leads to chronic heart and lung diseases in biological organisms. Therefore monitoring the air pollution has become important. Increase in the human population, usage of fossil fuels, industrialization, vehicles, etc. directly affect the air pollution level and in turn the human health. The air quality level can be monitored using the Internet of Things (IoT). It is a network where uniquely identified things are connected to transfer information and communicates using the Internet protocol. This paper proposes an IoT based air pollution monitoring system and gives an overview of the hardware setup of the proposed system.
+C1 [Kamble, Sneha; Mini, S.; Panigrahi, Trilochan] Natl Inst Technol Goa, Farmagudi 403401, Goa, India.
+RP Kamble, S (corresponding author), Natl Inst Technol Goa, Farmagudi 403401, Goa, India.
+EM sneha311093kamble@gmail.com; mini2min2002@yahoo.co.in;
+   tpanigrahi@nitgoa.ac.in
+FU Science and Engineering Research Board
+FX The authors would like to thank Science and Engineering Research Board,
+   Govt. of India, for providing support to carry out this research work.
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-3624-4
+PY 2018
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BM7CP
+UT WOS:000467740000037
+DA 2021-12-15
+ER
+
+PT J
+AU Venkatanarayanan, A
+   Vijayavel, A
+   Rajagopal, A
+   Nagaradjane, P
+AF Venkatanarayanan, Aadithya
+   Vijayavel, Ashwin
+   Rajagopal, Adarshana
+   Nagaradjane, Prabagarane
+TI Design of sensor system for air pollution and human vital monitoring for
+   connected cyclists
+SO IET COMMUNICATIONS
+LA English
+DT Article
+DE Global Positioning System; Internet of Things; mobile computing;
+   wireless sensor networks; patient monitoring; intelligent sensors;
+   health care; biomedical communication; air pollution measurement;
+   environmental monitoring (geophysics); intelligent transportation
+   systems; bicycle; real-time data; air pollution monitoring; health
+   monitoring; smart e-bike monitoring system; air quality levels;
+   pollution mapping; fingerprint sensor; global system; system theft;
+   greenfield smart city; intelligent transportation system; human vital
+   monitoring; connected cyclists; smart sensor system; Android
+   application; open Internet of Things platform; Thingspeak; mobile
+   module; global positioning system module
+ID ASSOCIATION; HEALTH
+AB This study addresses the design of smart sensor system aided bicycle that can be exploited as a platform for the acquisition of real-time data. In particular, in this work, the authors address the pressing issues like air pollution monitoring and health monitoring by using sensors that were seen as limitations in the already existing smart e-bike monitoring system. The sensor system presented in this study is capable of monitoring parameters such as location, heart rate of the rider and air quality levels in real-time. The data thus collected is fed into Thingspeak, an open Internet of Things platform powered by Matlab. The data is then visually represented in an Android application for riders to view and analyse the monitored parameters. The Android application designed for the system assists the user with location tracking, pollution mapping and health monitoring. Furthermore, security is also considered in this work which is addressed with the help of a fingerprint sensor and a global system for mobile/global positioning system module to alert the user in case of system theft. The system attached to the bicycle can be implemented on a large scale as a fleet/bike sharing system in order to map the pollution of an entire city with the help of IoT, thus aiding the development of greenfield smart city and additionally monitoring the vitals of the user riding the bicycle leading to intelligent transportation system. This study details the design and implementation of the hardware and software, enlists the outcomes of the system and explores the future scope and development.
+C1 [Venkatanarayanan, Aadithya] Univ Calif Los Angeles, Dept ECE, Los Angeles, CA 90095 USA.
+   [Vijayavel, Ashwin] Univ Southern Calif, Dept EE, Los Angeles, CA USA.
+   [Rajagopal, Adarshana] Omnia Digital LLP, Chennai, Tamil Nadu, India.
+   [Nagaradjane, Prabagarane] SSN Inst, Dept ECE, Chennai, Tamil Nadu, India.
+RP Venkatanarayanan, A (corresponding author), Univ Calif Los Angeles, Dept ECE, Los Angeles, CA 90095 USA.
+EM aadithyavenkat@gmail.com
+NR 19
+TC 5
+Z9 5
+U1 1
+U2 22
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1751-8628
+EI 1751-8636
+J9 IET COMMUN
+JI IET Commun.
+PD DEC 3
+PY 2019
+VL 13
+IS 19
+BP 3181
+EP 3186
+DI 10.1049/iet-com.2019.0148
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA JZ3MM
+UT WOS:000505006000008
+DA 2021-12-15
+ER
+
+PT J
+AU Sharma, S
+   Saini, H
+AF Sharma, Shivi
+   Saini, Hemraj
+TI Fog assisted task allocation and secure deduplication using 2FBO(2) and
+   MoWo in cluster-based industrial IoT (IIoT)
+SO COMPUTER COMMUNICATIONS
+LA English
+DT Article
+DE Fog assisted industrial Internet of Things; Task allocation; Secure
+   deduplication; Air pollution monitoring and iFogSim
+ID INTERNET; THINGS
+AB Fog-assisted Internet-of-Things have dynamically received interest in the research community. There are more duplicate data transmitted over the Internet due to the rise in IoT devices. In this paper, task allocation and secure deduplication are implemented over four layers of Fog assisted Cluster-based Industrial IoT. IoT device layer used to sense data and mitigate security threats. Devices presented in this layer are registered to the cloud server using Elliptic Curve Cryptography based Hybrid Multiplier. Multi-Objective based Whale Optimization algorithm is accessible for cluster section. SHA-3 is presented in the fog layer for secure data deduplication. ECC HM private key is used for data encryption before transmitted the data. In cloud, layer indexing is constructed using Merkle Hash Tree. This is endeavored to provide query search results for IoT users at the service layer. The simulation results prove enhancement in average latency, user satisfaction, network lifetime, energy consumption, and security strength.
+C1 [Sharma, Shivi; Saini, Hemraj] Jaypee Univ Informat Technol, Dept Comp Sci & Engn, Waknaghat 173234, Solan, India.
+RP Saini, H (corresponding author), Jaypee Univ Informat Technol, Dept Comp Sci & Engn, Waknaghat 173234, Solan, India.
+EM shivisharma28@gmail.com; hemraj1977@yahoo.co.in
+RI Saini, Hemraj/K-9849-2015
+OI Saini, Hemraj/0000-0003-2957-1491
+NR 39
+TC 6
+Z9 6
+U1 3
+U2 7
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0140-3664
+EI 1873-703X
+J9 COMPUT COMMUN
+JI Comput. Commun.
+PD FEB 15
+PY 2020
+VL 152
+BP 187
+EP 199
+DI 10.1016/j.comcom.2020.01.042
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA KR5LC
+UT WOS:000517658900018
+DA 2021-12-15
+ER
+
+PT C
+AU Ivanov, AV
+   Platov, AY
+   Belyakova, MS
+   Kaminskas, EA
+AF Ivanov, Alexander V.
+   Platov, Alexander Yu.
+   Belyakova, Marina S.
+   Kaminskas, Ekaterina A.
+GP SGEM
+TI INTERACTIVE SYSTEM FOR ENVIRONMENTAL MONITORING OF TRAFFIC JAM
+SO INFORMATICS, GEOINFORMATICS AND REMOTE SENSING, VOL I (SGEM 2015)
+SE International Multidisciplinary Scientific GeoConference-SGEM
+LA English
+DT Proceedings Paper
+CT 15th International Multidisciplinary Scientific Geoconference (SGEM)
+CY JUN 18-24, 2015
+CL Albena, BULGARIA
+SP Bulgarian Acad Sci, Acad Sci Czech Repub, Latvian Acad Sci, Polish Acad Sci, Russian Acad Sci, Serbian Acad Sci & Arts, Slovak Acad Sci, Natl Acad Sci Ukraine, Inst Water Problem & Hydropower NAS KR, Natl Acad Sci Armenia, Sci Council Japan, World Acad Sci, European Acad Sci Arts & Letters, Acad Sci Maldova, Montenegrin Acad Sci & Arts, Croatian Acad Sci & Arts, Georgian Natl Acad Sci, Acad Fine Arts & Design Bratislava, Turkish Acad Sci, Bulgarian Ind Assoc, Bulgarian Minist Environ & Water
+DE Air pollution monitoring; interactive web system; traffic flows;
+   internet of things
+AB Concept of interactive on-line system was developed for environmental monitoring of traffic jam. The core of the interactive monitoring system is a calculation module, which calculates the field of air pollution and health risk. The calculation is based on the actual traffic jam flow velocity data and on the actual weather conditions data. On-line estimation of jam velocity are included in public services of yandex.ru and doroga tv. The calculated traffic intensity is based on the estimated traffic jam flow velocity. Wind speed and wind direction on-line measurements are available on special request from hydrometeorological service. Calculation of pollutant concentrations are based on Gaussian dispersion model in the modification of Pasquill-Gifford. Calculations of health risk are based on Russian official procedures. The calculated pollutant concentrations for the billing period and risks of immediate and chronic toxicological effects could be provided to the user via internet or intranet. Proposed solution is internet of things including GPS beacons at vehicles, embedded digital units at meteorological stations, calculation module and client-server interface.
+C1 [Ivanov, Alexander V.; Platov, Alexander Yu.; Belyakova, Marina S.; Kaminskas, Ekaterina A.] Nizhny Novgorod State Univ Architecture & Civil E, Nizhnii Novgorod, Russia.
+RP Ivanov, AV (corresponding author), Nizhny Novgorod State Univ Architecture & Civil E, Nizhnii Novgorod, Russia.
+RI Ivanov, Alexander V./H-3792-2015
+OI Ivanov, Alexander V./0000-0001-6597-4066
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 1
+PU STEF92 TECHNOLOGY LTD
+PI SOFIA
+PA 1 ANDREY LYAPCHEV BLVD, SOFIA, 1797, BULGARIA
+SN 1314-2704
+BN 978-619-7105-34-6
+J9 INT MULTI SCI GEOCO
+PY 2015
+BP 699
+EP 705
+PG 7
+WC Computer Science, Interdisciplinary Applications; Geosciences,
+   Multidisciplinary; Remote Sensing
+SC Computer Science; Geology; Remote Sensing
+GA BE4DT
+UT WOS:000371599500088
+DA 2021-12-15
+ER
+
+PT J
+AU Arano, KAG
+   Sun, SJ
+   Ordieres-Mere, J
+   Gong, B
+AF Arano, Keith April G.
+   Sun, Shengjing
+   Ordieres-Mere, Joaquin
+   Gong, Bing
+TI The Use of the Internet of Things for Estimating Personal Pollution
+   Exposure
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE Personal Air Pollution Exposure (PAPE); air pollution monitoring; IoT;
+   Air Quality Decision Support System; health impact
+ID INDOOR AIR-QUALITY; PARTICULATE MATTER; DISPERSION MODEL;
+   NITROGEN-DIOXIDE; HEALTH IMPACTS; LOW-COST; POLLUTANTS; PM2.5; RISK;
+   ASSOCIATION
+AB This paper proposes a framework for an Air Quality Decision Support System (AQDSS), and as a proof of concept, develops an Internet of Things (IoT) application based on this framework. This application was assessed by means of a case study in the City of Madrid. We employed different sensors and combined outdoor and indoor data with spatiotemporal activity patterns to estimate the Personal Air Pollution Exposure (PAPE) of an individual. This pilot case study presents evidence that PAPE can be estimated by employing indoor air quality monitors and e-beacon technology that have not previously been used in similar studies and have the advantages of being low-cost and unobtrusive to the individual. In future work, our IoT application can be extended to include prediction models, enabling dynamic feedback about PAPE risks. Furthermore, PAPE data from this type of application could be useful for air quality policy development as well as in epidemiological studies that explore the effects of air pollution on certain diseases.
+C1 [Arano, Keith April G.] Politecn Milan, Dept Management Econ & Ind Engn, Via Lambruschini 4-B Bldg 26-B, I-20156 Milan, Italy.
+   [Sun, Shengjing; Ordieres-Mere, Joaquin] Univ Politecn Madrid, ETS Ingenieros Ind, Dept Ind Engn Business Adm & Stat, Calle Jose Gutierrez Abascal 2, E-28006 Madrid, Spain.
+   [Gong, Bing] Forschungszentrum Julich, Julich Supercomp Ctr, Wilhelm Wohnen Str, D-52425 Julich, Germany.
+RP Gong, B (corresponding author), Forschungszentrum Julich, Julich Supercomp Ctr, Wilhelm Wohnen Str, D-52425 Julich, Germany.
+EM b.gong@fz-juelich.de
+RI Ordieres-Mere, Joaquin/B-9677-2011
+OI Ordieres-Mere, Joaquin/0000-0002-9677-6764; Arano, Keith
+   April/0000-0001-9924-9698; Gong, Bing/0000-0001-7770-2738; Sun,
+   Shengjing/0000-0002-8790-7371
+FU China Scholarship CouncilChina Scholarship Council; European Commission
+   through the EU [793505]
+FX Financial support for this research was granted by China Scholarship
+   Council and the European Commission through the EU funded project under
+   the RFCS program with project number 793505 4.0 Lean system integrating
+   workers and processes (WISEST).
+NR 83
+TC 9
+Z9 9
+U1 0
+U2 10
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-7827
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD SEP 1
+PY 2019
+VL 16
+IS 17
+AR 3130
+DI 10.3390/ijerph16173130
+PG 25
+WC Environmental Sciences; Public, Environmental & Occupational Health
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA IZ4EQ
+UT WOS:000487037500125
+PM 31466302
+OA Green Published, Green Submitted, gold
+DA 2021-12-15
+ER
+
+PT C
+AU Kodali, RK
+   Pathuri, S
+   Rajnarayanan, SC
+AF Kodali, Ravi Kishore
+   Pathuri, Saisri
+   Rajnarayanan, Sasweth C.
+GP IEEE
+TI Smart Indoor Air Pollution Monitoring Station
+SO 2020 INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATION AND INFORMATICS
+   (ICCCI - 2020)
+SE International Conference on Computer Communication and Informatics
+LA English
+DT Proceedings Paper
+CT 10th International Conference on Computer Communication and Informatics
+   (ICCCI)
+CY JAN 22-24, 2020
+CL Coimbatore, INDIA
+SP Sri Shakthi Inst Engn & Technol, IEEE, IEEE Madras Sect, AICTE
+DE Indoor Air Pollution; IoT; NodeMCU
+AB The term " Air Pollution" generally refers to the outdoor air pollution, mainly caused by combustion of fossil fuels by industrial plants, smog, and emissions from cars and trucks. But the air indoors can also be polluted. Indoor air pollution refers to the contamination of indoor air. It may cause harmful health issues. The main sources of indoor air pollution are pesticides, chimneys which contain pollutants such as particulate matter, biomass smoke, fireplaces, moulds, and environmental tobacco smoke. The pollutants are nitrogen dioxide(NO2), Ammonia, sulphur dioxide(SO2), radon, carbon monoxide(CO), carbon dioxide (CO2) and benzene. In this Internet of Things(IoT) project, wireless air pollution monitoring system is built, which sends alerts to the user by using the Internet, when the concentration of pollutants measured goes beyond safer level. This system can be preferred over the existing systems because the alerts sent by the system can be received by the user on mobile phone from any distance irrespective of whether it is connected to the Internet. The microcontroller used is the NodeMCU Dev board v1.0 which consist of ESP8266, Wi-Fi enabled chip. The sensor used is MQ135, air quality sensor, which along with microcontroller can be used to monitor the pollution indoors.
+C1 [Kodali, Ravi Kishore; Pathuri, Saisri; Rajnarayanan, Sasweth C.] Natl Inst Technol, Dept Elect & Commun Engn, Warangal 506004, Andhra Pradesh, India.
+RP Kodali, RK (corresponding author), Natl Inst Technol, Dept Elect & Commun Engn, Warangal 506004, Andhra Pradesh, India.
+EM ravikkodali@gmail.com
+NR 14
+TC 0
+Z9 0
+U1 1
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2329-7190
+BN 978-1-7281-4513-6
+J9 INT CONF COMP COMMUN
+PY 2020
+BP 535
+EP 539
+PG 5
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BQ6EB
+UT WOS:000610812500106
+DA 2021-12-15
+ER
+
+PT J
+AU Haiahem, R
+   Minet, P
+   Boumerdassi, S
+   Saidane, LA
+AF Haiahem, Rahim
+   Minet, Pascale
+   Boumerdassi, Selma
+   Saidane, Leila Azouz
+TI Collision-Free Transmissions in an IoT Monitoring Application Based on
+   LoRaWAN
+SO SENSORS
+LA English
+DT Article
+DE IoT; LPWAN; LoRaWAN; monitoring application; reliability; scalability;
+   collision-free; TDMA; FDMA; air pollution monitoring
+AB With the Internet of Things (IoT), the number of monitoring applications deployed is considerably increasing, whatever the field considered: smart city, smart agriculture, environment monitoring, air pollution monitoring, to name a few. The LoRaWAN (Long Range Wide Area Network)architecture with its long range communication, its robustness to interference and its reduced energy consumption is an excellent candidate to support such applications. However, if the number of end devices is high, the reliability of LoRaWAN, measured by the Packet Delivery Ratio (PDR), becomes unacceptable due to an excessive number of collisions. In this paper, we propose two different families of solutions ensuring collision-free transmissions. The first family is TDMA (Time-Division Multiple Access)-based. All clusters transmit in sequence and up to six end devices with different spreading factors belonging to the same cluster are allowed to transmit in parallel. The second family is FDMA (Frequency Divsion Multiple Access)-based. All clusters transmit in parallel, each cluster on its own frequency. Within each cluster, all end devices transmit in sequence. Their performance are compared in terms of PDR, energy consumption by end device and maximum number of end devices supported. Simulation results corroborate the theoretical results and show the high efficiency of the solutions proposed.
+C1 [Haiahem, Rahim; Saidane, Leila Azouz] CRISTAL Lab, RAMSIS Team, 2010 Campus Univ, Manouba 2010, Tunisia.
+   [Minet, Pascale] Inria Paris, EVA Project, F-75012 Paris, France.
+   [Boumerdassi, Selma] CEDRIC CNAM, F-75003 Paris, France.
+RP Minet, P (corresponding author), Inria Paris, EVA Project, F-75012 Paris, France.
+EM haiahem.rahim@gmail.com; pascale.minet@inria.fr;
+   selma.boumerdassi@cnam.fr; leila.saidane@ensi-uma.tn
+RI Boumerdassi, Selma/AAE-5533-2021
+OI boumerdassi, selma/0000-0003-2603-2433
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD JUL
+PY 2020
+VL 20
+IS 14
+AR 4053
+DI 10.3390/s20144053
+PG 33
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA MY8NT
+UT WOS:000558675000001
+PM 32708173
+OA gold, Green Submitted, Green Published
+DA 2021-12-15
+ER
+
+PT J
+AU Siddiqui, SA
+   Fatima, N
+   Ahmad, A
+AF Siddiqui, Salman Ahmad
+   Fatima, Neda
+   Ahmad, Anwar
+TI Smart Air Pollution Monitoring System with Smog Prediction Model using
+   Machine Learning
+SO INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+LA English
+DT Article
+DE Air pollution; IoT; machine learning; smart mirror; temperature and
+   humidity sensor
+AB Air Pollution is a harsh reality of today's times. With rapid industrialization and urbanization, the polluting gases emitted by the burning of fossil fuels in industries, factories and vehicles, cities around the world have become "gas chambers". Unfortunately, New Delhi too happens to be among the most polluted cities in the world. The present paper designs and demonstrates an IoT(Internet of Things) based smart air pollution monitoring system that could be installed at various junctions and high traffic zones in urban metropolis and megalopolis to monitor pollution locally. It is designed in a novelistic way that not just monitors air pollution by taking varied inputs from various sensors (temperature, humidity, smoke, Carbon monoxide, gas) and but also presents it on a smart mirror. Its unique feature is the demonstration of a smog prediction model by determining PM10 (Particulate Matter 10) concentration using the most efficient machine learning model after an extensive comparison by taking into account environmental conditions. This data generated can also be sent as a feedback to the traffic department to avoid incessant rush and to maintain uniform flow of traffic and also to environmental agencies to keep pollution levels under check.
+C1 [Siddiqui, Salman Ahmad; Fatima, Neda; Ahmad, Anwar] Jamia Millia Islamia, Dept Elect & Commun Engn, New Delhi, India.
+RP Siddiqui, SA (corresponding author), Jamia Millia Islamia, Dept Elect & Commun Engn, New Delhi, India.
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SCIENCE & INFORMATION SAI ORGANIZATION LTD
+PI WEST YORKSHIRE
+PA 19 BOLLING RD, BRADFORD, WEST YORKSHIRE, 00000, ENGLAND
+SN 2158-107X
+EI 2156-5570
+J9 INT J ADV COMPUT SC
+JI Int. J. Adv. Comput. Sci. Appl.
+PD AUG
+PY 2021
+VL 12
+IS 8
+BP 401
+EP 409
+PG 9
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA UM9ZM
+UT WOS:000693682500046
+DA 2021-12-15
+ER
+
+PT J
+AU Ali, S
+   Glass, T
+   Parr, B
+   Potgieter, J
+   Alam, F
+AF Ali, Sharafat
+   Glass, Tyrel
+   Parr, Baden
+   Potgieter, Johan
+   Alam, Fakhrul
+TI Low Cost Sensor With IoT LoRaWAN Connectivity and Machine Learning-Based
+   Calibration for Air Pollution Monitoring
+SO IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+LA English
+DT Article
+DE Air pollution monitoring; air quality monitor (AQM); Internet of Things
+   (IoT); long-range wide area network (LoRaWAN); low-cost sensor; machine
+   learning; remote sensing; sensor calibration
+ID QUALITY SENSORS; FIELD CALIBRATION; AVAILABLE SENSORS; NEURAL-NETWORK;
+   AMBIENT AIR; CLUSTER; SYSTEM; DEVICE; PART; NO
+AB Air pollution poses significant risk to environment and health. Air quality monitoring stations are often confined to a small number of locations due to the high cost of the monitoring equipment. They provide a low fidelity picture of the air quality in the city; local variations are overlooked. However, recent developments in low-cost sensor technology and wireless communication systems like Internet of Things (IoT) provide an opportunity to use arrayed sensor networks to measure air pollution, in real time, at a large number of locations. This article reports the development of a novel low-cost sensor node that utilizes cost-effective electrochemical sensors to measure carbon monoxide (CO) and nitrogen dioxide (NO2) concentrations and an infrared sensor to measure particulate matter (PM) levels. The node can be powered by either solar-recharged battery or mains supply. It is capable of long-range, low power communication over public or private long-range wide area network (LoRaWAN) IoT network and short-range high data rate communication over Wi-Fi. The developed sensor nodes were co-located with an accurate reference CO sensor for field calibration. The low-cost sensors' data, with offset and gain calibration, show good correlation with the data collected from the reference sensor. Multiple linear regression (MLR)-based temperature and humidity correction results in mean absolute percentage error (MAPE) of 48.71% and R-2 of 0.607 relative to the reference sensor's data. Artificial neural network (ANN)-based calibration shows the potential for significant further improvement with MAPE of 38.89% and R-2 of 0.78 for leave-one-out cross-validation.
+C1 [Ali, Sharafat; Glass, Tyrel; Parr, Baden; Alam, Fakhrul] Massey Univ, SF&AT, Dept Mech & Elect Engn MEE, Auckland 0632, New Zealand.
+   [Potgieter, Johan] Massey Univ, Massey AgriFood Digital Lab, Res Ctr, Palmerston North 4472, New Zealand.
+RP Alam, F (corresponding author), Massey Univ, SF&AT, Dept Mech & Elect Engn MEE, Auckland 0632, New Zealand.
+EM sharafat.ali@ieee.org; t.glass@massey.ac.nz; b.parr@massey.ac.nz;
+   j.potgieter@massey.ac.nz; f.alam@massey.ac.nz
+OI Parr, Baden/0000-0001-8297-8472; Glass, Tyrel Glass/0000-0003-4691-1822;
+   Potgieter, Johan/0000-0002-9400-1009
+FU Massey University Research Fund; New Zealand Ministry of Business,
+   Innovation and Employment (MBIE) Product Accelerator GrantNew Zealand
+   Ministry of Business, Innovation and Employment (MBIE)
+FX This work was supported in part by Massey University Research Fund 2018
+   entitled "Real Time IoT Enabled Air Quality Monitoring" and in part by
+   the New Zealand Ministry of Business, Innovation and Employment (MBIE)
+   Product Accelerator Grant. The Associate Editor coordinating the review
+   process was Amitava Chatterjee.
+NR 66
+TC 1
+Z9 1
+U1 5
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9456
+EI 1557-9662
+J9 IEEE T INSTRUM MEAS
+JI IEEE Trans. Instrum. Meas.
+PY 2021
+VL 70
+AR 5500511
+DI 10.1109/TIM.2020.3034109
+PG 11
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA UK2KK
+UT WOS:000691803600016
+DA 2021-12-15
+ER
+
+PT J
+AU Gautam, A
+   Verma, G
+   Qamar, S
+   Shekhar, S
+AF Gautam, Aayushi
+   Verma, Gaurav
+   Qamar, Shamimul
+   Shekhar, Sushant
+TI Vehicle Pollution Monitoring, Control and Challan System Using MQ2
+   Sensor Based on Internet of Things
+SO WIRELESS PERSONAL COMMUNICATIONS
+LA English
+DT Article
+DE Gas sensors MQ2; ESP8266 Wi-Fi module and GPS module; Air pollution
+   monitoring; IOT; Embedded system
+ID AIR-POLLUTION
+AB In the automobile sector, the new advancements in technology help the vendors in developing smart vehicles. These smart vehicles are designed to provide all sort of comfort to the society. But still, some improvements are required to make these vehicles smarter in terms of environmental pollution management. The other cause of air pollution is due to the toxic gases released by the industries. The environment pollution is still increasing gradually despite the various efforts of government. A number of solutions are available in the literature to control and monitor environmental pollution. The examination uncovers that there is a necessity of a sensor based embedded system that can screen and control the air contamination with generation of challan from anyplace in the world using IOT. An embedded system prototype has been designed on the concept of an internet of things scenario that uses sensors and actuators around Raspberry Pi board. The system prototype is programmed in python using some standard libraries available on adafruit and github. A web page is also designed to monitor the level of gases remotely at any place in the world. The results demonstrate that the complete system has been successfully tested and implemented.
+C1 [Gautam, Aayushi; Verma, Gaurav] Jaypee Inst Informat Technol, Dept Elect & Commun Engn, A-10,Sect 62, Noida, UP, India.
+   [Qamar, Shamimul] King Khalid Univ, Coll Comp Sci, Comp Networks & Commun Engn, Abha, Saudi Arabia.
+   [Shekhar, Sushant] Tulas Inst, Engn & Management Coll, Dehra Dun, Uttarakhand, India.
+RP Verma, G (corresponding author), Jaypee Inst Informat Technol, Dept Elect & Commun Engn, A-10,Sect 62, Noida, UP, India.
+EM gaurav.iitkg@gmail.com
+RI QAMAR, SHAMIMUL/T-5543-2018
+OI QAMAR, SHAMIMUL/0000-0002-1091-7715
+FU Deanship of Scientific Research, King Khalid University [G.R.P 261/2018]
+FX The authors would like to submit their gratefulness to Deanship of
+   Scientific Research, King Khalid University, Abha, Saudi Arabia for
+   providing administrative, financial and technical support under Grant
+   Number G.R.P 261/2018.
+NR 15
+TC 1
+Z9 1
+U1 0
+U2 4
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0929-6212
+EI 1572-834X
+J9 WIRELESS PERS COMMUN
+JI Wirel. Pers. Commun.
+PD JAN
+PY 2021
+VL 116
+IS 2
+SI SI
+BP 1071
+EP 1085
+DI 10.1007/s11277-019-06936-4
+EA NOV 2019
+PG 15
+WC Telecommunications
+SC Telecommunications
+GA PU6IG
+UT WOS:000575448100002
+DA 2021-12-15
+ER
+
+PT C
+AU Gokul, V
+   Tadepalli, S
+AF Gokul, V.
+   Tadepalli, Sitaram
+GP IEEE
+TI Implementation of a WiFi based Plug and Sense Device for Dedicated Air
+   Pollution Monitoring using IoT
+SO PROCEEDINGS OF 2016 ONLINE INTERNATIONAL CONFERENCE ON GREEN ENGINEERING
+   AND TECHNOLOGIES (IC-GET)
+LA English
+DT Proceedings Paper
+CT Online International Conference on Green Engineering and Technologies
+   (IC-GET)
+CY NOV 19, 2016
+CL Karpagam Coll Engn, Coimbatore, INDIA
+SP Karpagam Coll Engn, Dept Elect & Commun Engn
+HO Karpagam Coll Engn
+DE air quality index; linear segmented principle; greater Vancouver AQI
+   table; max operator aggregation; IoT; cloud; storage; analytics;
+   visualize
+AB The main objective of this system is to design and implement a Wi-Fi based plug and sense smart device for dedicated air pollution monitoring using Internet of Things simply called as IoT. This system designed on device to cloud architecture in IoT for monitoring air pollution precisely. Once the sensor node reads individual pollutants composition and location coordinates, Air quality index (AQI) will be calculated using linear segmented principle with greater Vancouver AQI table and Max operator aggregation method. Based on AQI value, corresponding LED will be actuated for indication and health impact with precaution steps messages will be displayed on the screen. All those data will be pushed to thingspeak cloud storage an open source application programming interface for IoT based devices. These pushed data along with date and time can be retrieved as a separate excel sheet for future analysis. Through thingview android app, real time pollution level with location can be visualized in terms of line graph. With the implementation of this low cost and small size smart device, alert can be given to people to wear anti-pollution mask and reroute path in transportation where there is high air pollution ensuring high reliability and consistency.
+C1 [Gokul, V.; Tadepalli, Sitaram] Tata Consultancy Serv Ltd, Hyderabad, Andhra Pradesh, India.
+RP Gokul, V (corresponding author), Tata Consultancy Serv Ltd, Hyderabad, Andhra Pradesh, India.
+EM gokul.v5@tcs.com; sitaram.tadepalli@tcs.com
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-4556-3
+PY 2016
+PG 7
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BI1AJ
+UT WOS:000405375600001
+DA 2021-12-15
+ER
+
+PT C
+AU Gupta, H
+   Bhardwaj, D
+   Agrawal, H
+   Tikkiwal, VA
+   Kumar, A
+AF Gupta, Harsh
+   Bhardwaj, Dhananjay
+   Agrawal, Himanshu
+   Tikkiwal, Vinay Anand
+   Kumar, Arun
+GP IEEE
+TI An IoT Based Air Pollution Monitoring System for Smart Cities
+SO 2019 1ST IEEE INTERNATIONAL CONFERENCE ON SUSTAINABLE ENERGY
+   TECHNOLOGIES AND SYSTEMS (IEEE-ICSETS 2019)
+LA English
+DT Proceedings Paper
+CT 1st IEEE International Conference on Sustainable Energy Technologies and
+   Systems (IEEE-ICSETS)
+CY FEB 26-MAR 01, 2019
+CL Kalinga Inst Ind Technol, Bhubaneswar, INDIA
+SP IEEE, IEEE IAS PELS Student Branch, IEEE Singapore Sect, KIIT, IEEE Power Elect Soc, IEEE Kolkata Sect, IEEE Bhubaneswar Sub Sect, IEEE Ind Applicat Soc, IEEE Power & Energy Soc, Singapore Chapter
+HO Kalinga Inst Ind Technol
+DE Internet of Things; Air Quality; Smart Cities; Smart App
+AB As the world's population is becoming increasingly urban, the cities are under pressure to remain livable. In recent years, the air quality of the cities has become one of the major cause of concern around the world. Thus, it is necessary to constantly monitor the air quality index of a city to make it smart and livable. In this paper, we propose and develop an IoT based Air Quality Monitoring System for Smart Cities. The real-time data of the air quality is accessed through the smart devices and analyzed to measure the impact on city dwellers. The smart devices are capable of measuring the Temperature, Humidity, Carbon Monoxide, LPG, Smoke and other hazardous particulate matters like PM2.5 and PM10 levels in the atmosphere. The gathered data is accessible globally through an Android Application.
+C1 [Gupta, Harsh; Bhardwaj, Dhananjay; Agrawal, Himanshu; Tikkiwal, Vinay Anand] Jaypee Inst Informat Technol, Dept Elect & Commun Engn, Noida, India.
+   [Kumar, Arun] Natl Inst Technol, Dept Comp Sci & Engn, Rourkela, India.
+RP Gupta, H (corresponding author), Jaypee Inst Informat Technol, Dept Elect & Commun Engn, Noida, India.
+EM harsh404me@gmail.com; dhananjayb090@gmail.com;
+   himanshu.agrawal@jiit.ac.in; vinay.anand@jiit.ac.in;
+   kumararun@nitrkl.ac.in
+RI Kumar, Arun/D-8433-2018
+OI Kumar, Arun/0000-0002-4309-3396
+FU department of ECE
+FX The authors would like to extend sincere thanks to Jaypee Institute of
+   Information Technology, Noida for providing the space and logistics to
+   install the systems in the different locations of the Institute. The
+   author would also like to thank the department of ECE for their support
+   during the system development and study. This research work has been
+   carried out in the Department of ECE, Jaypee Institute of Technology,
+   Noida, India.
+NR 12
+TC 4
+Z9 4
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-6971-6
+PY 2019
+BP 173
+EP 177
+PG 5
+WC Green & Sustainable Science & Technology; Engineering, Electrical &
+   Electronic
+SC Science & Technology - Other Topics; Engineering
+GA BO0IZ
+UT WOS:000491267800030
+DA 2021-12-15
+ER
+
+PT C
+AU Kumar, M
+   Sabale, K
+   Mini, S
+   Panigrahi, T
+AF Kumar, Mandeep
+   Sabale, Ketan
+   Mini, S.
+   Panigrahi, Trilochan
+GP IEEE
+TI Priority based deployment of IoT devices
+SO 2018 32ND INTERNATIONAL CONFERENCE ON INFORMATION NETWORKING (ICOIN)
+LA English
+DT Proceedings Paper
+CT 32nd International Conference on Information Networking (ICOIN)
+CY JAN 10-12, 2018
+CL Chiang Mai, THAILAND
+SP Korean Inst Informat Scientists & Engineers Informat Networking Soc, IEEE Comp Soc, IEEE
+ID INTERNET; THINGS
+AB Internet of Things (IoT) is an emerging technology where physical entities are integrated with internet, sensors and communicating technology in order to enrich our lives and make it simple. IoT is employed in home automation, monitoring environmental parameters, industries, vehicles, medical sector, etc. In this paper, we consider the application of IoT in air pollution monitoring system. Increase in pollution levels in the environment adversely affects all forms of life in it. Hence it is extremely important to monitor and control the pollution level. This paper proposes a model to deploy the IoT devices to measure the pollution level in a given region. The region is partitioned into grids and each grid is assigned a priority. Since the devices are expensive and are to be used minimally, such an approach would make the best use of these devices. Simulations are carried out to illustrate the effectiveness of the proposed approach.
+C1 [Kumar, Mandeep; Sabale, Ketan; Mini, S.; Panigrahi, Trilochan] Natl Inst Technol Goa, Ponda 403401, Goa, India.
+RP Kumar, M (corresponding author), Natl Inst Technol Goa, Ponda 403401, Goa, India.
+EM mndpkumar41@gmail.com; ketansabale1@gmail.com; mini2min2002@yahoo.co.in;
+   tpanigrahi@nitgoa.ac.in
+FU Science and Engineering Research Board (SERB), Department of Science &
+   Technology, Government of India
+FX The authors would like to thank Science and Engineering Research Board
+   (SERB), Department of Science & Technology, Government of India, for
+   providing the financial support to carry out this work.
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-2290-2
+PY 2018
+BP 760
+EP 764
+PG 5
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BM8BH
+UT WOS:000468812000148
+DA 2021-12-15
+ER
+
+PT C
+AU Singh, A
+   Joshi, H
+   Srivastava, A
+   Kumar, R
+   Hasteer, N
+AF Singh, Anish
+   Joshi, Harshita
+   Srivastava, Amritansh
+   Kumar, Raja
+   Hasteer, Nitasha
+GP IEEE
+TI An Analysis of Polluted Air Consumption and Hazards on Human Health: A
+   Study Towards System Design
+SO PROCEEDINGS OF THE CONFLUENCE 2020: 10TH INTERNATIONAL CONFERENCE ON
+   CLOUD COMPUTING, DATA SCIENCE & ENGINEERING
+LA English
+DT Proceedings Paper
+CT 10th International Conference on Cloud Computing, Data Science and
+   Engineering (Confluence)
+CY JAN 29-31, 2020
+CL Amity Univ, Noida, INDIA
+SP IEEE, Amity Univ, Amity Sch Engn & Technol, Dept Comp Sci & Engn
+HO Amity Univ
+DE Polluted air consumption; Internet of things; Hazards; Human health;
+   Analysis
+AB Air pollution is a serious concern to society and individuals because of its direct impact on human health and environment and over the past few years the development and expansion has led to a subsequent increase in air pollution and thus leads to extensive respiratory illness and millions of deaths. Various studies extracted from relevant research repositories discussed in paper have provided distinct solutions so as to make individuals aware and bring forth the strategies to minimize the impact of the air pollution. Monitoring, estimating and analyzing polluted air consumption through mobile application and wearable devices in one strategy. In this work, a n architecture of a system to monitor and analyze the consumption of polluted air by an individual has been proposed. The proposed system generates alerts and notification in view of the health parameters.
+C1 [Singh, Anish; Joshi, Harshita; Srivastava, Amritansh; Kumar, Raja; Hasteer, Nitasha] Amity Univ, Noida, Uttar Pradesh, India.
+RP Singh, A (corresponding author), Amity Univ, Noida, Uttar Pradesh, India.
+EM anishsingh.10c@gmail.com; harshij18@gmail.com; madhav1997@hotmail.com;
+   rajakumar.reply@gmail.com; nitasha78@gmail.com
+NR 40
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-2791-0
+PY 2020
+BP 532
+EP 539
+PG 8
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BP9ZC
+UT WOS:000571173300094
+DA 2021-12-15
+ER
+
+PT C
+AU Gokul, P
+   Srikanth, J
+   Inbarasu, G
+   Subramaniyam, K
+   Venkatesan, GKDP
+AF Gokul, P.
+   Srikanth, J.
+   Inbarasu, G.
+   Subramaniyam, Kamalraj
+   Venkatesan, G. K. D. Prasanna
+BE Karrupusamy, P
+   Chen, J
+   Shi, Y
+TI Internet of Things Based Air Pollution Monitoring and Forecasting System
+SO SUSTAINABLE COMMUNICATION NETWORKS AND APPLICATION, ICSCN 2019
+SE Lecture Notes on Data Engineering and Communications Technologies
+LA English
+DT Proceedings Paper
+CT International Conference on Sustainable Communication Networks and
+   Application (ICSCN)
+CY JUL 30-31, 2019
+CL Surya Engn Coll, Erode, INDIA
+HO Surya Engn Coll
+DE Gas sensors; PIC micro controller; IOT; Air quality
+AB The quality of air plays a predominant role in human health and has greater influence on life expectancy. In our project, five different gas sensors are used to evaluate the quality of air. The quality of air is classified into good, moderate, unhealthy, and hazardous. For instance, this work has been conducted in Coimbatore (smart city). The presence of harmful gases determines the nature of the air and this classification can be monitored periodically by measuring the amount of SO2 and NO2, which acts as a vital parameter. These measured and classified data can be transferred to public access and decision can be taken, so that we have developed an open access website to store and display the values of classified air quality. This information to the people can be used to improve quality of life by improving the quality of air.
+C1 [Gokul, P.; Srikanth, J.; Inbarasu, G.; Subramaniyam, Kamalraj] Karpagam Acad Higher Educ, Dept ECE, Coimbatore, Tamil Nadu, India.
+   [Venkatesan, G. K. D. Prasanna] Karpagam Acad Higher Educ, Fac Engn, Coimbatore, Tamil Nadu, India.
+RP Gokul, P (corresponding author), Karpagam Acad Higher Educ, Dept ECE, Coimbatore, Tamil Nadu, India.
+EM gokulkarthick39@gmail.com; srikanthsrij86@gmail.com;
+   inbarasu37@gmail.com; kamalrajece@gmail.com; prasphd@gmail.com
+RI VENKATESAN, PRASANNA/V-5828-2018
+OI VENKATESAN, PRASANNA/0000-0002-0638-1938
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2367-4512
+BN 978-3-030-34515-0; 978-3-030-34514-3
+J9 LECT NOTE DATA ENG
+PY 2020
+VL 39
+BP 439
+EP 451
+DI 10.1007/978-3-030-34515-0_46
+PG 13
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BQ6RO
+UT WOS:000613009100046
+DA 2021-12-15
+ER
+
+PT C
+AU Wang, W
+   De, S
+   Zhou, YC
+   Huang, X
+   Moessner, K
+AF Wang, Wei
+   De, Suparna
+   Zhou, Yuchao
+   Huang, Xin
+   Moessner, Klaus
+GP IEEE
+TI Distributed Sensor Data Computing in Smart City Applications
+SO 2017 IEEE 18TH INTERNATIONAL SYMPOSIUM ON A WORLD OF WIRELESS, MOBILE
+   AND MULTIMEDIA NETWORKS (WOWMOM)
+SE IEEE International Symposium on a World of Wireless, Mobile and
+   Multimedia Networks
+LA English
+DT Proceedings Paper
+CT 18th IEEE International Symposium on A World of Wireless, Mobile and
+   Multimedia Networks (WoWMoM)
+CY JUN 12-15, 2017
+CL Macao Polytechn Inst, Macau, PEOPLES R CHINA
+SP IEEE, Queen Mary Univ London, Tech Comm Comp Commun, IEEE Comp Soc, Missouri Univ Sci & Technol
+HO Macao Polytechn Inst
+DE Internet of Things; Distributed Intelligence; Sensor Data; Sensor
+   Services; Smart city
+ID INTERNET; THINGS
+AB With technologies developed in the Internet of Things, embedded devices can be built into every fabric of urban environments and connected to each other; and data continuously produced by these devices can be processed, integrated at different levels, and made available in standard formats through open services. The data, obviously f a form of "big data", is now seen as the most valuable asset in developing intelligent applications. As the sizes of the IoT data continue to grow, it becomes inefficient to transfer all the raw data to a centralised, cloud-based data centre and to perform efficient analytics even with the state-of-the-art big data processing technologies. To address the problem, this article demonstrates the idea of "distributed intelligence" for sensor data computing, which disperses intelligent computation to the much smaller while autonomous units, e.g., sensor network gateways, smart phones or edge clouds in order to reduce data sizes and to provide high quality data for data centres. As these autonomous units are usually in close proximity to data consumers, they also provide potential for reduced latency and improved quality of services. We present our research on designing methods and apparatus for distributed computing on sensor data, e.g., acquisition, discovery, and estimation, and provide a case study on urban air pollution monitoring and visualisation.
+C1 [Wang, Wei; Huang, Xin] Xian Jiaotong Liverpool Univ, Dept Comp Sci & Software Engn, Suzhou, Peoples R China.
+   [De, Suparna; Zhou, Yuchao; Moessner, Klaus] Univ Surrey, Elect & Elect Engn Dept, Inst Commun Syst, Guildford, Surrey, England.
+RP Wang, W (corresponding author), Xian Jiaotong Liverpool Univ, Dept Comp Sci & Software Engn, Suzhou, Peoples R China.
+RI De, Suparna/H-6148-2019
+OI De, Suparna/0000-0001-7439-6077
+FU Ministry of Internal Affairs and Communication (MIC), Japan, Research
+   and Innovation action, "iKaaS" under EU [643262]; European UnionEuropean
+   Commission
+FX This work is supported by the collaborative European Union and Ministry
+   of Internal Affairs and Communication (MIC), Japan, Research and
+   Innovation action, "iKaaS" under EU Grant number 643262.
+NR 10
+TC 2
+Z9 2
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-2723-5
+J9 I S WORLD WIREL MOBI
+PY 2017
+PG 5
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA BJ6TS
+UT WOS:000426952700057
+DA 2021-12-15
+ER
+
+PT C
+AU Kodali, RK
+   Rajanarayanan, SC
+   Boppana, L
+AF Kodali, Ravi Kishore
+   Rajanarayanan, Sasweth C.
+   Boppana, Lakshmi
+GP IEEE
+TI IoT Based Smart Wearable for Air Quality Monitoring
+SO 2020 INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATION AND INFORMATICS
+   (ICCCI - 2020)
+SE International Conference on Computer Communication and Informatics
+LA English
+DT Proceedings Paper
+CT 10th International Conference on Computer Communication and Informatics
+   (ICCCI)
+CY JAN 22-24, 2020
+CL Coimbatore, INDIA
+SP Sri Shakthi Inst Engn & Technol, IEEE, IEEE Madras Sect, AICTE
+AB Internet of Things has been providential in tackling a lot of problems that amassed a lot of attention and concern among people. A lot of consumer electronics today have multiple IoT subsystems functioning in them, that not only make a product smart, but also increases its value as a product. Air pollution is a very serious problem, that has proved its deleteriousness over the past few years. With a lot of densely populated cities, now branded as unsafe for people to live in, due mainly to the polluted air it is home to, the importance for a solution that alerts city dwellers about the air quality of a space is gaining momentum. IoT, however could solve this problem, by educating people about the air quality, after measuring them. A dedicated air pollution monitoring device will not be effective enough in making people accept that an air quality monitor is a necessity and not a luxury. Therefore, this work integrates an air pollution monitoring system into a wearable like a watch that also doubles as a fitness tracker and a temperature monitor. Air pollutant levels, footsteps taken and ambient temperature are all sensed and displayed by the smart watch proposed in this work and is also casted to a custom designed smartphone application. The device proposed is novel in what it can do at the extremely low cost that it takes for its build. Thus a watch that can do everything that other watches can and cannot do has been proposed, with a tight integration to a smartphone app.
+C1 [Kodali, Ravi Kishore; Rajanarayanan, Sasweth C.; Boppana, Lakshmi] Natl Inst Technol, Dept Elect & Commun Engn, Warangal 506004, Andhra Pradesh, India.
+RP Kodali, RK (corresponding author), Natl Inst Technol, Dept Elect & Commun Engn, Warangal 506004, Andhra Pradesh, India.
+EM ravikkodali@gmail.com
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2329-7190
+BN 978-1-7281-4513-6
+J9 INT CONF COMP COMMUN
+PY 2020
+BP 339
+EP 343
+PG 5
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BQ6EB
+UT WOS:000610812500068
+DA 2021-12-15
+ER
+
+PT J
+AU Gugliermetti, L
+   Garcia, DA
+AF Gugliermetti, L.
+   Garcia, D. Astiaso
+TI A cheap and third-age-friendly home device for monitoring indoor air
+   quality
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE IAQ (indoor air quality); Air quality index; IoT (Internet of things);
+   Smart home; Multi-gas sensor system design; Air pollution monitoring
+ID PM2.5
+AB Nowadays, thanks to the hardware costs reduction everyone at home owns at least one hi-technology devices to support life quality. This paper proposes a new methodology to analyse the indoor air quality with a cheap and third-age-dedicated device. A new prototype, called Home Pollution Embedded System (HOPES), was developed to give simple and understandable information, also comprehensible for people with cognitive problems or that are not familiar with new technologies. The device gathers pollutants data and displays to the user different air pollutants concentrations, from toxics gasses up to explosives. Moreover, an overall air quality index has been elaborated and is displayed by HOPES with lights and numerical information. HOPES is an Internet of things device that works in real time and that can be connected to the web and to a geographic information system platform to add spatial information of each pollutant. The hardware architecture employs a set of gas semiconductor sensors and an IR particulate matter sensor. Experimental results demonstrated that HOPES has an accurate sensor response and is suitable to be used with the proposed indices. In fact, despite of the poor-selective metal oxide sensors, the results highlighted how it is possible to get useful air quality information with a cheap device. However, the system needs more tests to validate the sensors array with different substances.
+C1 [Gugliermetti, L.; Garcia, D. Astiaso] Sapienza Univ, DIAEE Dept Astronaut Elect & Energy Engn, Via Eudossiana 18, I-00184 Rome, Italy.
+RP Garcia, DA (corresponding author), Sapienza Univ, DIAEE Dept Astronaut Elect & Energy Engn, Via Eudossiana 18, I-00184 Rome, Italy.
+EM davide.astiasogarcia@uniroma1.it
+OI Astiaso Garcia, Davide/0000-0003-0752-2146
+FU Italian Ministry for Education, Universities and Research (MIUR)Ministry
+   of Education, Universities and Research (MIUR)
+FX Thanks to Dynamic Makers Team for their support and help in developing
+   the web platform and the experimental test section. Other thanks go to
+   the CNR for their disposability and help to make the tests. This
+   research was carried out within the significant bilateral project
+   PRACTICE (Planning Rethinked Ageing Cities Through Innovative Cellular
+   Environments), financed by the Italian Ministry for Education,
+   Universities and Research (MIUR) under the Executive Programme on
+   Scientific and Technological Cooperation between Italian Republic and
+   the Kingdom of Sweden for the years 2014-2016.
+NR 31
+TC 12
+Z9 12
+U1 1
+U2 33
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1735-1472
+EI 1735-2630
+J9 INT J ENVIRON SCI TE
+JI Int. J. Environ. Sci. Technol.
+PD JAN
+PY 2018
+VL 15
+IS 1
+BP 185
+EP 198
+DI 10.1007/s13762-017-1382-3
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA FR6JI
+UT WOS:000419171400015
+DA 2021-12-15
+ER
+
+PT J
+AU Aranda, J
+   Mendez, D
+   Carrillo, H
+   Scholzel, M
+AF Aranda, Juan
+   Mendez, Diego
+   Carrillo, Henry
+   Schoelzel, Mario
+TI A framework for multimodal wireless sensor networks
+SO AD HOC NETWORKS
+LA English
+DT Article
+DE Cross-layer design; Energy-efficiency; Internet of things;
+   Low-duty-cycling; Reliability; Wake-up radio; Wake-up receiver; Testbed
+ID PERFORMANCE EVALUATION; PROTOCOL; IMPLEMENTATION; CONTIKI; NODE
+AB During the last decade, the Wireless Sensor Networks have been considered as a broad solution for Internet of Things (IoT) based systems such as noise and air pollution monitoring systems. These systems should be able to monitor the physical variables regularly and simultaneously, to react immediately upon the occurrence of an emergency, and to report the event and its associated data to an observer, in a reliable and energy-efficient way. Recently, the MultiModal Wireless Sensor Networks (M2WSNs) have been proposed as a solution for monitoring oriented applications with low bandwidth requirements that operate simultaneously under normal circumstances and emergencies. In this paper, we present a reliable and energy-efficiency framework for M2WSNs based on the IoT and the Wake-up Radio paradigms. The framework is implemented in ContikiOS, an open-source operating system for IoT solutions, and its performance is evaluated in hardware in an indoor testbed. The experimental results show that the proposed framework provides better reliability in terms of the event reporting latency and packet delivery ratio. Besides, a significant energy-saving is achieved when considering a broadcast-based wake-up scheme with one communication hop for data transmission and acknowledgment procedures in a multi-hop network, compared to a single-radio approach based on a traditional low-duty-cycling and networking techniques. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Aranda, Juan; Carrillo, Henry] Univ Sergio Arboleda, Exact Sci & Engn Sch, Calle 74 14-14, Bogota 110221, Colombia.
+   [Aranda, Juan; Mendez, Diego] Pontificia Univ Javeriana, Dept Elect Engn, Cra 7 40-62 Jose Gabriel Maldonado SJ Bldg, Bogota 110231, Colombia.
+   [Schoelzel, Mario] Hsch Nordhausen, Inst Informat Automatisierung & Elekt, Weinberghof 4, D-99734 Nordhausen, Germany.
+RP Aranda, J (corresponding author), Univ Sergio Arboleda, Exact Sci & Engn Sch, Calle 74 14-14, Bogota 110221, Colombia.; Aranda, J (corresponding author), Pontificia Univ Javeriana, Dept Elect Engn, Cra 7 40-62 Jose Gabriel Maldonado SJ Bldg, Bogota 110231, Colombia.
+EM juan.aranda@usa.edu.co
+OI Mendez, Diego/0000-0002-9866-4416
+FU Colombian Ministry for the Information and Communications Technology
+   (Ministerio de Tecnologias de la Informacion y las Comunicaciones -
+   MinTIC); Colombian Administrative Department of Science, Technology and
+   Innovation (Departamento Administrativo de Ciencia, Tecnologia e
+   Innovacion - Colciencias) through the Fondo Nacional de Financiamiento
+   para la Ciencia, la Tecnologia y la Innovacion Francisco
+   [FP44842-502-2015]; German Research Foundation (Deutsche
+   Forschungsgemeinschaft - DFG)German Research Foundation (DFG) [KR
+   3576/21-1]; Universidad Sergio Arboleda [IN.BG.086.17.007]
+FX The authors would like to acknowledge the cooperation of all partners
+   within the Centro de Excelencia y Apropiacion en Internet de las Cosas
+   (CEA-IoT) and the IHP -Innovations for High Performance
+   Microelectronics. The authors would also like to thank all the
+   institutions that supported this work: the Colombian Ministry for the
+   Information and Communications Technology (Ministerio de Tecnologias de
+   la Informacion y las Comunicaciones - MinTIC), the Colombian
+   Administrative Department of Science, Technology and Innovation
+   (Departamento Administrativo de Ciencia, Tecnologia e Innovacion -
+   Colciencias) through the Fondo Nacional de Financiamiento para la
+   Ciencia, la Tecnologia y la Innovacion Francisco Josede Caldas (Project
+   ID: FP44842-502-2015), the German Research Foundation (Deutsche
+   Forschungsgemeinschaft - DFG) (Project ID: KR 3576/21-1), and the
+   Universidad Sergio Arboleda (Project ID: IN.BG.086.17.007).
+NR 34
+TC 1
+Z9 1
+U1 1
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8705
+EI 1570-8713
+J9 AD HOC NETW
+JI Ad Hoc Netw.
+PD SEP 1
+PY 2020
+VL 106
+AR 102201
+DI 10.1016/j.adhoc.2020.102201
+PG 15
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA MO7LL
+UT WOS:000551702400006
+DA 2021-12-15
+ER
+
+PT C
+AU Schurholz, D
+   Nurgazy, M
+   Zaslavsky, A
+   Jayaraman, PP
+   Kubler, S
+   Mitra, K
+   Saguna, S
+AF Schurholz, Daniel
+   Nurgazy, Meruyert
+   Zaslavsky, Arkady
+   Jayaraman, Prem Prakash
+   Kubler, Sylvain
+   Mitra, Karan
+   Saguna, Saguna
+GP Assoc Comp Machinery
+TI MyAQI: Context-aware Outdoor Air Pollution Monitoring System
+SO PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON THE INTERNET OF
+   THINGS ( IOT 2019)
+LA English
+DT Proceedings Paper
+CT 9th International Conference on the Internet of Things (IoT)
+CY OCT 22-25, 2019
+CL Univ Deusto, Bilbao, SPAIN
+HO Univ Deusto
+DE Air Quality; Context-aware Computing; Internet of Things; Visualisation;
+   Environmental Monitoring
+AB Air pollution is a growing global concern that affects the health and livelihood of millions of people worldwide. The advent of the Internet of Things (IoT) has made available a plethora of data sources that provide near real-time information on air pollution. Many studies and systems have taken advantage of data stemming from the IoT and have been dedicated to enhancing the monitoring and prediction of air quality, from a fairly analytical angle, often disregarding the user's perspective in processing and presenting this data. In this paper, we research and present a novel context-aware air quality monitoring and prediction system called My Air Quality Index (MyAQI). MyAQI takes into consideration user's context (e.g. health conditions, individual sensitivities and preferences) to tailor the visualisation and notifications. We propose a context model that is used to combine user's context with air pollution data to provide context-aware recommendations to the specific user. MyAQI also incorporates a prediction algorithm based on Long Short-Term Memory Neural Network (LSTM) to predict future air quality. MyAQI is implemented as a web-based application and has the capability to consume data from a wide range of data sources including IoT devices and open data sources (via Application Programming Interfaces (API)). We demonstrate the context-aware visualisation techniques implemented in MyAQI, which adapt to changing user's context, and validate the performance of the air quality prediction algorithm.
+C1 [Schurholz, Daniel; Nurgazy, Meruyert; Zaslavsky, Arkady] Deakin Univ, Melbourne, Vic, Australia.
+   [Jayaraman, Prem Prakash] Swinburne Univ, Melbourne, Vic, Australia.
+   [Kubler, Sylvain] Univ Lorraine, CRAN, UMR 7039, CNRS, Campus Sci,BP 70239, F-54506 Vandoeuvre Les Nancy, France.
+   [Mitra, Karan; Saguna, Saguna] Lulea Univ Technol, Skelleftea, Sweden.
+RP Schurholz, D (corresponding author), Deakin Univ, Melbourne, Vic, Australia.
+EM daniel.schurholz@deakin.edu.au; m.nurgazy@deakin.edu.au;
+   arkady.zaslavsky@deakin.edu.au; pjayaraman@swin.edu.au;
+   s.kubler@univ-lorraine.fr; karan.mitra@ltu.se; saguna.saguna@ltu.se
+OI Jayaraman, Prem Prakash/0000-0003-4500-3443; Kubler,
+   Sylvain/0000-0001-7672-7837
+FU PERCCOM Erasmus Mundus Joint Masters Program of the European Union; EU's
+   H2020 Program for Research, Technological Development and Demonstration
+   [688203]; Deakin University, Australia
+FX This research was funded by the PERCCOM Erasmus Mundus Joint Masters
+   Program of the European Union [12]. Part of this study was supported by
+   the EU's H2020 Program for Research, Technological Development and
+   Demonstration (Grant 688203) The research was also supported by Deakin
+   University, Australia.
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 978-1-4503-7207-7
+PY 2019
+DI 10.1145/3365871.3365884
+PG 8
+WC Computer Science, Theory & Methods; Telecommunications
+SC Computer Science; Telecommunications
+GA BP3AH
+UT WOS:000545971900013
+DA 2021-12-15
+ER
+
+PT C
+AU Zmuda, G
+   Opalinski, A
+   Glowacki, M
+AF Zmuda, Gerard
+   Opalinski, Andrzej
+   Glowacki, Miroslaw
+BE Borzemski, L
+   Swiatek, J
+   Wilimowska, Z
+TI Mobile Monitoring System for Environment Parameters
+SO INFORMATION SYSTEMS ARCHITECTURE AND TECHNOLOGY, PT I
+SE Advances in Intelligent Systems and Computing
+LA English
+DT Proceedings Paper
+CT 38th International Conference on Information Systems Architecture and
+   Technology (ISAT)
+CY SEP 17-19, 2017
+CL Szklarska Poreba, POLAND
+SP Wroclaw Univ Technol, Fac Comp Sci & Management, Dept Comp Sci, Wroclaw Univ Technol, Fac Comp Sci & Management, Dept Management Syst
+DE Mobile monitoring system; Air pollution monitoring; Environmental
+   parameters monitoring
+ID AIR-QUALITY; LOW-COST; SENSORS
+AB Problems related to the monitoring of environmental parameters, and in particular air-pollution in urban agglomerations, are some of the more publicly discussed public issues in recent times. This paper presents the concept, functionality, main hardware and software components, and test results of low-cost prototype of the system, enabling monitoring of environmental parameters such as air-pollution, temperature, humidity, pressure and UV radiation. The main features of this solution are its low cost, relatively high precision of measurement and the ability to operate in mobile version, without wired power supply and communication, including GPS coordinates as one of the measured parameters. The prototype can be an alternative to expensive professional solutions and a base for developing more advanced sensor networks. For home use it can be used as a home weather station with an air pollution sensor, being an extension of the of Personal Area Network of the recently popular Internet of Things solutions.
+C1 [Zmuda, Gerard; Opalinski, Andrzej; Glowacki, Miroslaw] AGH Univ Sci & Technol, Al A Mickiewicza 30, PL-30059 Krakow, Poland.
+   [Glowacki, Miroslaw] Jan Kochanowski Univ Humanities & Sci, Ul Zeromskiego 5, PL-25001 Kielce, Poland.
+RP Opalinski, A (corresponding author), AGH Univ Sci & Technol, Al A Mickiewicza 30, PL-30059 Krakow, Poland.
+EM gerardzmuda@wp.pl; andrzej.opalinski@agh.edu.pl;
+   glowacki@metal.agh.edu.pl
+RI Opalinski, Andrzej/S-5323-2016
+OI Opalinski, Andrzej/0000-0002-9730-9594
+FU Polish Ministry of Science and Higher Education - AGH University of
+   Science and Technology Funds [11.11.110.300]
+FX The work has been supported by the Polish Ministry of Science and Higher
+   Education - AGH University of Science and Technology Funds No.
+   11.11.110.300
+NR 14
+TC 1
+Z9 1
+U1 1
+U2 5
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2194-5357
+EI 2194-5365
+BN 978-3-319-67220-5; 978-3-319-67219-9
+J9 ADV INTELL SYST
+PY 2018
+VL 655
+BP 252
+EP 261
+DI 10.1007/978-3-319-67220-5_23
+PG 10
+WC Computer Science, Information Systems
+SC Computer Science
+GA BL5QB
+UT WOS:000452449500023
+DA 2021-12-15
+ER
+
+PT J
+AU Idrees, Z
+   Zou, Z
+   Zheng, LR
+AF Idrees, Zeba
+   Zou, Zhuo
+   Zheng, Lirong
+TI Edge Computing Based IoT Architecture for Low Cost Air Pollution
+   Monitoring Systems: A Comprehensive System Analysis, Design
+   Considerations & Development
+SO SENSORS
+LA English
+DT Article
+DE air pollution monitoring; IoT; edge computing; pollution sensors;
+   electrochemical gas sensors
+AB With the swift growth in commerce and transportation in the modern civilization, much attention has been paid to air quality monitoring, however existing monitoring systems are unable to provide sufficient spatial and temporal resolutions of the data with cost efficient and real time solutions. In this paper we have investigated the issues, infrastructure, computational complexity, and procedures of designing and implementing real-time air quality monitoring systems. To daze the defects of the existing monitoring systems and to decrease the overall cost, this paper devised a novel approach to implement the air quality monitoring system, employing the edge-computing based Internet-of-Things (IoT). In the proposed method, sensors gather the air quality data in real time and transmit it to the edge computing device that performs necessary processing and analysis. The complete infrastructure & prototype for evaluation is developed over the Arduino board and IBM Watson IoT platform. Our model is structured in such a way that it reduces the computational burden over sensing nodes (reduced to 70%) that is battery powered and balanced it with edge computing device that has its local data base and can be powered up directly as it is deployed indoor. Algorithms were employed to avoid temporary errors in low cost sensor, and to manage cross sensitivity problems. Automatic calibration is set up to ensure the accuracy of the sensors reporting, hence achieving data accuracy around 75-80% under different circumstances. In addition, a data transmission strategy is applied to minimize the redundant network traffic and power consumption. Our model acquires a power consumption reduction up to 23% with a significant low cost. Experimental evaluations were performed under different scenarios to validate the system's effectiveness.
+C1 [Idrees, Zeba; Zou, Zhuo; Zheng, Lirong] Fudan Univ, Sch Informat Sci & Engn, Shanghai 200433, Peoples R China.
+RP Zou, Z; Zheng, LR (corresponding author), Fudan Univ, Sch Informat Sci & Engn, Shanghai 200433, Peoples R China.
+EM izeba17@fudan.edu.cn; zhuo@fudan.edu.cn; lrzheng@fudan.edu.cn
+RI Idrees, Zeba/ABE-2251-2020; ZHENG, Lirong/ABF-9274-2020
+OI ZHENG, Lirong/0000-0001-9588-0239; zou, zhuo/0000-0002-8546-1329
+FU NSFCNational Natural Science Foundation of China (NSFC) [61571137];
+   Shanghai Pujiang ProgramShanghai Pujiang Program [17PJ1400800]; Shanghai
+   Institute of Intelligent Electronics and System
+FX This work was supported in part by NSFC under Grant 61571137, in part by
+   the Shanghai Pujiang Program under Grant 17PJ1400800, and in part by the
+   Shanghai Institute of Intelligent Electronics and System.
+NR 39
+TC 25
+Z9 25
+U1 2
+U2 18
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD SEP
+PY 2018
+VL 18
+IS 9
+AR 3021
+DI 10.3390/s18093021
+PG 23
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA GW5BB
+UT WOS:000446940600280
+PM 30201864
+OA gold, Green Published, Green Submitted
+DA 2021-12-15
+ER
+
+PT C
+AU Kulshrestha, U
+   Durbha, S
+AF Kulshrestha, Utkarsh
+   Durbha, Surva
+GP IEEE
+TI EDGE ANALYTICS AND COMPLEX EVENT PROCESSING FOR REAL TIME AIR POLLUTION
+   MONITORING AND CONTROL
+SO IGARSS 2020 - 2020 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING
+   SYMPOSIUM
+LA English
+DT Proceedings Paper
+CT IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+CY SEP 26-OCT 02, 2020
+CL ELECTR NETWORK
+SP Inst Elect & Elect Engineers, Inst Elect & Elect Engineers Geoscience & Remote Sensing Soc
+DE Internet of Things; Complex Event Processing; Air Pollution Sensors;
+   Stream Processing; LoRaWAN; Geospatial Big Data Analysis
+AB The advent of the Internet of Things (IoT) has led to the generation of tremendous amounts of data from various sources. Cloud based systems are effective in storage and application of machine learning algorithms on such datasets. However, in some cases it is important to enable real time processing for making immediate decisions. There are many applications which require instantaneous analysis of the generated data for remedies in event of an anomaly. Data associated with such use cases remains significant only for a short duration of time.
+   Various electronic sensors, e.g. Temperature, Moisture, Air Quality, Pressure, Wind Velocity etc. present in a Wireless Sensor Network generate streams of values. It can be processed using pipelines which provide prompt and quick analysis for decision making. Stream Processing Systems can be helpful in such cases as they analyse data streams within a few milliseconds to a few seconds.
+   In this paper, we discuss an event based processing of streaming data from air pollution sensors to create a real time anomaly detection system. To reduce the delays associated with the generation of alarms in our pipeline, Apache Foundation's Stream Processing Tools, Kafka and Flink were used for operations on our streams. To further accelerate the process, all the analysis is conducted on an embedded edge computing gateway device rather than sending data to the cloud for batch processing. The results are obtained in the form of a geographical map visualization using ELK stack. The map highlights the coordinates of the location with an unhealthy air quality index in real time.
+C1 [Kulshrestha, Utkarsh; Durbha, Surva] Indian Inst Technol, Ctr Studies Resources Engn, Mumbai, Maharashtra, India.
+RP Durbha, S (corresponding author), Indian Inst Technol, Ctr Studies Resources Engn, Mumbai, Maharashtra, India.
+EM utkarshkulshrestha@iitb.ac.in; sdurbhar@iitb.ac.in
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-6374-1
+PY 2020
+BP 893
+EP 896
+DI 10.1109/IGARSS39084.2020.9323584
+PG 4
+WC Computer Science, Artificial Intelligence; Environmental Sciences;
+   Geosciences, Multidisciplinary; Remote Sensing; Optics
+SC Computer Science; Environmental Sciences & Ecology; Geology; Remote
+   Sensing; Optics
+GA BR6WH
+UT WOS:000664335301005
+DA 2021-12-15
+ER
+
+PT J
+AU Senthilkumar, R
+   Venkatakrishnan, P
+   Balaji, N
+AF Senthilkumar, R.
+   Venkatakrishnan, P.
+   Balaji, N.
+TI Intelligent based novel emb e dde d system based IoT enabled air
+   pollution monitoring system
+SO MICROPROCESSORS AND MICROSYSTEMS
+LA English
+DT Article
+DE Embedded system; Microprocessor; Cloud server; Internet of things (IoT);
+   Air quality; Sensors
+AB The rapid growth of industry and transport within this contemporary progress, there was sufficient con-sideration given to air quality monitoring; but conventional air quality monitoring methods are inefficient to produce adequate spatial and temporal resolutions of the air quality information by cost-effective also the period time clarifications. During the paper, we propose a distinct methodology to achieve the air quality monitoring system, using this fog computing-based Internet of Things (IoT). In this paper pro-posed an embedded system, where sensors collect the air quality information within period time and send it over the fog nodes. Every fog node may be an extraordinarily virtualized program hosted at a committed computing node implemented with a connection interface. Data gathered by Microprocessor based IoT sensing things do not seem to be causing on into the cloud server to the process. Preferably, they do send through the adjacent fog node to get quick, including high-rise rate service. Though, fog node will refine non-actionable data (e.g., regular device measurement) also forward them to the Cloud for lengthy run storage and batch analytics. The Cloud may be a convenient location to run world an-alytics at information gathered from commonly shared devices over sustained periods (months, years). General purpose processor (microprocessor) and IoT cloud platforms were involved in developing this whole infrastructure and model for analysis. Empirical outcomes reveal that this advanced method is re-sponsible for sensing air quality, which serves to expose the modification patterns regarding air quality through a certain level. (c) 2020 Published by Elsevier B.V.
+C1 [Senthilkumar, R.] KLN Coll Informat Technol, Dept Informat Technol, Pottapalayam, Tamil Nadu, India.
+   [Venkatakrishnan, P.] Jawaharlal Nehru Technol Univ Hyderabad, Dept Elect & Commun Engieerning, CMR Tech Campus, Hyderabad, Telangana, India.
+   [Balaji, N.] KPR Inst Engn & Technol, Dept Comp Sci & Engn, Uthupalayam, Tamil Nadu, India.
+RP Senthilkumar, R (corresponding author), KLN Coll Informat Technol, Dept Informat Technol, Pottapalayam, Tamil Nadu, India.
+EM senthilkumarklncitphd@gmail.com; pvkmephd@gmail.com;
+   balaji_jet@yahoo.com
+RI Perumalsamy/AAM-8857-2020
+OI perumalsamy, venkatakrishnan/0000-0001-8091-3077
+NR 44
+TC 7
+Z9 7
+U1 1
+U2 7
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0141-9331
+EI 1872-9436
+J9 MICROPROCESS MICROSY
+JI Microprocess. Microsyst.
+PD SEP
+PY 2020
+VL 77
+AR 103172
+DI 10.1016/j.micpro.2020.103172
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA NR3NZ
+UT WOS:000571471000013
+DA 2021-12-15
+ER
+
+PT J
+AU Rezapour, A
+   Tzeng, WG
+AF Rezapour, Amir
+   Tzeng, Wen-Guey
+TI RL-PMAgg: Robust aggregation for PM2.5 using deep RL-based trust
+   management system
+SO INTERNET OF THINGS
+LA English
+DT Article
+DE Anomaly detection; Internet of Things; PM2.5; Smart city; Trust
+   management system; Reinforcement learning
+AB Air pollution has become a major environmental issue in large cities. Air pollutants, especially fine particulate matter (PM2.5) has raised various concerns on human health. As a result, several low-cost PM2.5 monitoring systems have been deployed worldwide. However, an accurate air pollution monitoring system profoundly relies on data quality. In this paper, we propose RL-PMAgg for robustly computing PM2.5 pollution rates in existence of faulty sensors. Our method consists of three modules. The outlier detector gives quality assessments to the measurements. We use an RL-based trust management system to create a profile for each sensor and track its behavior in the long run. Then, an aggregated PM2.5 rate is computed by using a set of honest sensors along with their trust levels and measurements. We evaluate RL-PMAgg on both simulated and real-world datasets. We compare the proposed method with relevant works. Experimental results show that RL-PMAgg resists the majority of attacks as compared with other works. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Rezapour, Amir; Tzeng, Wen-Guey] Natl Chiao Tung Univ, Hsinchu 30010, Taiwan.
+RP Rezapour, A (corresponding author), Natl Chiao Tung Univ, Hsinchu 30010, Taiwan.
+EM rezapour@cs.nctu.edu.tw; wgtzeng@cs.nctu.edu.tw
+FU Ministry of Science and Technology [107-2221-E-009-024-MY2]; Ministry of
+   Economic Affairs, TaiwanMinistry of Economic Affairs, Taiwan
+   [06-EC-17-A-240619]
+FX This work was supported by the Ministry of Science and Technology
+   107-2221-E-009-024-MY2 and the Ministry of Economic Affairs
+   06-EC-17-A-240619, Taiwan.
+NR 30
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2543-1536
+EI 2542-6605
+J9 INTERNET THINGS-NETH
+JI Internet Things
+PD MAR
+PY 2021
+VL 13
+AR 100347
+DI 10.1016/j.iot.2020.100347
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA UP9MD
+UT WOS:000695695700016
+DA 2021-12-15
+ER
+
+PT J
+AU Deligiannis, N
+   Mota, JFC
+   Zimos, E
+   Rodrigues, MRD
+AF Deligiannis, Nikos
+   Mota, Joao F. C.
+   Zimos, Evangelos
+   Rodrigues, Miguel R. D.
+TI Heterogeneous Networked Data Recovery From Compressive Measurements
+   Using a Copula Prior
+SO IEEE TRANSACTIONS ON COMMUNICATIONS
+LA English
+DT Article
+DE Compressed sensing; side information; copula functions; air-pollution
+   monitoring; wireless sensor networks
+ID RECONSTRUCTION; DISTRIBUTIONS; GEOMETRY
+AB Large-scale data collection by means of wireless sensor network and Internet-of-Things technology poses various challenges in view of the limitations in transmission, computation, and energy resources of the associated wireless devices. Compressive data gathering based on compressed sensing has been proven a well-suited solution to the problem. Existing designs exploit the spatiotemporal correlations among data collected by a specific sensing modality. However, many applications, such as environmental monitoring, involve collecting heterogeneous data that are intrinsically correlated. In this paper, we propose to leverage the correlation from multiple heterogeneous signals when recovering the data from compressive measurements. To this end, we propose a novel recovery algorithm-built upon belief-propagation principles-that leverages correlated information from multiple heterogeneous signals. To efficiently capture the statistical dependencies among diverse sensor data, the proposed algorithm uses the statistical model of copula functions. Experiments with heterogeneous air-pollution sensor measurements show that the proposed design provides significant performance improvements against the state-of-the-art compressive data gathering and recovery schemes that use classical compressed sensing, compressed sensing with side information, and distributed compressed sensing.
+C1 [Deligiannis, Nikos; Zimos, Evangelos] Vrije Univ Brussel, Dept Elect & Informat, B-1050 Brussels, Belgium.
+   [Deligiannis, Nikos] IMEC, B-3001 Leuven, Belgium.
+   [Mota, Joao F. C.] Heriot Watt Univ, Inst Sensors Signals & Syst, Edinburgh EH14 4AS, Midlothian, Scotland.
+   [Zimos, Evangelos] Hellen Refineries SA, Motor Oil Hellas, Maroussi 15124, Greece.
+   [Rodrigues, Miguel R. D.] UCL, Elect & Elect Engn Dept, London WC1E 7JE, England.
+RP Deligiannis, N (corresponding author), Vrije Univ Brussel, Dept Elect & Informat, B-1050 Brussels, Belgium.
+EM ndeligia@etrovub.be; j.mota@hw.ac.uk; ezi-mos@etrovub.be;
+   m.rodrigues@ucl.ac.uk
+RI Deligiannis, Nikolaos/ABH-2381-2020; Mota, Joao F. C./AAK-8182-2021
+OI Deligiannis, Nikolaos/0000-0001-9300-5860; Mota, Joao F.
+   C./0000-0001-7263-8255
+FU FWOFWO [G0A2617N]; EPSRCUK Research & Innovation (UKRI)Engineering &
+   Physical Sciences Research Council (EPSRC) [EP/K033166/1];
+   VUB-UGent-UCL-Duke International Joint Research Group; Engineering and
+   Physical Sciences Research CouncilUK Research & Innovation
+   (UKRI)Engineering & Physical Sciences Research Council (EPSRC)
+   [EP/K033166/1] Funding Source: researchfish
+FX The work is supported by the FWO (through project G0A2617N), the EPSRC
+   (through grant EP/K033166/1), and the VUB-UGent-UCL-Duke International
+   Joint Research Group. This paper was presented in part at the Data
+   Compression Conference 2016 [1] and at the International Conference on
+   Telecommunications 2016 [2]. The associate editor coordinating the
+   review of this paper and approving it for publication was H. R. Bahrami.
+   (Corresponding author: Nikos Deligiannis.)
+NR 67
+TC 9
+Z9 9
+U1 1
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0090-6778
+EI 1558-0857
+J9 IEEE T COMMUN
+JI IEEE Trans. Commun.
+PD DEC
+PY 2017
+VL 65
+IS 12
+BP 5333
+EP 5347
+DI 10.1109/TCOMM.2017.2746099
+PG 15
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA FQ7BX
+UT WOS:000418518900018
+OA Green Submitted
+DA 2021-12-15
+ER
+
+PT J
+AU Subhashini, R
+   Sethuraman, R
+AF Subhashini, R.
+   Sethuraman, R.
+TI IoT-Based Air Pollution Monitoring Using Silver Birch Trees
+SO NATIONAL ACADEMY SCIENCE LETTERS-INDIA
+LA English
+DT Article
+DE Pollution monitoring; Smart city; Particulate matter; Air pollution;
+   Silver birch trees; IoT
+ID URBAN
+AB Air pollution has emerged as a major threat to public health. Due to vehicular pollution and industries, the exposure to toxic particulate matter pollution (PM2.5 and PM10) is alarmingly high in major cities. Silver birch trees are good in absorbing the PM in the air. The characteristics of silver birch trees are briefed in this paper. The present study analyses the air quality standards and compares it with various pollutant parameters and health inferences. The PM values are also analysed globally and nationally. In this paper, we have analysed and then suggested to monitor and minimize air pollution parameter especially particulate matter by planting silver birch trees in urban cities. Reducing emissions of particulate matter not only has an instant effect on air quality, but also moderates climate change. By controlling the environmental pollution, the cities are devoid of health issues and other harmful effects. Further by using the technologies of Internet of Things and cloud computing, the measured sensor values are suggested to store in cloud storage and communicated to the authorities. Hence, it will be monitored continuously and helps to save the environment.
+C1 [Subhashini, R.; Sethuraman, R.] Sathyabama Inst Sci & Technol, Sch Comp, Chennai, Tamil Nadu, India.
+RP Subhashini, R (corresponding author), Sathyabama Inst Sci & Technol, Sch Comp, Chennai, Tamil Nadu, India.
+EM subhaagopi@gmail.com; srssethuraman@gmail.com
+RI R, subhashini/B-1577-2014
+OI R, subhashini/0000-0001-5752-2588
+NR 8
+TC 0
+Z9 0
+U1 3
+U2 9
+PU SPRINGER INDIA
+PI NEW DELHI
+PA 7TH FLOOR, VIJAYA BUILDING, 17, BARAKHAMBA ROAD, NEW DELHI, 110 001,
+   INDIA
+SN 0250-541X
+EI 2250-1754
+J9 NATL ACAD SCI LETT
+JI Natl. Acad. Sci. Lett.-India
+PD JUN
+PY 2020
+VL 43
+IS 3
+BP 233
+EP 236
+DI 10.1007/s40009-019-00852-8
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA LV2EI
+UT WOS:000538252400004
+DA 2021-12-15
+ER
+
+PT J
+AU Wang, SY
+   Lin, WB
+   Shu, YC
+AF Wang, Shun-Yuan
+   Lin, Wen-Bin
+   Shu, Yu-Chieh
+TI Design of Machine Learning Prediction System Based on the Internet of
+   Things Framework for Monitoring Fine PM Concentrations
+SO ENVIRONMENTS
+LA English
+DT Article
+DE Internet of Things; machine learning; air pollution; PM2.5; wireless
+   sensor network
+ID AIR-QUALITY; SENSORS
+AB In this study, a mobile air pollution sensing unit based on the Internet of Things framework was designed for monitoring the concentration of fine particulate matter in three urban areas. This unit was developed using the NodeMCU-32S microcontroller, PMS5003-G5 (particulate matter sensing module), and Ublox NEO-6M V2 (GPS positioning module). The sensing unit transmits data of the particulate matter concentration and coordinates of a polluted location to the backend server through 3G and 4G telecommunication networks for data collection. This system will complement the government's PM2.5 data acquisition system. Mobile monitoring stations meet the air pollution monitoring needs of some areas that require special observation. For example, an AIoT development system will be installed. At intersections with intensive traffic, it can be used as a reference for government transportation departments or environmental inspection departments for environmental quality monitoring or evacuation of traffic flow. Furthermore, the particulate matter distributions in three areas, namely Xinzhuang, Sanchong, and Luzhou Districts, which are all in New Taipei City of Taiwan, were estimated using machine learning models, the data of stationary monitoring stations, and the measurements of the mobile sensing system proposed in this study. Four types of learning models were trained, namely the decision tree, random forest, multilayer perceptron, and radial basis function neural network, and their prediction results were evaluated. The root mean square error was used as the performance indicator, and the learning results indicate that the random forest model outperforms the other models for both the training and testing sets. To examine the generalizability of the learning models, the models were verified in relation to data measured on three days: 15 February, 28 February, and 1 March 2019. A comparison between the model predicted and the measured data indicates that the random forest model provides the most stable and accurate prediction values and could clearly present the distribution of highly polluted areas. The results of these models are visualized in the form of maps by using a web application. The maps allow users to understand the distribution of polluted areas intuitively.</p>
+C1 [Wang, Shun-Yuan; Lin, Wen-Bin; Shu, Yu-Chieh] Natl Taipei Univ Technol, Dept Elect Engn, Taipei 10607, Taiwan.
+RP Lin, WB (corresponding author), Natl Taipei Univ Technol, Dept Elect Engn, Taipei 10607, Taiwan.
+EM sywang@ntut.edu.tw; t105319012@ntut.edu.tw; sum9875123@gmail.com
+NR 21
+TC 0
+Z9 0
+U1 1
+U2 1
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2076-3298
+J9 ENVIRONMENTS
+JI Environments
+PD OCT
+PY 2021
+VL 8
+IS 10
+AR 99
+DI 10.3390/environments8100099
+PG 21
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA WP5NJ
+UT WOS:000713177900001
+OA gold
+DA 2021-12-15
+ER
+
+PT J
+AU Zhang, D
+   Woo, SS
+AF Zhang, Dan
+   Woo, Simon S.
+TI Real Time Localized Air Quality Monitoring and Prediction Through Mobile
+   and Fixed IoT Sensing Network
+SO IEEE ACCESS
+LA English
+DT Article
+DE Sensors; Monitoring; Air pollution; Atmospheric modeling; Pollution
+   measurement; Atmospheric measurements; Time-series prediction; air
+   quality measurement; machine learning
+AB Air pollution and its harm to human health has become a serious problem in many cities around the world. In recent years, research interests in measuring and predicting the quality of air around people has spiked. Since the Internet of Things (IoT) has been widely used in different domains to improve the quality life for people by connecting multiple sensors in different places, it also makes the air pollution monitoring more easier than before. Traditional way of using fixed sensors cannot effectively provide a comprehensive view of air pollution in people & x2019;s immediate surroundings, since the closest sensors can be possibly miles away. Our research focuses on modeling the air quality pattern in a given region by adopting both fixed and moving IoT sensors, which are placed on vehicles patrolling around the region. With our approach, a full spectrum of how air quality varies in nearby regions can be analyzed. We demonstrate the feasibility of our approach in effectively measuring and predicting air quality using different machine learning algorithms with real world data. Our evaluation shows a promising result for effective air quality monitoring and prediction for a smart city application.
+C1 [Zhang, Dan] State Univ New York SUNY Korea, Dept Comp Sci, Incheon 21985, South Korea.
+   [Zhang, Dan] SUNY Stony Brook, Dept Comp Sci, Stony Brook, NY 11794 USA.
+   [Woo, Simon S.] Sungkyunkwan Univ, Comp Sci & Engn Dept, Suwon 16419, South Korea.
+   [Woo, Simon S.] Sungkyunkwan Univ, Dept Appl Data Sci, Suwon 16419, South Korea.
+RP Woo, SS (corresponding author), Sungkyunkwan Univ, Comp Sci & Engn Dept, Suwon 16419, South Korea.; Woo, SS (corresponding author), Sungkyunkwan Univ, Dept Appl Data Sci, Suwon 16419, South Korea.
+EM swoo@g.skku.edu
+FU Ministry of Science and ICT (MSIT), South Korea, through the ICT
+   Consilience Creative Program [IITP-2020-2011-1-00783]; Energy Cloud
+   Research and Development Program through the National Research
+   Foundation of Korea (NRF) - Ministry of Science and ICT
+   [2019M3F2A1072217]; NRF of Korea - Ministry of Science and ICT (MSIT)
+   [2017R1C1B5076474, 2020R1C1C1006004]; Institute for Information and
+   Communication Technology Promotion (IITP) - Korea Government (MSIT)
+   (Regional strategic industry convergence security core talent training
+   business) [2019-0-01343]
+FX This work was supported in part by the Ministry of Science and ICT
+   (MSIT), South Korea, through the ICT Consilience Creative Program
+   supervised by the Institute for Information and Communications
+   Technology Planning and Evaluation (IITP) under Grant
+   IITP-2020-2011-1-00783, in part by the Energy Cloud Research and
+   Development Program through the National Research Foundation of Korea
+   (NRF) funded by the Ministry of Science and ICT under Grant
+   2019M3F2A1072217, in part by the Basic Science Research Program through
+   the NRF of Korea funded by the Ministry of Science and ICT (MSIT) under
+   Grant 2017R1C1B5076474 and Grant 2020R1C1C1006004, and in part by the
+   Institute for Information and Communication Technology Promotion (IITP)
+   funded by the Korea Government (MSIT) (Regional strategic industry
+   convergence security core talent training business) under Grant
+   2019-0-01343.
+NR 31
+TC 7
+Z9 7
+U1 0
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 89584
+EP 89594
+DI 10.1109/ACCESS.2020.2993547
+PG 11
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA LV8XZ
+UT WOS:000538727700059
+OA gold
+DA 2021-12-15
+ER
+
+PT C
+AU Zhang, KY
+   Samaan, N
+AF Zhang, Kaiyi
+   Samaan, Nancy
+GP IEEE Comp Soc
+TI Optimized Look-Ahead Offloading Decisions Using Deep Reinforcement
+   Learning for Battery Constrained Mobile IoT Devices
+SO 2020 IEEE INTERNATIONAL CONFERENCE ON SMART CLOUD (SMARTCLOUD 2020)
+LA English
+DT Proceedings Paper
+CT 5th IEEE International Conference on Smart Cloud (IEEE SmartCloud) / 5th
+   IEEE International Symposium on Reinforcement Learning (IEEE ISRL)
+CY NOV 06-08, 2020
+CL ELECTR NETWORK
+SP IEEE, IEEE Comp Soc, IEEE TCSC, IEEE STC Smart Comp, Columbia Univ, Waseda Univ, N Amer Chinese Talents Assoc, Longxiang High Tech
+DE Mobile IoT; multi-access edge computing (MEC); offloading; constrained
+   deep reinforcement learning; actor-critic networks
+AB Mobile Internet of things (MIoT) applications serving smart cities bring the promise of innovative and enhanced public services such as air pollution monitoring, enhanced road safety and city resources metering and management. These applications rely on a number of energy-constrained MIoT units (MUs) (e.g., robots and drones) to continuously sense, capture and process data and images from their environments to produce immediate adaptive actions. In this paper, we consider a scenario where a battery constrained MU executes a number of time-sensitive data processing tasks whose arrival times and sizes are stochastic in nature. We first formulate the problem of making optimal offloading decisions that minimize the cost of current and future tasks as a constrained Markov decision process (CMDP) that accounts for the constraints of the MU battery and the limited reserved resources on the MEC infrastructure by the application providers. Next, we show how the CMDP problem can be relaxed using Lagrangian primal-dual optimization. We then develop a novel deep reinforcement learning (DRL) based algorithm to train the MU to solve the relaxed problem. Simulation results validate the proposed algorithm and demonstrate the achieved performance improvement.
+C1 [Zhang, Kaiyi; Samaan, Nancy] Univ Ottawa, Sch Elect Engn & Comp Sci, Ottawa, ON, Canada.
+RP Zhang, KY (corresponding author), Univ Ottawa, Sch Elect Engn & Comp Sci, Ottawa, ON, Canada.
+EM kzhan122@uottawa.ca; nsamaan@uottawa.ca
+NR 16
+TC 0
+Z9 0
+U1 1
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+BN 978-1-7281-6547-9
+PY 2020
+BP 181
+EP 186
+DI 10.1109/SmartCloud49737.2020.00042
+PG 6
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BR3WM
+UT WOS:000649345900032
+DA 2021-12-15
+ER
+
+PT C
+AU Bommi, RM
+   Monika, V
+   ArockiaKoncy, AA
+   Patra, C
+AF Bommi, R. M.
+   Monika, V
+   ArockiaKoncy, A. Aloicius
+   Patra, Chandra
+BE Hemanth, J
+   Fernando, X
+   Lafata, P
+   Baig, Z
+TI A Surveillance Smart System for Air Pollution Monitoring and Management
+SO INTERNATIONAL CONFERENCE ON INTELLIGENT DATA COMMUNICATION TECHNOLOGIES
+   AND INTERNET OF THINGS, ICICI 2018
+SE Lecture Notes on Data Engineering and Communications Technologies
+LA English
+DT Proceedings Paper
+CT International Conference on Intelligent Data Communication Technologies
+   and Internet of Things (ICICI)
+CY AUG 07-08, 2018
+CL Coimbatore, INDIA
+DE IOT; Gas sensors; Catalytic converters; Embedded C
+AB Air pollution is the evolving issue these days. It is mandatory to monitor the quality of air and keep it under control for better future and healthy living for all. Here the proposed system is an air quality surveillance system that allows us to monitor and provide live air quality in different areas through IOT (Internet of Things), when the pollution rate exceeds the threshold value warning alarm is given. System uses gas sensors (MQ-series) to sense the presence of harmful gases in the air that constantly transmit this data by interacting with the microcontroller and reports it to the online server over IOT. This allows experts to monitor air pollution in exclusive areas. To be specific this system would control the air pollution, using catalytic converters that converts toxic gases in the exhaust gas to less toxic pollutants by red ox reaction mechanism with the catalysts present inside it. The resultant gas undergoes zapping with laser which leads to the byproduct oxygen. The laser is activated manually when the carbon monoxide value exceeds a threshold value. Thus, the outcome of the implementation will be oxygen. The proposed system uses Arduino UNO R3, sensor devices, Embedded C and provide graphical analysis using Visual Basic.
+C1 [Bommi, R. M.; Monika, V; ArockiaKoncy, A. Aloicius; Patra, Chandra] Jeppiaar Maamallan Engn Coll, Dept ECE, Chennai 602108, Tamil Nadu, India.
+RP Bommi, RM (corresponding author), Jeppiaar Maamallan Engn Coll, Dept ECE, Chennai 602108, Tamil Nadu, India.
+EM rmbommi@gmail.com; monika.saravan@gmail.com; aloarokon97@gmail.com;
+   chandrapatra98@gmail.com
+NR 12
+TC 2
+Z9 2
+U1 2
+U2 2
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2367-4512
+BN 978-3-030-03146-6; 978-3-030-03145-9
+J9 LECT NOTE DATA ENG
+PY 2019
+VL 26
+BP 1407
+EP 1418
+DI 10.1007/978-3-030-03146-6_165
+PG 12
+WC Telecommunications
+SC Telecommunications
+GA BR9CJ
+UT WOS:000674929900165
+DA 2021-12-15
+ER
+
+PT J
+AU Chang, BR
+   Tsai, HF
+   Kuo, HC
+   Huang, CF
+AF Chang, Bao Rong
+   Tsai, Hsiu-Fen
+   Kuo, Hsiu-Ching
+   Huang, Chien-Feng
+TI Smart iAIR System with Integration of the Internet of Things and Mobile
+   Applications
+SO SENSORS AND MATERIALS
+LA English
+DT Article; Proceedings Paper
+CT 2nd International Conference on Science, Engineering, Vocational
+   Education, and Novelty (ICSEVEN)
+CY APR 11-15, 2018
+CL Kyoto, JAPAN
+DE iAIR system; mobile applications; IoT; air pollution monitoring; heart
+   rate variability warning; intelligent relocation navigation
+ID AIR-POLLUTION
+AB Commercially available crowdsourced air boxes have nonuniform distributions and cannot achieve suitable observation densities. As a result, current air quality data are limited to the vicinity of an observation station, rather than providing accurate actual data around a user. In this research, we propose the implementation of iAIR air pollution detection air boxes, which can be installed on air purifiers or air conditioners in large numbers and distributed over a wide area; this provides a real-time air pollution information map according to various air qualities and shows a higher resolution. The provided real-time information enables a user to immediately take appropriate response measures once poor air quality has been detected. When air quality degrades or the user's heart rate exceeds the normal range, the smart iAIR system installed on a cloud service platform will transmit warning messages to a mobile app and a wearable personal smart wristband, and at the same time, activate the air purifier (or air conditioner) to improve the current air quality and advise the user to move to an environment with better air quality with guidance by an air navigation map.
+C1 [Chang, Bao Rong; Kuo, Hsiu-Ching; Huang, Chien-Feng] Natl Univ Kaohsiung, Dept Comp Sci & Informat Engn, 700 Kaohsiung Univ Rd, Kaohsiung 811, Taiwan.
+   [Tsai, Hsiu-Fen] Kaohsiung Med Univ, Dept Fragrance & Cosmet Sci, 100,Shih Chuan 1st Rd, Kaohsiung 80708, Taiwan.
+RP Huang, CF (corresponding author), Natl Univ Kaohsiung, Dept Comp Sci & Informat Engn, 700 Kaohsiung Univ Rd, Kaohsiung 811, Taiwan.; Tsai, HF (corresponding author), Kaohsiung Med Univ, Dept Fragrance & Cosmet Sci, 100,Shih Chuan 1st Rd, Kaohsiung 80708, Taiwan.
+EM sftsai@kmu.edu.tw; cfhuang15@nuk.edu.tw
+FU Ministry of Science and Technology [MOST 105-2221-E-390-013-MY3, MOST
+   107-2622-E-390-002-CC3]
+FX This research work has been sponsored and supported by the Ministry of
+   Science and Technology, under project numbers MOST
+   105-2221-E-390-013-MY3 and MOST 107-2622-E-390-002-CC3.
+NR 19
+TC 4
+Z9 4
+U1 2
+U2 5
+PU MYU, SCIENTIFIC PUBLISHING DIVISION
+PI TOKYO
+PA 1-23-3-303 SENDAGI, TOKYO, 113-0022, JAPAN
+SN 0914-4935
+J9 SENSOR MATER
+JI Sens. Mater.
+PY 2019
+VL 31
+IS 8
+SI SI
+BP 2451
+EP 2462
+DI 10.18494/SAM.2019.2405
+PG 12
+WC Instruments & Instrumentation; Materials Science, Multidisciplinary
+SC Instruments & Instrumentation; Materials Science
+GA IP9AA
+UT WOS:000480338000005
+OA gold
+DA 2021-12-15
+ER
+
+PT J
+AU Vecchio, M
+   Azzoni, P
+   Menychtas, A
+   Maglogiannis, I
+   Felfernig, A
+AF Vecchio, Massimo
+   Azzoni, Paolo
+   Menychtas, Andreas
+   Maglogiannis, Ilias
+   Felfernig, Alexander
+TI A Fully Open-Source Approach to Intelligent Edge Computing: AGILE's
+   Lesson
+SO SENSORS
+LA English
+DT Article
+DE modular approach; IoT; edge computing; open source; open hardware;
+   knowledge-based configuration; recommender systems
+AB In this paper, we describe the main outcomes of AGILE (acronym for "Adaptive Gateways for dIverse muLtiple Environments"), an EU-funded project that recently delivered a modular hardware and software framework conceived to address the fragmented market of embedded, multi-service, adaptive gateways for the Internet of Things (IoT). Its main goal is to provide a low-cost solution capable of supporting proof-of-concept implementations and rapid prototyping methodologies for both consumer and industrial IoT markets. AGILE allows developers to implement and deliver a complete (software and hardware) IoT solution for managing non-IP IoT devices through a multi-service gateway. Moreover, it simplifies the access of startups to the IoT market, not only providing an efficient and cost-effective solution for industries but also allowing end-users to customize and extend it according to their specific requirements. This flexibility is the result of the joint experience of established organizations in the project consortium already promoting the principles of openness, both at the software and hardware levels. We illustrate how the AGILE framework can provide a cost-effective yet solid and highly customizable, technological foundation supporting the configuration, deployment, and assessment of two distinct showcases, namely a quantified self application for individual consumers, and an air pollution monitoring station for industrial settings.
+C1 [Vecchio, Massimo] Fdn Bruno Kessler, OpenIoT Res Unit, I-38123 Trento, Italy.
+   [Azzoni, Paolo] Eurotech Grp, I-33020 Amaro, Italy.
+   [Menychtas, Andreas] BioAssist SA, Athens 11524, Greece.
+   [Menychtas, Andreas; Maglogiannis, Ilias] Univ Piraeus, Dept Digital Syst, Piraeus 18534, Greece.
+   [Felfernig, Alexander] Graz Univ Technol, Inst Software Technol, A-8010 Graz, Austria.
+RP Vecchio, M (corresponding author), Fdn Bruno Kessler, OpenIoT Res Unit, I-38123 Trento, Italy.
+EM mvecchio@fbk.eu; paolo.azzoni@eurotech.com; amenychtas@bioassist.gr;
+   imaglo@unipi.gr; alexander.felfernig@ist.tugraz.at
+RI Maglogiannis, Ilias/X-5484-2018; Vecchio, Massimo/B-2539-2013
+OI Maglogiannis, Ilias/0000-0003-2860-399X; Vecchio,
+   Massimo/0000-0003-4426-8220; Azzoni, Paolo/0000-0002-3324-6133;
+   Menychtas, Andreas/0000-0002-4510-5522
+FU AGILE project within the Horizon 2020 programme of the European Union
+   [688088]
+FX This work was supported by the AGILE project (grant agreement No 688088)
+   within the Horizon 2020 programme of the European Union.
+NR 37
+TC 3
+Z9 3
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD FEB
+PY 2021
+VL 21
+IS 4
+AR 1309
+DI 10.3390/s21041309
+PG 14
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA QQ6YX
+UT WOS:000624669900001
+PM 33673065
+OA gold, Green Published
+DA 2021-12-15
+ER
+
+PT C
+AU Kumar, P
+   Purohit, G
+   Tanwar, P
+   Gautam, C
+   Raju, KS
+AF Kumar, Prashant
+   Purohit, Gaurav
+   Tanwar, Pramod
+   Gautam, Chitra
+   Raju, Kota Solomon
+BE Luhach, AK
+   Kosa, JA
+   Poonia, RC
+   Gao, XZ
+   Singh, D
+TI Real Time, An IoT-Based Affordable Air Pollution Monitoring For Smart
+   Home
+SO FIRST INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR
+   COMPUTATIONAL INTELLIGENCE
+SE Advances in Intelligent Systems and Computing
+LA English
+DT Proceedings Paper
+CT 1st International Conference on Sustainable Technologies for
+   Computational Intelligence (ICTSCI)
+CY MAR 29-30, 2019
+CL Sri Balaji Coll Engn & Technol, Jaipur, INDIA
+SP CSI Jaipur Chapter, MRK Inst Engn & Technol, Leafra Res Pvt Ltd
+HO Sri Balaji Coll Engn & Technol
+DE Air quality monitoring (AQM); Smart home; IoT; Raspberry Pi
+AB The emergence of the Internet of things (IoT) facilitates us to connect all the devices available at home. Also, we can control and access devices and appliances remotely in real time. This article, by taking the advantages of IoT, proposes an IoT-based affordable air quality monitoring with smart home system that brings controlling and monitoring of devices and appliances, and monitoring of home environment together in real time. The system uses the combination of wireless communication and cloud networking, to remote control various appliances (like fans, TV), also getting a glimpse of air quality. In order to monitor the home environment, we develop a practical information acquisition model, a network for indoor and outdoor air quality monitoring which can be carried anywhere as a portable device. The portable nodes can sense pollutants like CO, CO2, PM 2.5, PM 10 with temperature and humidity and monitor the air quality. The collected data are sent to a cloud service platform like things speak and Firebase for real-time visualization and appropriate forecasting and prediction analytics. Also, a user-friendly Android app and web portal increase the usability of this system. Moreover, when critical conditions occur, an alert is reflected on the android app and on web portal in real time. Also, the system starts sending a warning ring on registered mobile.
+C1 [Kumar, Prashant; Purohit, Gaurav; Tanwar, Pramod; Gautam, Chitra; Raju, Kota Solomon] Cent Elect Engn Res Inst, CSIR, Pilani, Rajasthan, India.
+   [Kumar, Prashant; Purohit, Gaurav; Tanwar, Pramod; Raju, Kota Solomon] Acad Sci & Innovat Res AcSIR, Ghaziabad, India.
+RP Purohit, G (corresponding author), Cent Elect Engn Res Inst, CSIR, Pilani, Rajasthan, India.
+EM prashant.mnnit10@gmail.com; gp.bits@gmail.com; pramod.tanwar@gmail.com;
+   cgautam@ceeri.res.in; kotasolomonraju@gmail.com
+RI Kota, Solomon Raju/ABC-9811-2020
+OI Kota, Solomon Raju/0000-0001-9128-2653
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG SINGAPORE PTE LTD
+PI SINGAPORE
+PA 152 BEACH ROAD, #21-01/04 GATEWAY EAST, SINGAPORE, 189721, SINGAPORE
+SN 2194-5357
+EI 2194-5365
+BN 978-981-15-0029-9; 978-981-15-0028-2
+J9 ADV INTELL SYST COMP
+PY 2020
+VL 1045
+BP 837
+EP 844
+DI 10.1007/978-981-15-0029-9_65
+PG 8
+WC Computer Science, Artificial Intelligence; Green & Sustainable Science &
+   Technology
+SC Computer Science; Science & Technology - Other Topics
+GA BQ4DP
+UT WOS:000589171100065
+DA 2021-12-15
+ER
+
+PT J
+AU Nandhakumar, S
+   Vengat, TR
+   Ramkumar, R
+   Rakesh, K
+AF Nandhakumar, S.
+   Vengat, T. Rooban
+   Ramkumar, R.
+   Rakesh, K.
+TI IoT Based Pollution Monitoring System for Effective Industrial Pollution
+   Monitoring and Control
+SO BIOSCIENCE BIOTECHNOLOGY RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE AIR POLLUTION MONITORING; CLOUD COMPUTING; ENVIRONMENTAL POLLUTION;
+   HEALTH CARE IOT ANALYTICS
+AB This platform relies on an IoT and a cloud computing technology to watch Industrial Pollution Monitoring and control the quality of environment in anywhere and anytime. An IoT-based system to monitor and control the pollutants andthereby helping them to moderate their trial on exposure topollutants. Industrial pollution monitoring is the collection of data at different locations of industries and at regular interval frames so as to give the information which might be utilized to characterize current conditions. Pollution Monitoring and controlling System demonstrates an efficient utilization of technology by which screen and report environmental parameters like gas, smoke and temperature and humidity. An efficient environmental monitoring system is required to monitor and assess the conditions just in case of exceeding the prescribed level of parameters (e.g., noise, CO and radiation levels). A solution for monitoring the noise and air pollution levels in industrial environment or particular area of interest using embedded computing system is proposed. This paper proposes an approach to build a cost effective standardize pollution monitoring device using the wireless technology (i.e.) Internet of Things (IoT) and a cloud computing technology.This work discusses the implementation of cloud based IoT system for air quality monitoring which is accessible as a web interface as well as in a type of an android application.
+C1 [Nandhakumar, S.; Vengat, T. Rooban; Ramkumar, R.; Rakesh, K.] Dr NGP Inst Technol, Dept Mech Engn, Coimbatore 641048, Tamil Nadu, India.
+RP Nandhakumar, S (corresponding author), Dr NGP Inst Technol, Dept Mech Engn, Coimbatore 641048, Tamil Nadu, India.
+EM nandhuarun@rediffmail.com
+RI Nandhakumar, S/AAV-7234-2021; Nandhakumar, S./AAR-5884-2021
+OI Nandhakumar, S/0000-0001-9471-6445; 
+NR 12
+TC 0
+Z9 0
+U1 2
+U2 5
+PU SOC SCIENCE & NATURE
+PI BHOPAL
+PA C-52 HOUSING BOARD COLONY, KOHE FIZA, BHOPAL, MADHYA PRADESH 462 001,
+   INDIA
+SN 0974-6455
+J9 BIOSCI BIOTECH RES C
+JI Biosci. Biotechnol. Res. Commun.
+PD JUL-SEP
+PY 2020
+VL 13
+IS 3
+BP 1245
+EP 1250
+DI 10.21786/bbrc/13.3/40
+PG 6
+WC Biotechnology & Applied Microbiology
+SC Biotechnology & Applied Microbiology
+GA OE5SM
+UT WOS:000580589900040
+DA 2021-12-15
+ER
+
+PT J
+AU Suriano, D
+AF Suriano, Domenico
+TI A portable air quality monitoring unit and a modular, flexible tool for
+   on-field evaluation and calibration of low-cost gas sensors
+SO HARDWAREX
+LA English
+DT Article
+DE Air quality monitoring; Wireless sensors; IoT; Internet of Things;
+   Sensor evaluation; Sensor calibration; Data logger; Portable monitoring
+   unit
+ID POLLUTION
+AB In recent years, several research projects have investigated the use of low-cost devices for air pollution monitoring. As a result of these activities, various air quality monitoring systems have been developed following diverse approaches and methods. However, in most cases, these monitoring systems lack flexibility, extendibility, and openness. The device presented in this article provides a cost-effective, expandable, flexible, open-source solution. SentinAir has been designed to act as a portable air quality monitoring unit and also for facilitating the on-field evaluation and calibration of air quality sensors. The high grade of flexibility featuring this tool enables the data acquisition from heterogeneous kinds of devices deployed far from the laboratory facilities, even in areas featured by a weak or unstable Internet connection. Moreover, the system proposed in this article provides a reasonably easy way to integrate a wide range of sensors or devices produced by diverse manufacturers, offering a tool that is not bound to the use of a limited and fixed set of sensors or devices. The modularity approach followed in SentinAir design constitutes another key factor to consider: it allows each user to easily adapt this device to his requirements. This system is therefore capable of providing a robust framework for environmental monitoring activities to researchers or low-skilled end-users. (C) 2021 The Author(s). Published by Elsevier Ltd.
+C1 [Suriano, Domenico] ENEA Italian Natl Agcy New Technol Energy & Envir, Sustainable Dev Dept, Res Ctr Brindisi, SS 7,Km 706, I-72100 Brindisi, Italy.
+RP Suriano, D (corresponding author), ENEA Italian Natl Agcy New Technol Energy & Envir, Sustainable Dev Dept, Res Ctr Brindisi, SS 7,Km 706, I-72100 Brindisi, Italy.
+EM domenico.suriano@enea.it
+OI Suriano, Domenico/0000-0001-7199-4354
+FU EU, within the LIFE program [LIFE17/ENV/IT/333]; POREM (''Poultry manure
+   based bioactivator for better soil management through bioremediation")
+   project
+FX This work was supported by funds of POREM (''Poultry manure based
+   bioactivator for better soil management through bioremediation") project
+   co-funded by EU, within the LIFE program (LIFE17/ENV/IT/333).
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+EI 2468-0672
+J9 HARDWAREX
+JI HardwareX
+PD APR
+PY 2021
+VL 9
+AR e00198
+DI 10.1016/j.ohx.2021.e00198
+PG 32
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation;
+   Materials Science, Multidisciplinary
+SC Engineering; Instruments & Instrumentation; Materials Science
+GA SM1GH
+UT WOS:000657359300038
+OA gold
+DA 2021-12-15
+ER
+
+PT J
+AU Bhuvaneshwari, KS
+   Lima, J
+   Venkatachalam, K
+   Masud, M
+   Abouhawwash, M
+   Logeswaran, T
+AF Bhuvaneshwari, K. S.
+   Lima, J.
+   Venkatachalam, K.
+   Masud, Mehedi
+   Abouhawwash, Mohamed
+   Logeswaran, T.
+TI Gaussian Support Vector Machine Algorithm Based Air Pollution Prediction
+SO CMC-COMPUTERS MATERIALS & CONTINUA
+LA English
+DT Article
+DE Air pollution monitoring; air pollutant; SVM; Gaussian; EHO; fast
+   correlation; WSN localization
+AB Air pollution is one of the major concerns considering detriments to human health. This type of pollution leads to several health problems for humans, such as asthma, heart issues, skin diseases, bronchitis, lung cancer, and throat and eye infections. Air pollution also poses serious issues to the planet. Pollution from the vehicle industry is the cause of greenhouse effect and CO2 emissions. Thus, real-time monitoring of air pollution in these areas will help local authorities to analyze the current situation of the city and take necessary actions. The monitoring process has become efficient and dynamic with the advancement of the Internet of things and wireless sensor networks. Localization is the main issue in WSNs; if the sensor node location is unknown, then coverage and power and routing are not optimal. This study concentrates on localization-based air pollution prediction systems for real-time monitoring of smart cities. These systems comprise two phases considering the prediction as heavy or light traffic area using the Gaussian support vector machine algorithm based on the air pollutants, such as PM2.5 particulate matter, PM10, nitrogen dioxide (NO2), carbon monoxide (CO), ozone (O3), and sulfur dioxide (SO2). The sensor nodes are localized on the basis of the predicted area using the meta-heuristic algorithms called fast correlation-based elephant herding optimization. The dataset is divided into training and testing parts based on 10 cross-validations. The evaluation on predicting the air pollutant for localization is performed with the training dataset. Mean error prediction in localizing nodes is 9.83 which is lesser than existing solutions and accuracy is 95%.
+C1 [Bhuvaneshwari, K. S.] Karpagam Coll Engn, Dept Comp Sceince & Engn, Coimbatore 641032, Tamil Nadu, India.
+   [Lima, J.] M Kumarasamy Coll Engn, Dept Elect & Elect Engn, Karur 639113, India.
+   [Venkatachalam, K.] Univ Hradec Kralove, Fac Sci, Dept Appl Cybernet, Hradec Kralove 50003, Czech Republic.
+   [Masud, Mehedi] Taif Univ, Coll Comp & Informat Technol, Dept Comp Sci, At Taif 21944, Saudi Arabia.
+   [Abouhawwash, Mohamed] Mansoura Univ, Fac Sci, Dept Math, Mansoura 35516, Egypt.
+   [Abouhawwash, Mohamed] Michigan State Univ, Dept Computat Math Sci & Engn CMSE, E Lansing, MI 48824 USA.
+   [Logeswaran, T.] Kongu Engn Coll, Dept Elect & Elect Engn, Erode 638060, India.
+RP Abouhawwash, M (corresponding author), Mansoura Univ, Fac Sci, Dept Math, Mansoura 35516, Egypt.; Abouhawwash, M (corresponding author), Michigan State Univ, Dept Computat Math Sci & Engn CMSE, E Lansing, MI 48824 USA.
+EM abouhaww@msu.edu
+FU Taif University, Taif, Saudi Arabia [TURSP-2020/10]
+FX The authors would like to acknowledge the support of Taif University
+   Researchers Supporting Project number (TURSP-2020/10) , Taif University,
+   Taif, Saudi Arabia.
+NR 20
+TC 0
+Z9 0
+U1 1
+U2 1
+PU TECH SCIENCE PRESS
+PI HENDERSON
+PA 871 CORONADO CENTER DR, SUTE 200, HENDERSON, NV 89052 USA
+SN 1546-2218
+EI 1546-2226
+J9 CMC-COMPUT MATER CON
+JI CMC-Comput. Mat. Contin.
+PY 2022
+VL 71
+IS 1
+BP 683
+EP 695
+DI 10.32604/cmc.2022.021477
+PG 13
+WC Computer Science, Information Systems; Materials Science,
+   Multidisciplinary
+SC Computer Science; Materials Science
+GA WW0LD
+UT WOS:000717617700039
+OA hybrid
+DA 2021-12-15
+ER
+
+PT J
+AU Camprodon, G
+   Gonzalez, O
+   Barberan, V
+   Perez, M
+   Smari, V
+   de Heras, MA
+   Bizzotto, A
+AF Camprodon, Guillem
+   Gonzalez, Oscar
+   Barberan, Victor
+   Perez, Maximo
+   Smari, Viktor
+   Angel de Heras, Miguel
+   Bizzotto, Alejandro
+TI Smart Citizen Kit and Station: An open environmental monitoring system
+   for citizen participation and scientific experimentation
+SO HARDWAREX
+LA English
+DT Article
+DE Air monitoring; Pollution sensors; Low cost sensors; Electrochemical
+   sensor; Particulate matter; Arduino; Iot; Internet of things; Sensors
+   calibration; esp8266; Data acquisition; Data logger
+AB In the past years, multiple research projects have explored the potential of low-cost environmental sensors for urban air pollution monitoring. However, each project has taken its own independent and in many cases, fully or partially closed approach. We present the Smart Citizen System, a flexible, easy-to-use and fully open-source environmental monitoring solution for particulate matter, carbon monoxide, nitrogen dioxide, noise levels, and many other indicators. The use of low-cost sensors in recent years has been generally approached in two different ways citizen science and educational activities, where the primary purpose is to engage citizens in the measurement process and raise awareness of environmental concerns; and a more sophisticated scientific approach, where the main aim is to study the potentiality of the low-cost sensing technologies. The Smart Citizen System balances modularity with integration to fulfil both needs by providing an extendable solution, with different ranges of sensors based on the same core components. With that aim, two solutions have been developed: the Smart Citizen Kit, intended for citizen science and awareness activities; and the Smart Citizen Station, designed to serve as a more complex and accurate set of air pollution sensors. The design is based on the principle of reproducibility, also integrating non-hardware components such as a dedicated storage platform and a sensor analysis framework. The core system bases its sensing capabilities in widely reviewed low-cost sensors and aims to provide a robust framework for environmental monitoring activities. By making everything open, from the hardware to the software platform or the sensor post-processing algorithms, we hope others might find it useful as a development platform allowing them to focus on their project particular needs instead of reinventing everything from the ground-up. (C) 2019 The Authors. Published by Elsevier Ltd.
+C1 [Camprodon, Guillem; Gonzalez, Oscar; Barberan, Victor; Smari, Viktor] IAAC Fab Lab Barcelona, Barcelona, Spain.
+RP Camprodon, G (corresponding author), IAAC Fab Lab Barcelona, Barcelona, Spain.
+EM guillem@iaac.net
+OI Camprodon, Guillem/0000-0002-3610-0009
+FU European CommunityEuropean Commission [H2020-SC5-04-2015, 689954];
+   iSCAPE project
+FX This work is led by IAAC Fab Lab Barcelona team under the framework of
+   iSCAPE (Improving Smart Control of Air Pollution in Europe) project,
+   which is funded by the European Community's H2020 Programme
+   (H2020-SC5-04-2015) under the Grant Agreement No. 689954. All the
+   authors acknowledge the funding received via iSCAPE project. We thank
+   all the iSCAPE project consortium partners that supported the
+   collocation of the sensors during the preliminary validation process. We
+   also thank all the Smart Citizen community that has been supporting the
+   project since 2012.
+NR 20
+TC 14
+Z9 14
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+EI 2468-0672
+J9 HARDWAREX
+JI HardwareX
+PD OCT
+PY 2019
+VL 6
+AR e00070
+DI 10.1016/j.ohx.2019.e00070
+PG 34
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation;
+   Materials Science, Multidisciplinary
+SC Engineering; Instruments & Instrumentation; Materials Science
+GA VJ9IW
+UT WOS:000646610000009
+OA Green Published, gold
+DA 2021-12-15
+ER
+
+PT J
+AU Kanabkaew, T
+   Mekbungwan, P
+   Raksakietisak, S
+   Kanchanasut, K
+AF Kanabkaew, Thongchai
+   Mekbungwan, Preechai
+   Raksakietisak, Sunee
+   Kanchanasut, Kanchana
+TI Detection of PM2.5 plume movement from IoT ground level monitoring data
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE PM2.5; Air pollution monitoring; Low-cost sensors; IoT sensors
+ID AIR-POLLUTION; PARTICULATE MATTER; FIELD-EVALUATION; BLACK CARBON;
+   QUALITY; EMISSIONS; SENSORS; MODIS; IDENTIFICATION; INVENTORY
+AB In this study, we analysed a data set from 10 low-cost PM2.5 sensors using the Internet of Things (IoT) for air quality monitoring in Mae Sot, which is one of the most vulnerable areas for high PM2.5 concentration in Thailand, during the 2018 burning season. Our objectives were to understand the nature of the plume movement and to investigate possibilities of adopting IoT sensors for near real-time forecasting of PM2.5 concentrations. Sensor data including PM2.5 and meteorological parameters (wind speed and direction) were collected online every 2 min where data were grouped into four zones and averaged every 15 min interval. Results of diurnal profile plot revealed that PM2.5 concentrations were high around early to late morning (3:00-9:00) and gradually reduced till the rest of the day. During the biomass burning period, maximum daily average concentration recorded by the sensors was 280 mu g/m(3) at Thai Samakkhi while the minimum was 13 mu g/m(3) at Mae Sot. Lag time concentrations, attributed by biomass burning (hot spots), significantly influenced the formation of PM2.5 while the disappearance of PM2.5 was found to be influenced by moderate wind speed. The PM2.5 concentrations of the next 15 min at the downwind zone (MG) were predicted using lag time concentrations with different wind categories. The next 15 min predictions of PM2.5 at MG were found to be mainly influenced by its lag time concentrations (MG_Lag); with higher wind speed, however, the lag time concentrations from the upwind zones (MS_Lag and TS_Lag) started to show more influence. From this study, we have found that low-cost IoT sensors provide not only real-time monitoring information but also demonstrate great potential as an effective tool to understand the PM2.5 plume movement with temporal variation and geo-specific location. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Kanabkaew, Thongchai] Mahidol Univ, Fac Publ Hlth, Bangkok, Thailand.
+   [Mekbungwan, Preechai; Kanchanasut, Kanchana] Asian Inst Technol, Internet Educ & Res Lab intERLab, Pathum Thani, Thailand.
+   [Mekbungwan, Preechai] Sorbonne Univ, LIP6, Paris, France.
+   [Raksakietisak, Sunee] TATSC, Bangkok, Thailand.
+RP Kanabkaew, T (corresponding author), Mahidol Univ, Fac Publ Hlth, Bangkok, Thailand.
+EM thongchai.kaa@mahidol.ac.th
+FU French Foreign Ministry
+FX We thank the STIC-ASIA SEA-HAZEMON Low-cost Real-time Monitoring of Haze
+   Air Quality Disasters in Rural Communities in Thailand and Southeast
+   Asia Project, sponsored by the French Foreign Ministry, for allowing us
+   to access valuable dataset from their loT project. We also would like to
+   show our appreciation to the Pollution Control Department (PCD) of the
+   Royal Thai Government for the reference dataset.
+NR 49
+TC 6
+Z9 6
+U1 3
+U2 22
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD SEP
+PY 2019
+VL 252
+BP 543
+EP 552
+DI 10.1016/j.envpol.2019.05.082
+PN A
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA IT6SQ
+UT WOS:000483005500057
+PM 31170566
+DA 2021-12-15
+ER
+
+EF
