@@ -1,6 +1,8 @@
 # Soc-IoT
 Soc-IoT is proposed as an environment monitoring framework that is a combination of two components. CoSense Unit, a modular and open-source environment sensing device that can provide consistent and accurate air quality data. The second core component of the framework is the exploreR application that is an open-source RShiny-based data analysis and visualization application. The application is designed to reduce the technological barriers especially related to programming and allow citizens as well as experts to analyze and interpret sensor data in a meaningful way. The complete framework is designed to create an innovative ecosystem that enables collaboration, sustainable practices, and inclusion to address the pressing issue of collaborative environmental sensing.
 
+For more details about the proposed framework, you can read the paper published in [Scientific Reports](https://www.nature.com/articles/s41598-022-18700-z).
+
 ## Getting Started
 The main source code is available within CoSense Unit folder and exploreR folder. Also, STL files are also provided in case the users want to replicate the design of the CoSense Unit. The design has been tested with several 3D printers using different material (PET, PLA). For best performance, it is recommended to use PLA for 3D printing. 
 Note: As this is a proof-of-concept, the source code, 3D design would be updated on a regular basis. 
