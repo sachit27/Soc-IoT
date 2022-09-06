@@ -1,8 +1,8 @@
 #Adapted from several sources including official Enviro+ source code, SPS30 source code
 
 import time
+import math
 from time import sleep
-import pandas as pd
 import datetime
 import csv
 import os
@@ -22,6 +22,7 @@ try:
 except ImportError:
     import ltr559
 
+import pandas as pd
 from bme280 import BME280
 from enviroplus import gas
 from subprocess import PIPE, Popen
@@ -35,7 +36,7 @@ import logging
 import ST7735
 from urllib.request import urlopen
 
-myAPI = 'XXXXXXXXXXXX'  #Add your ThingSpeak API key
+myAPI = '' #add your Thingspeak API key here
 baseURL = 'https://api.thingspeak.com/update?api_key=%s' % myAPI
 
 
@@ -52,7 +53,7 @@ st7735 = ST7735.ST7735(
     cs=1,
     dc=9,
     backlight=12,
-    rotation=270,
+    rotation=90,
     spi_speed_hz=10000000
 )
 
@@ -92,9 +93,9 @@ units = ["C",
          "hPa",
          "%",
          "Lux",
-         "kO",
-         "kO",
-         "kO",
+         "ppm",
+         "ppm",
+         "ppm",
          "ug/m3",
          "ug/m3",
          "ug/m3"]
@@ -102,9 +103,9 @@ limits = [[4, 18, 28, 35],
          [250, 950, 1015, 1080],
          [20, 30, 60, 70],
          [-1, -1, 30000, 100000],
-         [-1, -1, 40, 50],
-         [-1, -1, 450, 550],
-         [-1, -1, 200, 300],
+         [0.1, 0.3, 0.65, 1.24 ],
+         [4.4, 9.4, 15.4, 30.4],
+         [200, 400, 1200, 2000],
          [-1, -1, 50, 100],
          [-1, -1, 50, 100],
          [-1, -1, 50, 100]]
@@ -117,11 +118,29 @@ palette = [(0, 0, 255),           # Dangerously Low
           (255, 0, 0)]           # Dangerously High
 values = {}
 
-def get_cpu_temperature():
-        with open("/sys/class/thermal/thermal_zone0/temp", "r") as f:
-                temp = f.read()
-                temp = int(temp) / 1000.0
-        return temp
+def get_cpu_temperature() -> float:
+    """
+    Gets CPU temperature
+    :return: Float CPU temperature value
+    """
+    process = Popen(['vcgencmd', 'measure_temp'], stdout=PIPE, universal_newlines=True)
+    output, _error = process.communicate()
+    return float(output[output.index('=') + 1:output.rindex("'")])
+
+def get_compensated_temperature() -> float:
+    """
+    Temporary method compensating heat from CPU
+
+    :return: Float compensated temperature value
+    """
+    comp_factor = 2.0
+    cpu_temp = get_cpu_temperature()
+    raw_temp = bme280.get_temperature()
+    comp_temp = raw_temp - ((cpu_temp - raw_temp) / comp_factor)
+    comp_temp_adjusted = comp_temp - 2
+    return comp_temp_adjusted
+
+
 
 def save_data(idx, data):
     variable = variables[idx]
@@ -152,15 +171,15 @@ def display_everything():
 
 
 # Cycle the sensors once to stabalise readings
-cpu_temp = get_cpu_temperature()
-cpu_temps = [get_cpu_temperature()] * 5
-factor = 2.25
+#cpu_temp = get_cpu_temperature()
+#cpu_temps = [get_cpu_temperature()] * 5
+#factor = 2.25
 
 # Smooth out with some averaging to decrease jitter
-cpu_temps = cpu_temps[1:] + [cpu_temp]
-avg_cpu_temp = sum(cpu_temps) / float(len(cpu_temps))
-raw_temp = bme280.get_temperature()
-comp_temp = raw_temp - ((avg_cpu_temp - raw_temp) / factor)# Pressures
+#cpu_temps = cpu_temps[1:] + [cpu_temp]
+#avg_cpu_temp = sum(cpu_temps) / float(len(cpu_temps))
+#raw_temp = bme280.get_temperature()
+#comp_temp = raw_temp - ((avg_cpu_temp - raw_temp) / factor)# Pressures
 press_reading = bme280.get_pressure()
 
 # Humidity
@@ -173,10 +192,16 @@ for v in variables:
         values[v] = [1] * WIDTH
 
 # Gas Sensor
-data = gas.read_all()
-oxide_reading = data.oxidising / 1000
-reduc_reading = data.reducing / 1000
-nh3_reading = data.nh3 / 1000
+red_r0 = 200000
+ox_r0 = 20000
+nh3_r0 = 750000
+
+gas_data = gas.read_all()
+red_in_ppm = math.pow(10, -1.25 * math.log10(gas_data.reducing/red_r0) + 0.64)
+ox_in_ppm = math.pow(10, math.log10(gas_data.oxidising/ox_r0) - 0.8129)
+nh3_in_ppm = math.pow(10, -1.8 * math.log10(gas_data.nh3/nh3_r0) - 0.163)
+
+
 # PM sensor
 if sps.read_article_code() == sps.ARTICLE_CODE_ERROR:
     raise Exception("ARTICLE CODE CRC ERROR!")
@@ -200,6 +225,7 @@ else:
 sleep(3)
 sps.start_measurement()
 sleep(3)
+
 while not sps.read_data_ready_flag():
     sleep(0.25)
     if sps.read_data_ready_flag() == sps.DATA_READY_FLAG_ERROR:
@@ -221,7 +247,8 @@ def get_temp():
 def get_hum():
     """Get humidity from the weather sensor"""
     humidity = bme280.get_humidity()
-    return(humidity)
+    hum = humidity + 14.5
+    return(hum)
 
 def get_pm1():
     variable = "pm1"
@@ -244,55 +271,36 @@ def get_pm10():
     data = round((data),2)
     return(data)
 
-def get_co():
-    co = round((reduc_reading),2)
-    co = str(co)
-    return(co)
-
-def get_no2():
-    no = round((oxide_reading),2)
-    no = str(no)
-    return(no)
-
-def get_nh3():
-    nh = round((nh3_reading),2)
-    nh = str(nh)
-    return(nh)
-
-def date_now():
-    today = datetime.datetime.now().strftime("%Y-%m-%d")
-    today = str(today)
-    return(today)
 
 def time_now():
-    now = datetime.datetime.now().strftime("%H:%M:%S")
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     now = str(now)
     return(now)
 
-f = urlopen(baseURL + '&field1=%s&field2=%s&field3=%s&field4=%s&field5=%s&field6=%s&field7=%s&field8=%s' % (get_temp(), get_hum(), get_pm1(), get_pm25(), get_pm10(), get_co(), get_no2(), get_nh3()))
-f.read()
-f.close()
-
 def write_to_csv():
             # the a is for append, if w for write is used then it overwrites the file
-    with open('/home/pi/readings.csv', 'a') as readings:
-        values = pd.DataFrame([[date_now(), time_now(), raw_temp, get_hum(), get_pm1(), get_pm25(), get_pm10(), get_co(), get_no2(), get_nh3()]], columns=['Date', 'Time', 'Temperature', 'Humidity', 'PM1', 'PM2.5', 'PM10', 'CO', 'NO2', 'NH3'])
-        write_to_log = values.to_csv('readings.csv', mode='a', index=False, sep=',', header=True)
+    with open('/home/pi/new_readings.csv', 'a') as readings:
+        values = pd.DataFrame([[time_now(), get_compensated_temperature(), get_hum(), get_pm1(), get_pm25(), get_pm10(), red_in_ppm, ox_in_ppm, nh3_in_ppm]], columns=[ 'Time', 'Temperature', 'Humidity', 'PM1', 'PM2.5', 'PM10', 'CO', 'NO2', 'NH3'])
+        write_to_log = values.to_csv('new_readings.csv', mode='a', index=False, sep=',', header=True)
         return(write_to_log)
 
 write_to_csv()
 
-
 # Process data for Display
-save_data(0, comp_temp)
+save_data(0, get_compensated_temperature())
 save_data(1, press_reading)
 save_data(2, get_hum())
 save_data(3, light_reading)
-save_data(4, oxide_reading)
-save_data(5, reduc_reading)
-save_data(6, nh3_reading)
+save_data(4, ox_in_ppm)
+save_data(5, red_in_ppm)
+save_data(6, nh3_in_ppm)
 save_data(7, get_pm1())
 save_data(8, get_pm25())
 save_data(9, get_pm10())
 
 display_everything()
+
+f = urlopen(baseURL + '&field1=%s&field2=%s&field3=%s&field4=%s&field5=%s&field6=%s&field7=%s&field8=%s' % (get_compensated_temperature(), get_hum(), get_pm1(), get_pm25(), get_pm10(), ox_in_ppm, red_in_ppm, nh3_in_ppm))
+f.read()
+f.close()
+
