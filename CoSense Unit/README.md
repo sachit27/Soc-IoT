@@ -20,7 +20,7 @@ You can click on that and setup the WiFi connection.
 Once you have connected to the WiFi, you can use the terminal to create a connection with your Pi using SSH. Use the username and password that selected earlier while installing the OS to create a connection.
 Once the connection is made, use the following commands.
 
-1. sudo apt-get update
+```sudo apt-get update```
 2. sudo apt-get upgrade
 3. sudo apt-get install python3-dev python3-pip
 4. curl -sSL https://get.pimoroni.com/enviroplus | bash
