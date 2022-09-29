@@ -6,6 +6,7 @@
 5. [JST ZHR Cable for SPS30](https://www.sparkfun.com/products/15108)
 6. [Female header for connecting JST ZHR cable coming from SPS30 to Enviro Plus board](https://www.sparkfun.com/products/115)
 7. 3D printed case for the device. The [STL files](https://github.com/sachit27/Soc-IoT/tree/main/CoSense%20Unit/stl%20files) are available in the repository.
+8. [Power supply for Raspberry Pi](https://www.digikey.ch/de/products/detail/raspberry-pi/RPI%2520USB-C%2520POWER%2520SUPPLY%2520BLACK%2520EU/10258762?utm_adgroup=AC%20DC%20Desktop%2C%20Wall%20Adapters&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Power%20Supplies%20-%20External%2FInternal%20%28Off-Board%29%29&utm_term=&productid=10258762&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNs-Flrl3aNjrVcC_WfVP8yzEdqXtZj_x1LE9Q2Hj-jMKwd1s871pAhoCffAQAvD_BwE) 
 
 You will need to solder the Female header pins to the Enviro Plus GPIO. Not all the pins would be used. Only 5V, GND, GND, SCL and SDA would be used for connecting the SPS30 sensor. You can use the [wiring diagram](https://github.com/sachit27/Soc-IoT/blob/main/SPS30_Wiring.png) to add the connection.
 
