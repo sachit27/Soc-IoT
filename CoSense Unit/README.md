@@ -31,7 +31,7 @@ Once the connection is made, use the following commands.
 Note: Remember to enable the i2c by using "sudo raspi-config" and then changing the permissions.
 
 ### Running the program in Raspberry Pi
-Once the Raspberry Pi is setup, create a file for saving the Python code. You can use it by using the following command:
-# nano code.py #
-This will create
+Once the Raspberry Pi is setup, create a file for saving the Sensor code. You can use it by using the following command:
+'''nano code.py'''
+This will create a new file "code.py" where can add the main [Python code](https://github.com/sachit27/Soc-IoT/blob/main/CoSense%20Unit/sensor_code.py) that will run the sensors, save the data and transmit the data to the [ThingSpeak database](https://thingspeak.com/). Remember to create your channel and generate your API key first as you would need to update it in the code.
 
