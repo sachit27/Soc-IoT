@@ -36,4 +36,9 @@ Once the Raspberry Pi is setup, create a file for saving the Sensor code. You ca
 nano code.py
 ```
 This will create a new file "code.py" where can add the main [Python code](https://github.com/sachit27/Soc-IoT/blob/main/CoSense%20Unit/sensor_code.py) that will run the sensors, save the data and transmit the data to the [ThingSpeak database](https://thingspeak.com/). Remember to create your channel and generate your API key first as you would need to update it in the code.
+Once all the componets are assembled, you can test the setup by running this code
+```
+python3 code.py
+```
+If you get any error message, it could be either due to the network connection, weak wiring or a bug in the code. 
 
