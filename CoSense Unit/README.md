@@ -5,7 +5,7 @@
 4. 16 GB SD card (can be purchased from any vendor)
 5. [JST ZHR Cable for SPS30](https://www.sparkfun.com/products/15108)
 6. [Female header for connecting JST ZHR cable coming from SPS30 to Enviro Plus board](https://www.sparkfun.com/products/115)
-7. 3D printed case for the device. The STL files are available in the repository.
+7. 3D printed case for the device. The [STL files](https://github.com/sachit27/Soc-IoT/tree/main/CoSense%20Unit/stl%20files) are available in the repository.
 
 You will need to solder the Female header pins to the Enviro Plus GPIO. Not all the pins would be used. Only 5V, GND, GND, SCL and SDA would be used for connecting the SPS30 sensor. You can use the [wiring diagram](https://github.com/sachit27/Soc-IoT/blob/main/SPS30_Wiring.png) to add the connection.
 
