@@ -32,6 +32,6 @@ Note: Remember to enable the i2c by using "sudo raspi-config" and then changing 
 
 ### Running the program in Raspberry Pi
 Once the Raspberry Pi is setup, create a file for saving the Python code. You can use it by using the following command:
-##### nano code.py
+# nano code.py #
 This will create
 
