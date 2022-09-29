@@ -21,12 +21,18 @@ Once you have connected to the WiFi, you can use the terminal to create a connec
 Once the connection is made, use the following commands.
 
 ```sudo apt-get update```
-2. sudo apt-get upgrade
-3. sudo apt-get install python3-dev python3-pip
-4. curl -sSL https://get.pimoroni.com/enviroplus | bash
-5. pip3 install sps30
-6. pip3 install smbus2
-7. sudo apt-get install python3-pandas
+
+```sudo apt-get upgrade```
+
+```sudo apt-get install python3-dev python3-pip```
+
+```curl -sSL https://get.pimoroni.com/enviroplus | bash```
+
+```pip3 install sps30```
+
+```pip3 install smbus2```
+
+```sudo apt-get install python3-pandas```
 
 Note: Remember to enable the i2c by using "sudo raspi-config" and then changing the permissions.
 
