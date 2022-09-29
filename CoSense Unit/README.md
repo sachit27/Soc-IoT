@@ -1,10 +1,17 @@
 ### Hardware components for building Co-Sense Unit
 1. [Raspberry Pi Zero WH](https://thingspeak.com/channels/1328211)
 2. [Sensirion SPS 30](https://www.digikey.ch/de/products/detail/sensirion-ag/SPS30/9598990?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax:%20Smart%20Shopping_Product_Zombie%20SKU&utm_term=&productid=9598990&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNobWZCC9LTumIblpqT72Mplms0zE3mOhY61Uit1KO_4wqUNXLDBwfBoCV2IQAvD_BwE)
+3. [Enviro Plus](https://www.pi-shop.ch/enviro-for-raspberry-pi)
+4. 16 GB SD card (can be purchased from any vendor)
+5. [JST ZHR Cable for SPS30](https://www.sparkfun.com/products/15108)
+6. [Female header for connecting JST ZHR cable coming from SPS30 to Enviro Plus board](https://www.sparkfun.com/products/115)
+7. 3D printed case for the device. The STL files are available in the repository.
+
+You will need to solder the Female header pins to the Enviro Plus GPIO. Not all the pins would be used. Only 5V, GND, GND, SCL and SDA would be used for connecting the SPS30 sensor. You can use the [wiring diagram](https://github.com/sachit27/Soc-IoT/blob/main/SPS30_Wiring.png) to add the connection.
 
 ### Steps to setup your Raspberry Pi
 
-The first step is to install the OS in the SD card of your Pi using the Raspberry Pi Imager. You can either use the officia version of the OS or use custom images. For this prototype, we have used Comitup lite OS.
+The first step is to install the OS in the SD card of your Pi using the Raspberry Pi Imager. You can either use the officia version of the OS or use custom images. For this prototype, we have used [Comitup lite OS](http://davesteele.github.io/comitup/).
 Also, you can use the settings option in the Raspberry Pi Imager to predefine the username, password, set timezones and other functionalities. Once you have installed the OS, put the SD card back in your Pi. Once it reboots, you will see a WiFi network labelled "comitup-xxx" in your network options.
 You can click on that and setup the WiFi connection.
 
